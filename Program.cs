@@ -53,10 +53,12 @@ Console.WriteLine($"TOTAL CHANGE RATE (IN {xu100_hist.Count} YEARS): {xu100_hist
 Console.WriteLine();
 
 
-bool EXCLUDE_NEGATIVE_SUMS = true;
+const bool EXCLUDE_NEGATIVE_SUMS = true;
+const int MIN_GROUP_LEN = 2;
+const int MAX_GROUP_LEN = 10;
 
 
-for (int GROUP_LEN = 2; GROUP_LEN <= xu100_hist.Count / 2; GROUP_LEN++)
+for (int GROUP_LEN = MIN_GROUP_LEN; GROUP_LEN <= MAX_GROUP_LEN; GROUP_LEN++)
 {
     for (int START_INDEX = 0; START_INDEX < GROUP_LEN; START_INDEX++)
     {
@@ -72,7 +74,8 @@ for (int GROUP_LEN = 2; GROUP_LEN <= xu100_hist.Count / 2; GROUP_LEN++)
 
             var g_total = g_pairs.Values.Sum();
 
-            if (g_total <= 0)
+            if (g_pairs.Count < GROUP_LEN) break;
+            else if (g_total <= 0)
             {
                 hasNegativeSum = true;
                 break;
@@ -87,6 +90,7 @@ for (int GROUP_LEN = 2; GROUP_LEN <= xu100_hist.Count / 2; GROUP_LEN++)
         }
         else
         {
+            #region PRINTING GROUPS
             for (int i = START_INDEX; i < xu100_hist.Count; i += GROUP_LEN)
             {
                 Console.WriteLine("_______________________________________");
@@ -108,6 +112,7 @@ for (int GROUP_LEN = 2; GROUP_LEN <= xu100_hist.Count / 2; GROUP_LEN++)
                 Console.WriteLine($"sum: {g_total}%");
                 Console.WriteLine();
             }
+            #endregion
         }
     }
 }
