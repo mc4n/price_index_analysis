@@ -1,4 +1,8 @@
-﻿#region xu100_dict
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+#region xu100_dict
 var xu100_hist = new Dictionary<int, int>()
 {
     {1987,-3},
@@ -40,35 +44,70 @@ var xu100_hist = new Dictionary<int, int>()
 
     {2020,14},
     {2021,-12},
-    {2022, -33}
+    //{2022, -33}
 };
 #endregion
 
 
-Console.WriteLine($"total change rate (in {xu100_hist.Count} years): {xu100_hist.Values.Sum()}%");
+Console.WriteLine($"TOTAL CHANGE RATE (IN {xu100_hist.Count} YEARS): {xu100_hist.Values.Sum()}%");
 Console.WriteLine();
 
-const int GROUP_LEN = 4;
 
-const int START_INDEX = 0;
+bool EXCLUDE_NEGATIVE_SUMS = true;
 
+
+for (int GROUP_LEN = 2; GROUP_LEN <= xu100_hist.Count / 2; GROUP_LEN++)
 {
-    for (int i = START_INDEX; i < xu100_hist.Count; i += GROUP_LEN)
+    for (int START_INDEX = 0; START_INDEX < GROUP_LEN; START_INDEX++)
     {
-        System.Console.WriteLine("==========================================");
-        var g_pairs = xu100_hist.Skip(i).Take(GROUP_LEN).ToDictionary(x => x.Key, x => x.Value);
+        Console.WriteLine("############################################");
+        Console.WriteLine();
+        Console.WriteLine($"[GROUP_SIZE: {GROUP_LEN}; START_YEAR: {xu100_hist.Keys.ElementAt(START_INDEX)}]");
 
-        var g_total = g_pairs.Values.Sum();
+        bool hasNegativeSum = false;
 
-        System.Console.WriteLine("group-" + (i / GROUP_LEN + 1).ToString("00") + ":");
-
-        var sub_i = 0;
-        foreach (var kvp in g_pairs)
+        for (int i = START_INDEX; i < xu100_hist.Count; i += GROUP_LEN)
         {
-            sub_i++;
-            Console.WriteLine("{0}.year: {1} => change_rate: {2}%", sub_i, kvp.Key, kvp.Value);
+            var g_pairs = xu100_hist.Skip(i).Take(GROUP_LEN).ToDictionary(x => x.Key, x => x.Value);
+
+            var g_total = g_pairs.Values.Sum();
+
+            if (g_total <= 0)
+            {
+                hasNegativeSum = true;
+                break;
+            }
         }
 
-        System.Console.WriteLine($"sum: {g_total}");
+
+        if (EXCLUDE_NEGATIVE_SUMS && hasNegativeSum)
+        {
+            System.Console.WriteLine("<skipped>!");
+            Console.WriteLine();
+        }
+        else
+        {
+            for (int i = START_INDEX; i < xu100_hist.Count; i += GROUP_LEN)
+            {
+                Console.WriteLine("_______________________________________");
+                Console.WriteLine();
+
+                var g_pairs = xu100_hist.Skip(i).Take(GROUP_LEN).ToDictionary(x => x.Key, x => x.Value);
+
+                var g_total = g_pairs.Values.Sum();
+
+                Console.WriteLine("group-" + (i / GROUP_LEN + 1).ToString("00") + ":");
+
+                var sub_i = 0;
+                foreach (var kvp in g_pairs)
+                {
+                    sub_i++;
+                    Console.WriteLine("{0}.year: {1} => change_rate: {2}%", sub_i, kvp.Key, kvp.Value);
+                }
+
+                Console.WriteLine($"sum: {g_total}%");
+                Console.WriteLine();
+            }
+        }
     }
 }
