@@ -57,9 +57,12 @@ for (int i = START_INDEX; i < xu100_hist.Count; i += GROUP_LEN)
     var g_pairs = xu100_hist.Skip(i).Take(GROUP_LEN).ToDictionary(x => x.Key, x => x.Value); ;
 
     System.Console.WriteLine("group-" + (i / GROUP_LEN + 1));
+
+    var sub_i = 0;
     foreach (var kvp in g_pairs)
     {
-        Console.WriteLine("year: {0} => change: {1}", kvp.Key, kvp.Value);
+        sub_i++;
+        Console.WriteLine("{0}.year: {1} => change: {2}", sub_i, kvp.Key, kvp.Value);
     }
     System.Console.WriteLine($"sum: {g_pairs.Values.Sum()}");
     System.Console.WriteLine();
