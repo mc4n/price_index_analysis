@@ -1,0 +1,4407 @@
+
+####### GROUP_SIZE: 2; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+->accum: 137.74 try (in 2 years)
+
+=> ACCUM: 137.74 TRY (in 2 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+3.year: 1989 => growth: 251%
+4.year: 1990 => growth: -8%
+->accum: 322.92 try (in 2 years)
+
+=> ACCUM: 444.79 TRY (in 4 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+5.year: 1991 => growth: -22%
+6.year: 1992 => growth: -45%
+->accum: 42.9 try (in 2 years)
+
+=> ACCUM: 190.82 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+7.year: 1993 => growth: 202%
+8.year: 1994 => growth: -42%
+->accum: 175.16 try (in 2 years)
+
+=> ACCUM: 334.24 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+9.year: 1995 => growth: -18%
+10.year: 1996 => growth: 36%
+->accum: 111.52 try (in 2 years)
+
+=> ACCUM: 372.75 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+->accum: 78.32 try (in 2 years)
+
+=> ACCUM: 291.94 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+->accum: 156.15 try (in 2 years)
+
+=> ACCUM: 455.86 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+15.year: 2001 => growth: -13%
+16.year: 2002 => growth: -42%
+->accum: 50.46 try (in 2 years)
+
+=> ACCUM: 230.03 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-09]
+
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+->accum: 195.57 try (in 2 years)
+
+=> ACCUM: 449.87 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-10]
+
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+->accum: 133.2 try (in 2 years)
+
+=> ACCUM: 599.23 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-11]
+
+21.year: 2007 => growth: 31%
+22.year: 2008 => growth: -56%
+->accum: 57.64 try (in 2 years)
+
+=> ACCUM: 345.4 TRY (in 22 YEARS)
+
+_____________________________________
+
+[Group-12]
+
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+->accum: 216.45 try (in 2 years)
+
+=> ACCUM: 747.62 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-13]
+
+25.year: 2011 => growth: -30%
+26.year: 2012 => growth: 44%
+->accum: 100.8 try (in 2 years)
+
+=> ACCUM: 753.6 TRY (in 26 YEARS)
+
+_____________________________________
+
+[Group-14]
+
+27.year: 2013 => growth: -19%
+28.year: 2014 => growth: 17%
+->accum: 94.77 try (in 2 years)
+
+=> ACCUM: 714.19 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-15]
+
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+->accum: 77 try (in 2 years)
+
+=> ACCUM: 549.93 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-16]
+
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+->accum: 85.8 try (in 2 years)
+
+=> ACCUM: 471.84 TRY (in 32 YEARS)
+
+_____________________________________
+
+[Group-17]
+
+33.year: 2019 => growth: 13%
+34.year: 2020 => growth: 14%
+->accum: 128.82 try (in 2 years)
+
+=> ACCUM: 607.83 TRY (in 34 YEARS)
+
+_____________________________________
+
+[Group-18]
+
+35.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 2; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+->accum: 498.42 try (in 2 years)
+
+=> ACCUM: 498.42 TRY (in 2 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+3.year: 1990 => growth: -8%
+4.year: 1991 => growth: -22%
+->accum: 71.76 try (in 2 years)
+
+=> ACCUM: 357.67 TRY (in 4 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+5.year: 1992 => growth: -45%
+6.year: 1993 => growth: 202%
+->accum: 166.1 try (in 2 years)
+
+=> ACCUM: 594.09 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+7.year: 1994 => growth: -42%
+8.year: 1995 => growth: -18%
+->accum: 47.56 try (in 2 years)
+
+=> ACCUM: 282.55 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+9.year: 1996 => growth: 36%
+10.year: 1997 => growth: 78%
+->accum: 242.08 try (in 2 years)
+
+=> ACCUM: 684 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+->accum: 152.68 try (in 2 years)
+
+=> ACCUM: 1044.33 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+->accum: 39.15 try (in 2 years)
+
+=> ACCUM: 408.86 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+15.year: 2002 => growth: -42%
+16.year: 2003 => growth: 59%
+->accum: 92.22 try (in 2 years)
+
+=> ACCUM: 377.05 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-09]
+
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+->accum: 182.04 try (in 2 years)
+
+=> ACCUM: 686.38 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-10]
+
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+->accum: 117.9 try (in 2 years)
+
+=> ACCUM: 809.24 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-11]
+
+21.year: 2008 => growth: -56%
+22.year: 2009 => growth: 85%
+->accum: 81.4 try (in 2 years)
+
+=> ACCUM: 658.73 TRY (in 22 YEARS)
+
+_____________________________________
+
+[Group-12]
+
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+->accum: 81.9 try (in 2 years)
+
+=> ACCUM: 539.5 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-13]
+
+25.year: 2012 => growth: 44%
+26.year: 2013 => growth: -19%
+->accum: 116.64 try (in 2 years)
+
+=> ACCUM: 629.27 TRY (in 26 YEARS)
+
+_____________________________________
+
+[Group-14]
+
+27.year: 2014 => growth: 17%
+28.year: 2015 => growth: -23%
+->accum: 90.09 try (in 2 years)
+
+=> ACCUM: 566.91 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-15]
+
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+->accum: 132 try (in 2 years)
+
+=> ACCUM: 748.32 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-16]
+
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+->accum: 73.45 try (in 2 years)
+
+=> ACCUM: 549.64 TRY (in 32 YEARS)
+
+_____________________________________
+
+[Group-17]
+
+33.year: 2020 => growth: 14%
+34.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 3; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+3.year: 1989 => growth: 251%
+->accum: 483.47 try (in 3 years)
+
+=> ACCUM: 483.47 TRY (in 3 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+4.year: 1990 => growth: -8%
+5.year: 1991 => growth: -22%
+6.year: 1992 => growth: -45%
+->accum: 39.47 try (in 3 years)
+
+=> ACCUM: 190.82 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+7.year: 1993 => growth: 202%
+8.year: 1994 => growth: -42%
+9.year: 1995 => growth: -18%
+->accum: 143.63 try (in 3 years)
+
+=> ACCUM: 274.08 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+10.year: 1996 => growth: 36%
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+->accum: 106.52 try (in 3 years)
+
+=> ACCUM: 291.94 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+15.year: 2001 => growth: -13%
+->accum: 135.85 try (in 3 years)
+
+=> ACCUM: 396.6 TRY (in 15 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+16.year: 2002 => growth: -42%
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+->accum: 113.43 try (in 3 years)
+
+=> ACCUM: 449.87 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+21.year: 2007 => growth: 31%
+->accum: 174.49 try (in 3 years)
+
+=> ACCUM: 784.99 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+22.year: 2008 => growth: -56%
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+->accum: 95.24 try (in 3 years)
+
+=> ACCUM: 747.62 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-09]
+
+25.year: 2011 => growth: -30%
+26.year: 2012 => growth: 44%
+27.year: 2013 => growth: -19%
+->accum: 81.65 try (in 3 years)
+
+=> ACCUM: 610.42 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-10]
+
+28.year: 2014 => growth: 17%
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+->accum: 90.09 try (in 3 years)
+
+=> ACCUM: 549.93 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-11]
+
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+33.year: 2019 => growth: 13%
+->accum: 96.95 try (in 3 years)
+
+=> ACCUM: 533.18 TRY (in 33 YEARS)
+
+_____________________________________
+
+[Group-12]
+
+34.year: 2020 => growth: 14%
+35.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 3; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+3.year: 1990 => growth: -8%
+->accum: 458.55 try (in 3 years)
+
+=> ACCUM: 458.55 TRY (in 3 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+4.year: 1991 => growth: -22%
+5.year: 1992 => growth: -45%
+6.year: 1993 => growth: 202%
+->accum: 129.56 try (in 3 years)
+
+=> ACCUM: 594.09 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+7.year: 1994 => growth: -42%
+8.year: 1995 => growth: -18%
+9.year: 1996 => growth: 36%
+->accum: 64.68 try (in 3 years)
+
+=> ACCUM: 384.27 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+10.year: 1997 => growth: 78%
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+->accum: 271.77 try (in 3 years)
+
+=> ACCUM: 1044.33 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+15.year: 2002 => growth: -42%
+->accum: 22.71 try (in 3 years)
+
+=> ACCUM: 237.14 TRY (in 15 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+16.year: 2003 => growth: 59%
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+->accum: 289.44 try (in 3 years)
+
+=> ACCUM: 686.38 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+21.year: 2008 => growth: -56%
+->accum: 51.88 try (in 3 years)
+
+=> ACCUM: 356.07 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+22.year: 2009 => growth: 85%
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+->accum: 151.51 try (in 3 years)
+
+=> ACCUM: 539.5 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-09]
+
+25.year: 2012 => growth: 44%
+26.year: 2013 => growth: -19%
+27.year: 2014 => growth: 17%
+->accum: 136.47 try (in 3 years)
+
+=> ACCUM: 736.25 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-10]
+
+28.year: 2015 => growth: -23%
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+->accum: 101.64 try (in 3 years)
+
+=> ACCUM: 748.32 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-11]
+
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+33.year: 2020 => growth: 14%
+->accum: 83.73 try (in 3 years)
+
+=> ACCUM: 626.59 TRY (in 33 YEARS)
+
+_____________________________________
+
+[Group-12]
+
+34.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 3; START_YEAR: 1989 #######
+
+[Group-01]
+
+1.year: 1989 => growth: 251%
+2.year: 1990 => growth: -8%
+3.year: 1991 => growth: -22%
+->accum: 251.88 try (in 3 years)
+
+=> ACCUM: 251.88 TRY (in 3 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+4.year: 1992 => growth: -45%
+5.year: 1993 => growth: 202%
+6.year: 1994 => growth: -42%
+->accum: 96.34 try (in 3 years)
+
+=> ACCUM: 242.65 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+7.year: 1995 => growth: -18%
+8.year: 1996 => growth: 36%
+9.year: 1997 => growth: 78%
+->accum: 198.51 try (in 3 years)
+
+=> ACCUM: 481.67 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+10.year: 1998 => growth: -56%
+11.year: 1999 => growth: 247%
+12.year: 2000 => growth: -55%
+->accum: 68.71 try (in 3 years)
+
+=> ACCUM: 330.93 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+13.year: 2001 => growth: -13%
+14.year: 2002 => growth: -42%
+15.year: 2003 => growth: 59%
+->accum: 80.23 try (in 3 years)
+
+=> ACCUM: 265.51 TRY (in 15 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+16.year: 2004 => growth: 23%
+17.year: 2005 => growth: 48%
+18.year: 2006 => growth: -10%
+->accum: 163.84 try (in 3 years)
+
+=> ACCUM: 435.01 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+19.year: 2007 => growth: 31%
+20.year: 2008 => growth: -56%
+21.year: 2009 => growth: 85%
+->accum: 106.63 try (in 3 years)
+
+=> ACCUM: 463.87 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+22.year: 2010 => growth: 17%
+23.year: 2011 => growth: -30%
+24.year: 2012 => growth: 44%
+->accum: 117.94 try (in 3 years)
+
+=> ACCUM: 547.07 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-09]
+
+25.year: 2013 => growth: -19%
+26.year: 2014 => growth: 17%
+27.year: 2015 => growth: -23%
+->accum: 72.97 try (in 3 years)
+
+=> ACCUM: 399.21 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-10]
+
+28.year: 2016 => growth: 0%
+29.year: 2017 => growth: 32%
+30.year: 2018 => growth: -35%
+->accum: 85.8 try (in 3 years)
+
+=> ACCUM: 342.52 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-11]
+
+31.year: 2019 => growth: 13%
+32.year: 2020 => growth: 14%
+33.year: 2021 => growth: -12%
+->accum: 113.36 try (in 3 years)
+
+=> ACCUM: 388.29 TRY (in 33 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 4; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+3.year: 1989 => growth: 251%
+4.year: 1990 => growth: -8%
+->accum: 444.79 try (in 4 years)
+
+=> ACCUM: 444.79 TRY (in 4 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+5.year: 1991 => growth: -22%
+6.year: 1992 => growth: -45%
+7.year: 1993 => growth: 202%
+8.year: 1994 => growth: -42%
+->accum: 75.14 try (in 4 years)
+
+=> ACCUM: 334.24 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+9.year: 1995 => growth: -18%
+10.year: 1996 => growth: 36%
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+->accum: 87.34 try (in 4 years)
+
+=> ACCUM: 291.94 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+15.year: 2001 => growth: -13%
+16.year: 2002 => growth: -42%
+->accum: 78.79 try (in 4 years)
+
+=> ACCUM: 230.03 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+->accum: 260.5 try (in 4 years)
+
+=> ACCUM: 599.23 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+21.year: 2007 => growth: 31%
+22.year: 2008 => growth: -56%
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+->accum: 124.76 try (in 4 years)
+
+=> ACCUM: 747.62 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+25.year: 2011 => growth: -30%
+26.year: 2012 => growth: 44%
+27.year: 2013 => growth: -19%
+28.year: 2014 => growth: 17%
+->accum: 95.53 try (in 4 years)
+
+=> ACCUM: 714.19 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+->accum: 66.07 try (in 4 years)
+
+=> ACCUM: 471.84 TRY (in 32 YEARS)
+
+_____________________________________
+
+[Group-09]
+
+33.year: 2019 => growth: 13%
+34.year: 2020 => growth: 14%
+35.year: 2021 => growth: -12%
+->accum: 113.36 try (in 3 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 4; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+3.year: 1990 => growth: -8%
+4.year: 1991 => growth: -22%
+->accum: 357.67 try (in 4 years)
+
+=> ACCUM: 357.67 TRY (in 4 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+5.year: 1992 => growth: -45%
+6.year: 1993 => growth: 202%
+7.year: 1994 => growth: -42%
+8.year: 1995 => growth: -18%
+->accum: 79 try (in 4 years)
+
+=> ACCUM: 282.55 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+9.year: 1996 => growth: 36%
+10.year: 1997 => growth: 78%
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+->accum: 369.62 try (in 4 years)
+
+=> ACCUM: 1044.33 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+15.year: 2002 => growth: -42%
+16.year: 2003 => growth: 59%
+->accum: 36.11 try (in 4 years)
+
+=> ACCUM: 377.05 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+->accum: 214.63 try (in 4 years)
+
+=> ACCUM: 809.24 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+21.year: 2008 => growth: -56%
+22.year: 2009 => growth: 85%
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+->accum: 66.67 try (in 4 years)
+
+=> ACCUM: 539.5 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+25.year: 2012 => growth: 44%
+26.year: 2013 => growth: -19%
+27.year: 2014 => growth: 17%
+28.year: 2015 => growth: -23%
+->accum: 105.08 try (in 4 years)
+
+=> ACCUM: 566.91 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+->accum: 96.95 try (in 4 years)
+
+=> ACCUM: 549.64 TRY (in 32 YEARS)
+
+_____________________________________
+
+[Group-09]
+
+33.year: 2020 => growth: 14%
+34.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 4; START_YEAR: 1989 #######
+
+[Group-01]
+
+1.year: 1989 => growth: 251%
+2.year: 1990 => growth: -8%
+3.year: 1991 => growth: -22%
+4.year: 1992 => growth: -45%
+->accum: 138.53 try (in 4 years)
+
+=> ACCUM: 138.53 TRY (in 4 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+5.year: 1993 => growth: 202%
+6.year: 1994 => growth: -42%
+7.year: 1995 => growth: -18%
+8.year: 1996 => growth: 36%
+->accum: 195.34 try (in 4 years)
+
+=> ACCUM: 270.6 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+9.year: 1997 => growth: 78%
+10.year: 1998 => growth: -56%
+11.year: 1999 => growth: 247%
+12.year: 2000 => growth: -55%
+->accum: 122.3 try (in 4 years)
+
+=> ACCUM: 330.93 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+13.year: 2001 => growth: -13%
+14.year: 2002 => growth: -42%
+15.year: 2003 => growth: 59%
+16.year: 2004 => growth: 23%
+->accum: 98.68 try (in 4 years)
+
+=> ACCUM: 326.58 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+17.year: 2005 => growth: 48%
+18.year: 2006 => growth: -10%
+19.year: 2007 => growth: 31%
+20.year: 2008 => growth: -56%
+->accum: 76.78 try (in 4 years)
+
+=> ACCUM: 250.74 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+21.year: 2009 => growth: 85%
+22.year: 2010 => growth: 17%
+23.year: 2011 => growth: -30%
+24.year: 2012 => growth: 44%
+->accum: 218.17 try (in 4 years)
+
+=> ACCUM: 547.07 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+25.year: 2013 => growth: -19%
+26.year: 2014 => growth: 17%
+27.year: 2015 => growth: -23%
+28.year: 2016 => growth: 0%
+->accum: 72.97 try (in 4 years)
+
+=> ACCUM: 399.21 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+29.year: 2017 => growth: 32%
+30.year: 2018 => growth: -35%
+31.year: 2019 => growth: 13%
+32.year: 2020 => growth: 14%
+->accum: 110.52 try (in 4 years)
+
+=> ACCUM: 441.24 TRY (in 32 YEARS)
+
+_____________________________________
+
+[Group-09]
+
+33.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 388.29 TRY (in 33 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 4; START_YEAR: 1990 #######
+
+[Group-01]
+
+1.year: 1990 => growth: -8%
+2.year: 1991 => growth: -22%
+3.year: 1992 => growth: -45%
+4.year: 1993 => growth: 202%
+->accum: 119.2 try (in 4 years)
+
+=> ACCUM: 119.2 TRY (in 4 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+5.year: 1994 => growth: -42%
+6.year: 1995 => growth: -18%
+7.year: 1996 => growth: 36%
+8.year: 1997 => growth: 78%
+->accum: 115.13 try (in 4 years)
+
+=> ACCUM: 137.24 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+9.year: 1998 => growth: -56%
+10.year: 1999 => growth: 247%
+11.year: 2000 => growth: -55%
+12.year: 2001 => growth: -13%
+->accum: 59.78 try (in 4 years)
+
+=> ACCUM: 82.04 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+13.year: 2002 => growth: -42%
+14.year: 2003 => growth: 59%
+15.year: 2004 => growth: 23%
+16.year: 2005 => growth: 48%
+->accum: 167.88 try (in 4 years)
+
+=> ACCUM: 137.71 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+17.year: 2006 => growth: -10%
+18.year: 2007 => growth: 31%
+19.year: 2008 => growth: -56%
+20.year: 2009 => growth: 85%
+->accum: 95.98 try (in 4 years)
+
+=> ACCUM: 132.16 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+21.year: 2010 => growth: 17%
+22.year: 2011 => growth: -30%
+23.year: 2012 => growth: 44%
+24.year: 2013 => growth: -19%
+->accum: 95.53 try (in 4 years)
+
+=> ACCUM: 126.25 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+25.year: 2014 => growth: 17%
+26.year: 2015 => growth: -23%
+27.year: 2016 => growth: 0%
+28.year: 2017 => growth: 32%
+->accum: 118.92 try (in 4 years)
+
+=> ACCUM: 150.14 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-08]
+
+29.year: 2018 => growth: -35%
+30.year: 2019 => growth: 13%
+31.year: 2020 => growth: 14%
+32.year: 2021 => growth: -12%
+->accum: 73.68 try (in 4 years)
+
+=> ACCUM: 110.63 TRY (in 32 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 5; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+3.year: 1989 => growth: 251%
+4.year: 1990 => growth: -8%
+5.year: 1991 => growth: -22%
+->accum: 346.94 try (in 5 years)
+
+=> ACCUM: 346.94 TRY (in 5 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+6.year: 1992 => growth: -45%
+7.year: 1993 => growth: 202%
+8.year: 1994 => growth: -42%
+9.year: 1995 => growth: -18%
+10.year: 1996 => growth: 36%
+->accum: 107.44 try (in 5 years)
+
+=> ACCUM: 372.75 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+15.year: 2001 => growth: -13%
+->accum: 106.4 try (in 5 years)
+
+=> ACCUM: 396.6 TRY (in 15 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+16.year: 2002 => growth: -42%
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+->accum: 151.09 try (in 5 years)
+
+=> ACCUM: 599.23 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+21.year: 2007 => growth: 31%
+22.year: 2008 => growth: -56%
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+25.year: 2011 => growth: -30%
+->accum: 87.33 try (in 5 years)
+
+=> ACCUM: 523.33 TRY (in 25 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+26.year: 2012 => growth: 44%
+27.year: 2013 => growth: -19%
+28.year: 2014 => growth: 17%
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+->accum: 105.08 try (in 5 years)
+
+=> ACCUM: 549.93 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+33.year: 2019 => growth: 13%
+34.year: 2020 => growth: 14%
+35.year: 2021 => growth: -12%
+->accum: 97.26 try (in 5 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 5; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+3.year: 1990 => growth: -8%
+4.year: 1991 => growth: -22%
+5.year: 1992 => growth: -45%
+->accum: 196.72 try (in 5 years)
+
+=> ACCUM: 196.72 TRY (in 5 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+6.year: 1993 => growth: 202%
+7.year: 1994 => growth: -42%
+8.year: 1995 => growth: -18%
+9.year: 1996 => growth: 36%
+10.year: 1997 => growth: 78%
+->accum: 347.71 try (in 5 years)
+
+=> ACCUM: 684 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+15.year: 2002 => growth: -42%
+->accum: 34.67 try (in 5 years)
+
+=> ACCUM: 237.14 TRY (in 15 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+16.year: 2003 => growth: 59%
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+->accum: 341.26 try (in 5 years)
+
+=> ACCUM: 809.24 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+21.year: 2008 => growth: -56%
+22.year: 2009 => growth: 85%
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+25.year: 2012 => growth: 44%
+->accum: 96 try (in 5 years)
+
+=> ACCUM: 776.88 TRY (in 25 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+26.year: 2013 => growth: -19%
+27.year: 2014 => growth: 17%
+28.year: 2015 => growth: -23%
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+->accum: 96.32 try (in 5 years)
+
+=> ACCUM: 748.32 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+33.year: 2020 => growth: 14%
+34.year: 2021 => growth: -12%
+->accum: 73.68 try (in 4 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 5; START_YEAR: 1989 #######
+
+[Group-01]
+
+1.year: 1989 => growth: 251%
+2.year: 1990 => growth: -8%
+3.year: 1991 => growth: -22%
+4.year: 1992 => growth: -45%
+5.year: 1993 => growth: 202%
+->accum: 418.36 try (in 5 years)
+
+=> ACCUM: 418.36 TRY (in 5 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+6.year: 1994 => growth: -42%
+7.year: 1995 => growth: -18%
+8.year: 1996 => growth: 36%
+9.year: 1997 => growth: 78%
+10.year: 1998 => growth: -56%
+->accum: 50.66 try (in 5 years)
+
+=> ACCUM: 211.93 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+11.year: 1999 => growth: 247%
+12.year: 2000 => growth: -55%
+13.year: 2001 => growth: -13%
+14.year: 2002 => growth: -42%
+15.year: 2003 => growth: 59%
+->accum: 125.28 try (in 5 years)
+
+=> ACCUM: 265.51 TRY (in 15 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+16.year: 2004 => growth: 23%
+17.year: 2005 => growth: 48%
+18.year: 2006 => growth: -10%
+19.year: 2007 => growth: 31%
+20.year: 2008 => growth: -56%
+->accum: 94.44 try (in 5 years)
+
+=> ACCUM: 250.74 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+21.year: 2009 => growth: 85%
+22.year: 2010 => growth: 17%
+23.year: 2011 => growth: -30%
+24.year: 2012 => growth: 44%
+25.year: 2013 => growth: -19%
+->accum: 176.72 try (in 5 years)
+
+=> ACCUM: 443.13 TRY (in 25 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+26.year: 2014 => growth: 17%
+27.year: 2015 => growth: -23%
+28.year: 2016 => growth: 0%
+29.year: 2017 => growth: 32%
+30.year: 2018 => growth: -35%
+->accum: 77.3 try (in 5 years)
+
+=> ACCUM: 342.52 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+31.year: 2019 => growth: 13%
+32.year: 2020 => growth: 14%
+33.year: 2021 => growth: -12%
+->accum: 113.36 try (in 3 years)
+
+=> ACCUM: 388.29 TRY (in 33 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 5; START_YEAR: 1990 #######
+
+[Group-01]
+
+1.year: 1990 => growth: -8%
+2.year: 1991 => growth: -22%
+3.year: 1992 => growth: -45%
+4.year: 1993 => growth: 202%
+5.year: 1994 => growth: -42%
+->accum: 69.14 try (in 5 years)
+
+=> ACCUM: 69.14 TRY (in 5 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+6.year: 1995 => growth: -18%
+7.year: 1996 => growth: 36%
+8.year: 1997 => growth: 78%
+9.year: 1998 => growth: -56%
+10.year: 1999 => growth: 247%
+->accum: 303.07 try (in 5 years)
+
+=> ACCUM: 209.55 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+11.year: 2000 => growth: -55%
+12.year: 2001 => growth: -13%
+13.year: 2002 => growth: -42%
+14.year: 2003 => growth: 59%
+15.year: 2004 => growth: 23%
+->accum: 44.42 try (in 5 years)
+
+=> ACCUM: 93.05 TRY (in 15 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+16.year: 2005 => growth: 48%
+17.year: 2006 => growth: -10%
+18.year: 2007 => growth: 31%
+19.year: 2008 => growth: -56%
+20.year: 2009 => growth: 85%
+->accum: 142.04 try (in 5 years)
+
+=> ACCUM: 132.16 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+21.year: 2010 => growth: 17%
+22.year: 2011 => growth: -30%
+23.year: 2012 => growth: 44%
+24.year: 2013 => growth: -19%
+25.year: 2014 => growth: 17%
+->accum: 111.77 try (in 5 years)
+
+=> ACCUM: 147.71 TRY (in 25 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+26.year: 2015 => growth: -23%
+27.year: 2016 => growth: 0%
+28.year: 2017 => growth: 32%
+29.year: 2018 => growth: -35%
+30.year: 2019 => growth: 13%
+->accum: 74.66 try (in 5 years)
+
+=> ACCUM: 110.28 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+31.year: 2020 => growth: 14%
+32.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 110.63 TRY (in 32 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 5; START_YEAR: 1991 #######
+
+[Group-01]
+
+1.year: 1991 => growth: -22%
+2.year: 1992 => growth: -45%
+3.year: 1993 => growth: 202%
+4.year: 1994 => growth: -42%
+5.year: 1995 => growth: -18%
+->accum: 61.61 try (in 5 years)
+
+=> ACCUM: 61.61 TRY (in 5 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+6.year: 1996 => growth: 36%
+7.year: 1997 => growth: 78%
+8.year: 1998 => growth: -56%
+9.year: 1999 => growth: 247%
+10.year: 2000 => growth: -55%
+->accum: 166.33 try (in 5 years)
+
+=> ACCUM: 102.48 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+11.year: 2001 => growth: -13%
+12.year: 2002 => growth: -42%
+13.year: 2003 => growth: 59%
+14.year: 2004 => growth: 23%
+15.year: 2005 => growth: 48%
+->accum: 146.05 try (in 5 years)
+
+=> ACCUM: 149.67 TRY (in 15 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+16.year: 2006 => growth: -10%
+17.year: 2007 => growth: 31%
+18.year: 2008 => growth: -56%
+19.year: 2009 => growth: 85%
+20.year: 2010 => growth: 17%
+->accum: 112.3 try (in 5 years)
+
+=> ACCUM: 168.05 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+21.year: 2011 => growth: -30%
+22.year: 2012 => growth: 44%
+23.year: 2013 => growth: -19%
+24.year: 2014 => growth: 17%
+25.year: 2015 => growth: -23%
+->accum: 73.56 try (in 5 years)
+
+=> ACCUM: 123.62 TRY (in 25 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+26.year: 2016 => growth: 0%
+27.year: 2017 => growth: 32%
+28.year: 2018 => growth: -35%
+29.year: 2019 => growth: 13%
+30.year: 2020 => growth: 14%
+->accum: 110.52 try (in 5 years)
+
+=> ACCUM: 136.64 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-07]
+
+31.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 120.24 TRY (in 31 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 6; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+3.year: 1989 => growth: 251%
+4.year: 1990 => growth: -8%
+5.year: 1991 => growth: -22%
+6.year: 1992 => growth: -45%
+->accum: 190.82 try (in 6 years)
+
+=> ACCUM: 190.82 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+7.year: 1993 => growth: 202%
+8.year: 1994 => growth: -42%
+9.year: 1995 => growth: -18%
+10.year: 1996 => growth: 36%
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+->accum: 152.99 try (in 6 years)
+
+=> ACCUM: 291.94 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+15.year: 2001 => growth: -13%
+16.year: 2002 => growth: -42%
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+->accum: 154.09 try (in 6 years)
+
+=> ACCUM: 449.87 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+21.year: 2007 => growth: 31%
+22.year: 2008 => growth: -56%
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+->accum: 166.19 try (in 6 years)
+
+=> ACCUM: 747.62 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+25.year: 2011 => growth: -30%
+26.year: 2012 => growth: 44%
+27.year: 2013 => growth: -19%
+28.year: 2014 => growth: 17%
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+->accum: 73.56 try (in 6 years)
+
+=> ACCUM: 549.93 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+33.year: 2019 => growth: 13%
+34.year: 2020 => growth: 14%
+35.year: 2021 => growth: -12%
+->accum: 97.26 try (in 5 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 6; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+3.year: 1990 => growth: -8%
+4.year: 1991 => growth: -22%
+5.year: 1992 => growth: -45%
+6.year: 1993 => growth: 202%
+->accum: 594.09 try (in 6 years)
+
+=> ACCUM: 594.09 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+7.year: 1994 => growth: -42%
+8.year: 1995 => growth: -18%
+9.year: 1996 => growth: 36%
+10.year: 1997 => growth: 78%
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+->accum: 175.79 try (in 6 years)
+
+=> ACCUM: 1044.33 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+15.year: 2002 => growth: -42%
+16.year: 2003 => growth: 59%
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+->accum: 65.74 try (in 6 years)
+
+=> ACCUM: 686.38 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+21.year: 2008 => growth: -56%
+22.year: 2009 => growth: 85%
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+->accum: 78.61 try (in 6 years)
+
+=> ACCUM: 539.5 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+25.year: 2012 => growth: 44%
+26.year: 2013 => growth: -19%
+27.year: 2014 => growth: 17%
+28.year: 2015 => growth: -23%
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+->accum: 138.71 try (in 6 years)
+
+=> ACCUM: 748.32 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+33.year: 2020 => growth: 14%
+34.year: 2021 => growth: -12%
+->accum: 73.68 try (in 4 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 6; START_YEAR: 1989 #######
+
+[Group-01]
+
+1.year: 1989 => growth: 251%
+2.year: 1990 => growth: -8%
+3.year: 1991 => growth: -22%
+4.year: 1992 => growth: -45%
+5.year: 1993 => growth: 202%
+6.year: 1994 => growth: -42%
+->accum: 242.65 try (in 6 years)
+
+=> ACCUM: 242.65 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+7.year: 1995 => growth: -18%
+8.year: 1996 => growth: 36%
+9.year: 1997 => growth: 78%
+10.year: 1998 => growth: -56%
+11.year: 1999 => growth: 247%
+12.year: 2000 => growth: -55%
+->accum: 136.38 try (in 6 years)
+
+=> ACCUM: 330.93 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+13.year: 2001 => growth: -13%
+14.year: 2002 => growth: -42%
+15.year: 2003 => growth: 59%
+16.year: 2004 => growth: 23%
+17.year: 2005 => growth: 48%
+18.year: 2006 => growth: -10%
+->accum: 131.45 try (in 6 years)
+
+=> ACCUM: 435.01 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+19.year: 2007 => growth: 31%
+20.year: 2008 => growth: -56%
+21.year: 2009 => growth: 85%
+22.year: 2010 => growth: 17%
+23.year: 2011 => growth: -30%
+24.year: 2012 => growth: 44%
+->accum: 125.76 try (in 6 years)
+
+=> ACCUM: 547.07 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+25.year: 2013 => growth: -19%
+26.year: 2014 => growth: 17%
+27.year: 2015 => growth: -23%
+28.year: 2016 => growth: 0%
+29.year: 2017 => growth: 32%
+30.year: 2018 => growth: -35%
+->accum: 62.61 try (in 6 years)
+
+=> ACCUM: 342.52 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+31.year: 2019 => growth: 13%
+32.year: 2020 => growth: 14%
+33.year: 2021 => growth: -12%
+->accum: 113.36 try (in 3 years)
+
+=> ACCUM: 388.29 TRY (in 33 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 6; START_YEAR: 1990 #######
+
+[Group-01]
+
+1.year: 1990 => growth: -8%
+2.year: 1991 => growth: -22%
+3.year: 1992 => growth: -45%
+4.year: 1993 => growth: 202%
+5.year: 1994 => growth: -42%
+6.year: 1995 => growth: -18%
+->accum: 56.69 try (in 6 years)
+
+=> ACCUM: 56.69 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+7.year: 1996 => growth: 36%
+8.year: 1997 => growth: 78%
+9.year: 1998 => growth: -56%
+10.year: 1999 => growth: 247%
+11.year: 2000 => growth: -55%
+12.year: 2001 => growth: -13%
+->accum: 144.71 try (in 6 years)
+
+=> ACCUM: 82.04 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+13.year: 2002 => growth: -42%
+14.year: 2003 => growth: 59%
+15.year: 2004 => growth: 23%
+16.year: 2005 => growth: 48%
+17.year: 2006 => growth: -10%
+18.year: 2007 => growth: 31%
+->accum: 197.93 try (in 6 years)
+
+=> ACCUM: 162.36 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+19.year: 2008 => growth: -56%
+20.year: 2009 => growth: 85%
+21.year: 2010 => growth: 17%
+22.year: 2011 => growth: -30%
+23.year: 2012 => growth: 44%
+24.year: 2013 => growth: -19%
+->accum: 77.76 try (in 6 years)
+
+=> ACCUM: 126.25 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+25.year: 2014 => growth: 17%
+26.year: 2015 => growth: -23%
+27.year: 2016 => growth: 0%
+28.year: 2017 => growth: 32%
+29.year: 2018 => growth: -35%
+30.year: 2019 => growth: 13%
+->accum: 87.35 try (in 6 years)
+
+=> ACCUM: 110.28 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+31.year: 2020 => growth: 14%
+32.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 110.63 TRY (in 32 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 6; START_YEAR: 1991 #######
+
+[Group-01]
+
+1.year: 1991 => growth: -22%
+2.year: 1992 => growth: -45%
+3.year: 1993 => growth: 202%
+4.year: 1994 => growth: -42%
+5.year: 1995 => growth: -18%
+6.year: 1996 => growth: 36%
+->accum: 83.79 try (in 6 years)
+
+=> ACCUM: 83.79 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+7.year: 1997 => growth: 78%
+8.year: 1998 => growth: -56%
+9.year: 1999 => growth: 247%
+10.year: 2000 => growth: -55%
+11.year: 2001 => growth: -13%
+12.year: 2002 => growth: -42%
+->accum: 61.71 try (in 6 years)
+
+=> ACCUM: 51.71 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+13.year: 2003 => growth: 59%
+14.year: 2004 => growth: 23%
+15.year: 2005 => growth: 48%
+16.year: 2006 => growth: -10%
+17.year: 2007 => growth: 31%
+18.year: 2008 => growth: -56%
+->accum: 150.15 try (in 6 years)
+
+=> ACCUM: 77.64 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+19.year: 2009 => growth: 85%
+20.year: 2010 => growth: 17%
+21.year: 2011 => growth: -30%
+22.year: 2012 => growth: 44%
+23.year: 2013 => growth: -19%
+24.year: 2014 => growth: 17%
+->accum: 206.76 try (in 6 years)
+
+=> ACCUM: 160.54 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+25.year: 2015 => growth: -23%
+26.year: 2016 => growth: 0%
+27.year: 2017 => growth: 32%
+28.year: 2018 => growth: -35%
+29.year: 2019 => growth: 13%
+30.year: 2020 => growth: 14%
+->accum: 85.11 try (in 6 years)
+
+=> ACCUM: 136.64 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-06]
+
+31.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 120.24 TRY (in 31 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 6; START_YEAR: 1992 #######
+
+[Group-01]
+
+1.year: 1992 => growth: -45%
+2.year: 1993 => growth: 202%
+3.year: 1994 => growth: -42%
+4.year: 1995 => growth: -18%
+5.year: 1996 => growth: 36%
+6.year: 1997 => growth: 78%
+->accum: 191.24 try (in 6 years)
+
+=> ACCUM: 191.24 TRY (in 6 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+7.year: 1998 => growth: -56%
+8.year: 1999 => growth: 247%
+9.year: 2000 => growth: -55%
+10.year: 2001 => growth: -13%
+11.year: 2002 => growth: -42%
+12.year: 2003 => growth: 59%
+->accum: 55.13 try (in 6 years)
+
+=> ACCUM: 105.43 TRY (in 12 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+13.year: 2004 => growth: 23%
+14.year: 2005 => growth: 48%
+15.year: 2006 => growth: -10%
+16.year: 2007 => growth: 31%
+17.year: 2008 => growth: -56%
+18.year: 2009 => growth: 85%
+->accum: 174.71 try (in 6 years)
+
+=> ACCUM: 184.2 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+19.year: 2010 => growth: 17%
+20.year: 2011 => growth: -30%
+21.year: 2012 => growth: 44%
+22.year: 2013 => growth: -19%
+23.year: 2014 => growth: 17%
+24.year: 2015 => growth: -23%
+->accum: 86.06 try (in 6 years)
+
+=> ACCUM: 158.52 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+25.year: 2016 => growth: 0%
+26.year: 2017 => growth: 32%
+27.year: 2018 => growth: -35%
+28.year: 2019 => growth: 13%
+29.year: 2020 => growth: 14%
+30.year: 2021 => growth: -12%
+->accum: 97.26 try (in 6 years)
+
+=> ACCUM: 154.18 TRY (in 30 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 7; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+3.year: 1989 => growth: 251%
+4.year: 1990 => growth: -8%
+5.year: 1991 => growth: -22%
+6.year: 1992 => growth: -45%
+7.year: 1993 => growth: 202%
+->accum: 576.28 try (in 7 years)
+
+=> ACCUM: 576.28 TRY (in 7 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+8.year: 1994 => growth: -42%
+9.year: 1995 => growth: -18%
+10.year: 1996 => growth: 36%
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+->accum: 79.11 try (in 7 years)
+
+=> ACCUM: 455.86 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+15.year: 2001 => growth: -13%
+16.year: 2002 => growth: -42%
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+21.year: 2007 => growth: 31%
+->accum: 172.2 try (in 7 years)
+
+=> ACCUM: 784.99 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+22.year: 2008 => growth: -56%
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+25.year: 2011 => growth: -30%
+26.year: 2012 => growth: 44%
+27.year: 2013 => growth: -19%
+28.year: 2014 => growth: 17%
+->accum: 90.98 try (in 7 years)
+
+=> ACCUM: 714.19 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+33.year: 2019 => growth: 13%
+34.year: 2020 => growth: 14%
+35.year: 2021 => growth: -12%
+->accum: 74.9 try (in 7 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 7; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+3.year: 1990 => growth: -8%
+4.year: 1991 => growth: -22%
+5.year: 1992 => growth: -45%
+6.year: 1993 => growth: 202%
+7.year: 1994 => growth: -42%
+->accum: 344.57 try (in 7 years)
+
+=> ACCUM: 344.57 TRY (in 7 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+8.year: 1995 => growth: -18%
+9.year: 1996 => growth: 36%
+10.year: 1997 => growth: 78%
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+->accum: 118.65 try (in 7 years)
+
+=> ACCUM: 408.86 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+15.year: 2002 => growth: -42%
+16.year: 2003 => growth: 59%
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+21.year: 2008 => growth: -56%
+->accum: 87.09 try (in 7 years)
+
+=> ACCUM: 356.07 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+22.year: 2009 => growth: 85%
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+25.year: 2012 => growth: 44%
+26.year: 2013 => growth: -19%
+27.year: 2014 => growth: 17%
+28.year: 2015 => growth: -23%
+->accum: 159.21 try (in 7 years)
+
+=> ACCUM: 566.91 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+33.year: 2020 => growth: 14%
+34.year: 2021 => growth: -12%
+->accum: 97.26 try (in 6 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 7; START_YEAR: 1989 #######
+
+[Group-01]
+
+1.year: 1989 => growth: 251%
+2.year: 1990 => growth: -8%
+3.year: 1991 => growth: -22%
+4.year: 1992 => growth: -45%
+5.year: 1993 => growth: 202%
+6.year: 1994 => growth: -42%
+7.year: 1995 => growth: -18%
+->accum: 198.97 try (in 7 years)
+
+=> ACCUM: 198.97 TRY (in 7 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+8.year: 1996 => growth: 36%
+9.year: 1997 => growth: 78%
+10.year: 1998 => growth: -56%
+11.year: 1999 => growth: 247%
+12.year: 2000 => growth: -55%
+13.year: 2001 => growth: -13%
+14.year: 2002 => growth: -42%
+->accum: 83.93 try (in 7 years)
+
+=> ACCUM: 166.99 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+15.year: 2003 => growth: 59%
+16.year: 2004 => growth: 23%
+17.year: 2005 => growth: 48%
+18.year: 2006 => growth: -10%
+19.year: 2007 => growth: 31%
+20.year: 2008 => growth: -56%
+21.year: 2009 => growth: 85%
+->accum: 277.78 try (in 7 years)
+
+=> ACCUM: 463.87 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+22.year: 2010 => growth: 17%
+23.year: 2011 => growth: -30%
+24.year: 2012 => growth: 44%
+25.year: 2013 => growth: -19%
+26.year: 2014 => growth: 17%
+27.year: 2015 => growth: -23%
+28.year: 2016 => growth: 0%
+->accum: 86.06 try (in 7 years)
+
+=> ACCUM: 399.21 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+29.year: 2017 => growth: 32%
+30.year: 2018 => growth: -35%
+31.year: 2019 => growth: 13%
+32.year: 2020 => growth: 14%
+33.year: 2021 => growth: -12%
+->accum: 97.26 try (in 5 years)
+
+=> ACCUM: 388.29 TRY (in 33 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 7; START_YEAR: 1990 #######
+
+[Group-01]
+
+1.year: 1990 => growth: -8%
+2.year: 1991 => growth: -22%
+3.year: 1992 => growth: -45%
+4.year: 1993 => growth: 202%
+5.year: 1994 => growth: -42%
+6.year: 1995 => growth: -18%
+7.year: 1996 => growth: 36%
+->accum: 77.1 try (in 7 years)
+
+=> ACCUM: 77.1 TRY (in 7 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+8.year: 1997 => growth: 78%
+9.year: 1998 => growth: -56%
+10.year: 1999 => growth: 247%
+11.year: 2000 => growth: -55%
+12.year: 2001 => growth: -13%
+13.year: 2002 => growth: -42%
+14.year: 2003 => growth: 59%
+->accum: 98.12 try (in 7 years)
+
+=> ACCUM: 75.65 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+15.year: 2004 => growth: 23%
+16.year: 2005 => growth: 48%
+17.year: 2006 => growth: -10%
+18.year: 2007 => growth: 31%
+19.year: 2008 => growth: -56%
+20.year: 2009 => growth: 85%
+21.year: 2010 => growth: 17%
+->accum: 204.41 try (in 7 years)
+
+=> ACCUM: 154.63 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+22.year: 2011 => growth: -30%
+23.year: 2012 => growth: 44%
+24.year: 2013 => growth: -19%
+25.year: 2014 => growth: 17%
+26.year: 2015 => growth: -23%
+27.year: 2016 => growth: 0%
+28.year: 2017 => growth: 32%
+->accum: 97.1 try (in 7 years)
+
+=> ACCUM: 150.14 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+29.year: 2018 => growth: -35%
+30.year: 2019 => growth: 13%
+31.year: 2020 => growth: 14%
+32.year: 2021 => growth: -12%
+->accum: 73.68 try (in 4 years)
+
+=> ACCUM: 110.63 TRY (in 32 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 7; START_YEAR: 1991 #######
+
+[Group-01]
+
+1.year: 1991 => growth: -22%
+2.year: 1992 => growth: -45%
+3.year: 1993 => growth: 202%
+4.year: 1994 => growth: -42%
+5.year: 1995 => growth: -18%
+6.year: 1996 => growth: 36%
+7.year: 1997 => growth: 78%
+->accum: 149.15 try (in 7 years)
+
+=> ACCUM: 149.15 TRY (in 7 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+8.year: 1998 => growth: -56%
+9.year: 1999 => growth: 247%
+10.year: 2000 => growth: -55%
+11.year: 2001 => growth: -13%
+12.year: 2002 => growth: -42%
+13.year: 2003 => growth: 59%
+14.year: 2004 => growth: 23%
+->accum: 67.81 try (in 7 years)
+
+=> ACCUM: 101.13 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+15.year: 2005 => growth: 48%
+16.year: 2006 => growth: -10%
+17.year: 2007 => growth: 31%
+18.year: 2008 => growth: -56%
+19.year: 2009 => growth: 85%
+20.year: 2010 => growth: 17%
+21.year: 2011 => growth: -30%
+->accum: 116.33 try (in 7 years)
+
+=> ACCUM: 117.64 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+22.year: 2012 => growth: 44%
+23.year: 2013 => growth: -19%
+24.year: 2014 => growth: 17%
+25.year: 2015 => growth: -23%
+26.year: 2016 => growth: 0%
+27.year: 2017 => growth: 32%
+28.year: 2018 => growth: -35%
+->accum: 90.16 try (in 7 years)
+
+=> ACCUM: 106.07 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+29.year: 2019 => growth: 13%
+30.year: 2020 => growth: 14%
+31.year: 2021 => growth: -12%
+->accum: 113.36 try (in 3 years)
+
+=> ACCUM: 120.24 TRY (in 31 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 7; START_YEAR: 1992 #######
+
+[Group-01]
+
+1.year: 1992 => growth: -45%
+2.year: 1993 => growth: 202%
+3.year: 1994 => growth: -42%
+4.year: 1995 => growth: -18%
+5.year: 1996 => growth: 36%
+6.year: 1997 => growth: 78%
+7.year: 1998 => growth: -56%
+->accum: 84.15 try (in 7 years)
+
+=> ACCUM: 84.15 TRY (in 7 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+8.year: 1999 => growth: 247%
+9.year: 2000 => growth: -55%
+10.year: 2001 => growth: -13%
+11.year: 2002 => growth: -42%
+12.year: 2003 => growth: 59%
+13.year: 2004 => growth: 23%
+14.year: 2005 => growth: 48%
+->accum: 228.05 try (in 7 years)
+
+=> ACCUM: 191.93 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+15.year: 2006 => growth: -10%
+16.year: 2007 => growth: 31%
+17.year: 2008 => growth: -56%
+18.year: 2009 => growth: 85%
+19.year: 2010 => growth: 17%
+20.year: 2011 => growth: -30%
+21.year: 2012 => growth: 44%
+->accum: 113.2 try (in 7 years)
+
+=> ACCUM: 217.24 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+22.year: 2013 => growth: -19%
+23.year: 2014 => growth: 17%
+24.year: 2015 => growth: -23%
+25.year: 2016 => growth: 0%
+26.year: 2017 => growth: 32%
+27.year: 2018 => growth: -35%
+28.year: 2019 => growth: 13%
+->accum: 70.75 try (in 7 years)
+
+=> ACCUM: 153.69 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+29.year: 2020 => growth: 14%
+30.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 154.18 TRY (in 30 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 7; START_YEAR: 1993 #######
+
+[Group-01]
+
+1.year: 1993 => growth: 202%
+2.year: 1994 => growth: -42%
+3.year: 1995 => growth: -18%
+4.year: 1996 => growth: 36%
+5.year: 1997 => growth: 78%
+6.year: 1998 => growth: -56%
+7.year: 1999 => growth: 247%
+->accum: 530.88 try (in 7 years)
+
+=> ACCUM: 530.88 TRY (in 7 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+8.year: 2000 => growth: -55%
+9.year: 2001 => growth: -13%
+10.year: 2002 => growth: -42%
+11.year: 2003 => growth: 59%
+12.year: 2004 => growth: 23%
+13.year: 2005 => growth: 48%
+14.year: 2006 => growth: -10%
+->accum: 59.17 try (in 7 years)
+
+=> ACCUM: 314.02 TRY (in 14 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+15.year: 2007 => growth: 31%
+16.year: 2008 => growth: -56%
+17.year: 2009 => growth: 85%
+18.year: 2010 => growth: 17%
+19.year: 2011 => growth: -30%
+20.year: 2012 => growth: 44%
+21.year: 2013 => growth: -19%
+->accum: 101.87 try (in 7 years)
+
+=> ACCUM: 319.88 TRY (in 21 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+22.year: 2014 => growth: 17%
+23.year: 2015 => growth: -23%
+24.year: 2016 => growth: 0%
+25.year: 2017 => growth: 32%
+26.year: 2018 => growth: -35%
+27.year: 2019 => growth: 13%
+28.year: 2020 => growth: 14%
+->accum: 99.58 try (in 7 years)
+
+=> ACCUM: 318.52 TRY (in 28 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+29.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 280.3 TRY (in 29 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 8; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+3.year: 1989 => growth: 251%
+4.year: 1990 => growth: -8%
+5.year: 1991 => growth: -22%
+6.year: 1992 => growth: -45%
+7.year: 1993 => growth: 202%
+8.year: 1994 => growth: -42%
+->accum: 334.24 try (in 8 years)
+
+=> ACCUM: 334.24 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+9.year: 1995 => growth: -18%
+10.year: 1996 => growth: 36%
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+15.year: 2001 => growth: -13%
+16.year: 2002 => growth: -42%
+->accum: 68.82 try (in 8 years)
+
+=> ACCUM: 230.03 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+21.year: 2007 => growth: 31%
+22.year: 2008 => growth: -56%
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+->accum: 325 try (in 8 years)
+
+=> ACCUM: 747.62 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+25.year: 2011 => growth: -30%
+26.year: 2012 => growth: 44%
+27.year: 2013 => growth: -19%
+28.year: 2014 => growth: 17%
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+->accum: 63.12 try (in 8 years)
+
+=> ACCUM: 471.84 TRY (in 32 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+33.year: 2019 => growth: 13%
+34.year: 2020 => growth: 14%
+35.year: 2021 => growth: -12%
+->accum: 113.36 try (in 3 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 8; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+3.year: 1990 => growth: -8%
+4.year: 1991 => growth: -22%
+5.year: 1992 => growth: -45%
+6.year: 1993 => growth: 202%
+7.year: 1994 => growth: -42%
+8.year: 1995 => growth: -18%
+->accum: 282.55 try (in 8 years)
+
+=> ACCUM: 282.55 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+9.year: 1996 => growth: 36%
+10.year: 1997 => growth: 78%
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+15.year: 2002 => growth: -42%
+16.year: 2003 => growth: 59%
+->accum: 133.45 try (in 8 years)
+
+=> ACCUM: 377.05 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+21.year: 2008 => growth: -56%
+22.year: 2009 => growth: 85%
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+->accum: 143.09 try (in 8 years)
+
+=> ACCUM: 539.5 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+25.year: 2012 => growth: 44%
+26.year: 2013 => growth: -19%
+27.year: 2014 => growth: 17%
+28.year: 2015 => growth: -23%
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+->accum: 101.88 try (in 8 years)
+
+=> ACCUM: 549.64 TRY (in 32 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+33.year: 2020 => growth: 14%
+34.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 8; START_YEAR: 1989 #######
+
+[Group-01]
+
+1.year: 1989 => growth: 251%
+2.year: 1990 => growth: -8%
+3.year: 1991 => growth: -22%
+4.year: 1992 => growth: -45%
+5.year: 1993 => growth: 202%
+6.year: 1994 => growth: -42%
+7.year: 1995 => growth: -18%
+8.year: 1996 => growth: 36%
+->accum: 270.6 try (in 8 years)
+
+=> ACCUM: 270.6 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+9.year: 1997 => growth: 78%
+10.year: 1998 => growth: -56%
+11.year: 1999 => growth: 247%
+12.year: 2000 => growth: -55%
+13.year: 2001 => growth: -13%
+14.year: 2002 => growth: -42%
+15.year: 2003 => growth: 59%
+16.year: 2004 => growth: 23%
+->accum: 120.69 try (in 8 years)
+
+=> ACCUM: 326.58 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+17.year: 2005 => growth: 48%
+18.year: 2006 => growth: -10%
+19.year: 2007 => growth: 31%
+20.year: 2008 => growth: -56%
+21.year: 2009 => growth: 85%
+22.year: 2010 => growth: 17%
+23.year: 2011 => growth: -30%
+24.year: 2012 => growth: 44%
+->accum: 167.52 try (in 8 years)
+
+=> ACCUM: 547.07 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+25.year: 2013 => growth: -19%
+26.year: 2014 => growth: 17%
+27.year: 2015 => growth: -23%
+28.year: 2016 => growth: 0%
+29.year: 2017 => growth: 32%
+30.year: 2018 => growth: -35%
+31.year: 2019 => growth: 13%
+32.year: 2020 => growth: 14%
+->accum: 80.66 try (in 8 years)
+
+=> ACCUM: 441.24 TRY (in 32 YEARS)
+
+_____________________________________
+
+[Group-05]
+
+33.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 388.29 TRY (in 33 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 8; START_YEAR: 1990 #######
+
+[Group-01]
+
+1.year: 1990 => growth: -8%
+2.year: 1991 => growth: -22%
+3.year: 1992 => growth: -45%
+4.year: 1993 => growth: 202%
+5.year: 1994 => growth: -42%
+6.year: 1995 => growth: -18%
+7.year: 1996 => growth: 36%
+8.year: 1997 => growth: 78%
+->accum: 137.24 try (in 8 years)
+
+=> ACCUM: 137.24 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+9.year: 1998 => growth: -56%
+10.year: 1999 => growth: 247%
+11.year: 2000 => growth: -55%
+12.year: 2001 => growth: -13%
+13.year: 2002 => growth: -42%
+14.year: 2003 => growth: 59%
+15.year: 2004 => growth: 23%
+16.year: 2005 => growth: 48%
+->accum: 100.36 try (in 8 years)
+
+=> ACCUM: 137.71 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+17.year: 2006 => growth: -10%
+18.year: 2007 => growth: 31%
+19.year: 2008 => growth: -56%
+20.year: 2009 => growth: 85%
+21.year: 2010 => growth: 17%
+22.year: 2011 => growth: -30%
+23.year: 2012 => growth: 44%
+24.year: 2013 => growth: -19%
+->accum: 91.69 try (in 8 years)
+
+=> ACCUM: 126.25 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+25.year: 2014 => growth: 17%
+26.year: 2015 => growth: -23%
+27.year: 2016 => growth: 0%
+28.year: 2017 => growth: 32%
+29.year: 2018 => growth: -35%
+30.year: 2019 => growth: 13%
+31.year: 2020 => growth: 14%
+32.year: 2021 => growth: -12%
+->accum: 87.63 try (in 8 years)
+
+=> ACCUM: 110.63 TRY (in 32 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 8; START_YEAR: 1991 #######
+
+[Group-01]
+
+1.year: 1991 => growth: -22%
+2.year: 1992 => growth: -45%
+3.year: 1993 => growth: 202%
+4.year: 1994 => growth: -42%
+5.year: 1995 => growth: -18%
+6.year: 1996 => growth: 36%
+7.year: 1997 => growth: 78%
+8.year: 1998 => growth: -56%
+->accum: 65.63 try (in 8 years)
+
+=> ACCUM: 65.63 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+9.year: 1999 => growth: 247%
+10.year: 2000 => growth: -55%
+11.year: 2001 => growth: -13%
+12.year: 2002 => growth: -42%
+13.year: 2003 => growth: 59%
+14.year: 2004 => growth: 23%
+15.year: 2005 => growth: 48%
+16.year: 2006 => growth: -10%
+->accum: 205.24 try (in 8 years)
+
+=> ACCUM: 134.7 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+17.year: 2007 => growth: 31%
+18.year: 2008 => growth: -56%
+19.year: 2009 => growth: 85%
+20.year: 2010 => growth: 17%
+21.year: 2011 => growth: -30%
+22.year: 2012 => growth: 44%
+23.year: 2013 => growth: -19%
+24.year: 2014 => growth: 17%
+->accum: 119.19 try (in 8 years)
+
+=> ACCUM: 160.54 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+25.year: 2015 => growth: -23%
+26.year: 2016 => growth: 0%
+27.year: 2017 => growth: 32%
+28.year: 2018 => growth: -35%
+29.year: 2019 => growth: 13%
+30.year: 2020 => growth: 14%
+31.year: 2021 => growth: -12%
+->accum: 74.9 try (in 7 years)
+
+=> ACCUM: 120.24 TRY (in 31 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 8; START_YEAR: 1992 #######
+
+[Group-01]
+
+1.year: 1992 => growth: -45%
+2.year: 1993 => growth: 202%
+3.year: 1994 => growth: -42%
+4.year: 1995 => growth: -18%
+5.year: 1996 => growth: 36%
+6.year: 1997 => growth: 78%
+7.year: 1998 => growth: -56%
+8.year: 1999 => growth: 247%
+->accum: 292 try (in 8 years)
+
+=> ACCUM: 292 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+9.year: 2000 => growth: -55%
+10.year: 2001 => growth: -13%
+11.year: 2002 => growth: -42%
+12.year: 2003 => growth: 59%
+13.year: 2004 => growth: 23%
+14.year: 2005 => growth: 48%
+15.year: 2006 => growth: -10%
+16.year: 2007 => growth: 31%
+->accum: 77.51 try (in 8 years)
+
+=> ACCUM: 226.29 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+17.year: 2008 => growth: -56%
+18.year: 2009 => growth: 85%
+19.year: 2010 => growth: 17%
+20.year: 2011 => growth: -30%
+21.year: 2012 => growth: 44%
+22.year: 2013 => growth: -19%
+23.year: 2014 => growth: 17%
+24.year: 2015 => growth: -23%
+->accum: 70.05 try (in 8 years)
+
+=> ACCUM: 158.52 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+25.year: 2016 => growth: 0%
+26.year: 2017 => growth: 32%
+27.year: 2018 => growth: -35%
+28.year: 2019 => growth: 13%
+29.year: 2020 => growth: 14%
+30.year: 2021 => growth: -12%
+->accum: 97.26 try (in 6 years)
+
+=> ACCUM: 154.18 TRY (in 30 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 8; START_YEAR: 1993 #######
+
+[Group-01]
+
+1.year: 1993 => growth: 202%
+2.year: 1994 => growth: -42%
+3.year: 1995 => growth: -18%
+4.year: 1996 => growth: 36%
+5.year: 1997 => growth: 78%
+6.year: 1998 => growth: -56%
+7.year: 1999 => growth: 247%
+8.year: 2000 => growth: -55%
+->accum: 238.9 try (in 8 years)
+
+=> ACCUM: 238.9 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+9.year: 2001 => growth: -13%
+10.year: 2002 => growth: -42%
+11.year: 2003 => growth: 59%
+12.year: 2004 => growth: 23%
+13.year: 2005 => growth: 48%
+14.year: 2006 => growth: -10%
+15.year: 2007 => growth: 31%
+16.year: 2008 => growth: -56%
+->accum: 75.77 try (in 8 years)
+
+=> ACCUM: 181 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+17.year: 2009 => growth: 85%
+18.year: 2010 => growth: 17%
+19.year: 2011 => growth: -30%
+20.year: 2012 => growth: 44%
+21.year: 2013 => growth: -19%
+22.year: 2014 => growth: 17%
+23.year: 2015 => growth: -23%
+24.year: 2016 => growth: 0%
+->accum: 159.21 try (in 8 years)
+
+=> ACCUM: 288.18 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+25.year: 2017 => growth: 32%
+26.year: 2018 => growth: -35%
+27.year: 2019 => growth: 13%
+28.year: 2020 => growth: 14%
+29.year: 2021 => growth: -12%
+->accum: 97.26 try (in 5 years)
+
+=> ACCUM: 280.3 TRY (in 29 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 8; START_YEAR: 1994 #######
+
+[Group-01]
+
+1.year: 1994 => growth: -42%
+2.year: 1995 => growth: -18%
+3.year: 1996 => growth: 36%
+4.year: 1997 => growth: 78%
+5.year: 1998 => growth: -56%
+6.year: 1999 => growth: 247%
+7.year: 2000 => growth: -55%
+8.year: 2001 => growth: -13%
+->accum: 68.83 try (in 8 years)
+
+=> ACCUM: 68.83 TRY (in 8 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+9.year: 2002 => growth: -42%
+10.year: 2003 => growth: 59%
+11.year: 2004 => growth: 23%
+12.year: 2005 => growth: 48%
+13.year: 2006 => growth: -10%
+14.year: 2007 => growth: 31%
+15.year: 2008 => growth: -56%
+16.year: 2009 => growth: 85%
+->accum: 161.12 try (in 8 years)
+
+=> ACCUM: 110.89 TRY (in 16 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+17.year: 2010 => growth: 17%
+18.year: 2011 => growth: -30%
+19.year: 2012 => growth: 44%
+20.year: 2013 => growth: -19%
+21.year: 2014 => growth: 17%
+22.year: 2015 => growth: -23%
+23.year: 2016 => growth: 0%
+24.year: 2017 => growth: 32%
+->accum: 113.6 try (in 8 years)
+
+=> ACCUM: 125.97 TRY (in 24 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+25.year: 2018 => growth: -35%
+26.year: 2019 => growth: 13%
+27.year: 2020 => growth: 14%
+28.year: 2021 => growth: -12%
+->accum: 73.68 try (in 4 years)
+
+=> ACCUM: 92.81 TRY (in 28 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+3.year: 1989 => growth: 251%
+4.year: 1990 => growth: -8%
+5.year: 1991 => growth: -22%
+6.year: 1992 => growth: -45%
+7.year: 1993 => growth: 202%
+8.year: 1994 => growth: -42%
+9.year: 1995 => growth: -18%
+->accum: 274.08 try (in 9 years)
+
+=> ACCUM: 274.08 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 1996 => growth: 36%
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+15.year: 2001 => growth: -13%
+16.year: 2002 => growth: -42%
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+->accum: 164.14 try (in 9 years)
+
+=> ACCUM: 449.87 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+21.year: 2007 => growth: 31%
+22.year: 2008 => growth: -56%
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+25.year: 2011 => growth: -30%
+26.year: 2012 => growth: 44%
+27.year: 2013 => growth: -19%
+->accum: 135.69 try (in 9 years)
+
+=> ACCUM: 610.42 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+28.year: 2014 => growth: 17%
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+33.year: 2019 => growth: 13%
+34.year: 2020 => growth: 14%
+35.year: 2021 => growth: -12%
+->accum: 87.63 try (in 8 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+3.year: 1990 => growth: -8%
+4.year: 1991 => growth: -22%
+5.year: 1992 => growth: -45%
+6.year: 1993 => growth: 202%
+7.year: 1994 => growth: -42%
+8.year: 1995 => growth: -18%
+9.year: 1996 => growth: 36%
+->accum: 384.27 try (in 9 years)
+
+=> ACCUM: 384.27 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 1997 => growth: 78%
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+15.year: 2002 => growth: -42%
+16.year: 2003 => growth: 59%
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+->accum: 178.62 try (in 9 years)
+
+=> ACCUM: 686.38 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+21.year: 2008 => growth: -56%
+22.year: 2009 => growth: 85%
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+25.year: 2012 => growth: 44%
+26.year: 2013 => growth: -19%
+27.year: 2014 => growth: 17%
+->accum: 107.28 try (in 9 years)
+
+=> ACCUM: 736.25 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+28.year: 2015 => growth: -23%
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+33.year: 2020 => growth: 14%
+34.year: 2021 => growth: -12%
+->accum: 74.9 try (in 7 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1989 #######
+
+[Group-01]
+
+1.year: 1989 => growth: 251%
+2.year: 1990 => growth: -8%
+3.year: 1991 => growth: -22%
+4.year: 1992 => growth: -45%
+5.year: 1993 => growth: 202%
+6.year: 1994 => growth: -42%
+7.year: 1995 => growth: -18%
+8.year: 1996 => growth: 36%
+9.year: 1997 => growth: 78%
+->accum: 481.67 try (in 9 years)
+
+=> ACCUM: 481.67 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 1998 => growth: -56%
+11.year: 1999 => growth: 247%
+12.year: 2000 => growth: -55%
+13.year: 2001 => growth: -13%
+14.year: 2002 => growth: -42%
+15.year: 2003 => growth: 59%
+16.year: 2004 => growth: 23%
+17.year: 2005 => growth: 48%
+18.year: 2006 => growth: -10%
+->accum: 90.32 try (in 9 years)
+
+=> ACCUM: 435.01 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2007 => growth: 31%
+20.year: 2008 => growth: -56%
+21.year: 2009 => growth: 85%
+22.year: 2010 => growth: 17%
+23.year: 2011 => growth: -30%
+24.year: 2012 => growth: 44%
+25.year: 2013 => growth: -19%
+26.year: 2014 => growth: 17%
+27.year: 2015 => growth: -23%
+->accum: 91.78 try (in 9 years)
+
+=> ACCUM: 399.21 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+28.year: 2016 => growth: 0%
+29.year: 2017 => growth: 32%
+30.year: 2018 => growth: -35%
+31.year: 2019 => growth: 13%
+32.year: 2020 => growth: 14%
+33.year: 2021 => growth: -12%
+->accum: 97.26 try (in 6 years)
+
+=> ACCUM: 388.29 TRY (in 33 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1990 #######
+
+[Group-01]
+
+1.year: 1990 => growth: -8%
+2.year: 1991 => growth: -22%
+3.year: 1992 => growth: -45%
+4.year: 1993 => growth: 202%
+5.year: 1994 => growth: -42%
+6.year: 1995 => growth: -18%
+7.year: 1996 => growth: 36%
+8.year: 1997 => growth: 78%
+9.year: 1998 => growth: -56%
+->accum: 60.39 try (in 9 years)
+
+=> ACCUM: 60.39 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 1999 => growth: 247%
+11.year: 2000 => growth: -55%
+12.year: 2001 => growth: -13%
+13.year: 2002 => growth: -42%
+14.year: 2003 => growth: 59%
+15.year: 2004 => growth: 23%
+16.year: 2005 => growth: 48%
+17.year: 2006 => growth: -10%
+18.year: 2007 => growth: 31%
+->accum: 268.86 try (in 9 years)
+
+=> ACCUM: 162.36 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2008 => growth: -56%
+20.year: 2009 => growth: 85%
+21.year: 2010 => growth: 17%
+22.year: 2011 => growth: -30%
+23.year: 2012 => growth: 44%
+24.year: 2013 => growth: -19%
+25.year: 2014 => growth: 17%
+26.year: 2015 => growth: -23%
+27.year: 2016 => growth: 0%
+->accum: 70.05 try (in 9 years)
+
+=> ACCUM: 113.74 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+28.year: 2017 => growth: 32%
+29.year: 2018 => growth: -35%
+30.year: 2019 => growth: 13%
+31.year: 2020 => growth: 14%
+32.year: 2021 => growth: -12%
+->accum: 97.26 try (in 5 years)
+
+=> ACCUM: 110.63 TRY (in 32 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1991 #######
+
+[Group-01]
+
+1.year: 1991 => growth: -22%
+2.year: 1992 => growth: -45%
+3.year: 1993 => growth: 202%
+4.year: 1994 => growth: -42%
+5.year: 1995 => growth: -18%
+6.year: 1996 => growth: 36%
+7.year: 1997 => growth: 78%
+8.year: 1998 => growth: -56%
+9.year: 1999 => growth: 247%
+->accum: 227.74 try (in 9 years)
+
+=> ACCUM: 227.74 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 2000 => growth: -55%
+11.year: 2001 => growth: -13%
+12.year: 2002 => growth: -42%
+13.year: 2003 => growth: 59%
+14.year: 2004 => growth: 23%
+15.year: 2005 => growth: 48%
+16.year: 2006 => growth: -10%
+17.year: 2007 => growth: 31%
+18.year: 2008 => growth: -56%
+->accum: 34.1 try (in 9 years)
+
+=> ACCUM: 77.64 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2009 => growth: 85%
+20.year: 2010 => growth: 17%
+21.year: 2011 => growth: -30%
+22.year: 2012 => growth: 44%
+23.year: 2013 => growth: -19%
+24.year: 2014 => growth: 17%
+25.year: 2015 => growth: -23%
+26.year: 2016 => growth: 0%
+27.year: 2017 => growth: 32%
+->accum: 210.16 try (in 9 years)
+
+=> ACCUM: 163.18 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+28.year: 2018 => growth: -35%
+29.year: 2019 => growth: 13%
+30.year: 2020 => growth: 14%
+31.year: 2021 => growth: -12%
+->accum: 73.68 try (in 4 years)
+
+=> ACCUM: 120.24 TRY (in 31 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1992 #######
+
+[Group-01]
+
+1.year: 1992 => growth: -45%
+2.year: 1993 => growth: 202%
+3.year: 1994 => growth: -42%
+4.year: 1995 => growth: -18%
+5.year: 1996 => growth: 36%
+6.year: 1997 => growth: 78%
+7.year: 1998 => growth: -56%
+8.year: 1999 => growth: 247%
+9.year: 2000 => growth: -55%
+->accum: 131.4 try (in 9 years)
+
+=> ACCUM: 131.4 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 2001 => growth: -13%
+11.year: 2002 => growth: -42%
+12.year: 2003 => growth: 59%
+13.year: 2004 => growth: 23%
+14.year: 2005 => growth: 48%
+15.year: 2006 => growth: -10%
+16.year: 2007 => growth: 31%
+17.year: 2008 => growth: -56%
+18.year: 2009 => growth: 85%
+->accum: 140.17 try (in 9 years)
+
+=> ACCUM: 184.2 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2010 => growth: 17%
+20.year: 2011 => growth: -30%
+21.year: 2012 => growth: 44%
+22.year: 2013 => growth: -19%
+23.year: 2014 => growth: 17%
+24.year: 2015 => growth: -23%
+25.year: 2016 => growth: 0%
+26.year: 2017 => growth: 32%
+27.year: 2018 => growth: -35%
+->accum: 73.84 try (in 9 years)
+
+=> ACCUM: 136.01 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+28.year: 2019 => growth: 13%
+29.year: 2020 => growth: 14%
+30.year: 2021 => growth: -12%
+->accum: 113.36 try (in 3 years)
+
+=> ACCUM: 154.18 TRY (in 30 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1993 #######
+
+[Group-01]
+
+1.year: 1993 => growth: 202%
+2.year: 1994 => growth: -42%
+3.year: 1995 => growth: -18%
+4.year: 1996 => growth: 36%
+5.year: 1997 => growth: 78%
+6.year: 1998 => growth: -56%
+7.year: 1999 => growth: 247%
+8.year: 2000 => growth: -55%
+9.year: 2001 => growth: -13%
+->accum: 207.84 try (in 9 years)
+
+=> ACCUM: 207.84 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 2002 => growth: -42%
+11.year: 2003 => growth: 59%
+12.year: 2004 => growth: 23%
+13.year: 2005 => growth: 48%
+14.year: 2006 => growth: -10%
+15.year: 2007 => growth: 31%
+16.year: 2008 => growth: -56%
+17.year: 2009 => growth: 85%
+18.year: 2010 => growth: 17%
+->accum: 188.51 try (in 9 years)
+
+=> ACCUM: 391.77 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2011 => growth: -30%
+20.year: 2012 => growth: 44%
+21.year: 2013 => growth: -19%
+22.year: 2014 => growth: 17%
+23.year: 2015 => growth: -23%
+24.year: 2016 => growth: 0%
+25.year: 2017 => growth: 32%
+26.year: 2018 => growth: -35%
+27.year: 2019 => growth: 13%
+->accum: 71.33 try (in 9 years)
+
+=> ACCUM: 279.4 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+28.year: 2020 => growth: 14%
+29.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 280.3 TRY (in 29 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1994 #######
+
+[Group-01]
+
+1.year: 1994 => growth: -42%
+2.year: 1995 => growth: -18%
+3.year: 1996 => growth: 36%
+4.year: 1997 => growth: 78%
+5.year: 1998 => growth: -56%
+6.year: 1999 => growth: 247%
+7.year: 2000 => growth: -55%
+8.year: 2001 => growth: -13%
+9.year: 2002 => growth: -42%
+->accum: 39.92 try (in 9 years)
+
+=> ACCUM: 39.92 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 2003 => growth: 59%
+11.year: 2004 => growth: 23%
+12.year: 2005 => growth: 48%
+13.year: 2006 => growth: -10%
+14.year: 2007 => growth: 31%
+15.year: 2008 => growth: -56%
+16.year: 2009 => growth: 85%
+17.year: 2010 => growth: 17%
+18.year: 2011 => growth: -30%
+->accum: 227.5 try (in 9 years)
+
+=> ACCUM: 90.82 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2012 => growth: 44%
+20.year: 2013 => growth: -19%
+21.year: 2014 => growth: 17%
+22.year: 2015 => growth: -23%
+23.year: 2016 => growth: 0%
+24.year: 2017 => growth: 32%
+25.year: 2018 => growth: -35%
+26.year: 2019 => growth: 13%
+27.year: 2020 => growth: 14%
+->accum: 116.14 try (in 9 years)
+
+=> ACCUM: 105.47 TRY (in 27 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+28.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 92.81 TRY (in 28 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 9; START_YEAR: 1995 #######
+
+[Group-01]
+
+1.year: 1995 => growth: -18%
+2.year: 1996 => growth: 36%
+3.year: 1997 => growth: 78%
+4.year: 1998 => growth: -56%
+5.year: 1999 => growth: 247%
+6.year: 2000 => growth: -55%
+7.year: 2001 => growth: -13%
+8.year: 2002 => growth: -42%
+9.year: 2003 => growth: 59%
+->accum: 109.42 try (in 9 years)
+
+=> ACCUM: 109.42 TRY (in 9 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+10.year: 2004 => growth: 23%
+11.year: 2005 => growth: 48%
+12.year: 2006 => growth: -10%
+13.year: 2007 => growth: 31%
+14.year: 2008 => growth: -56%
+15.year: 2009 => growth: 85%
+16.year: 2010 => growth: 17%
+17.year: 2011 => growth: -30%
+18.year: 2012 => growth: 44%
+->accum: 206.05 try (in 9 years)
+
+=> ACCUM: 225.45 TRY (in 18 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+19.year: 2013 => growth: -19%
+20.year: 2014 => growth: 17%
+21.year: 2015 => growth: -23%
+22.year: 2016 => growth: 0%
+23.year: 2017 => growth: 32%
+24.year: 2018 => growth: -35%
+25.year: 2019 => growth: 13%
+26.year: 2020 => growth: 14%
+27.year: 2021 => growth: -12%
+->accum: 70.98 try (in 9 years)
+
+=> ACCUM: 160.01 TRY (in 27 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1987 #######
+
+[Group-01]
+
+1.year: 1987 => growth: -3%
+2.year: 1988 => growth: 42%
+3.year: 1989 => growth: 251%
+4.year: 1990 => growth: -8%
+5.year: 1991 => growth: -22%
+6.year: 1992 => growth: -45%
+7.year: 1993 => growth: 202%
+8.year: 1994 => growth: -42%
+9.year: 1995 => growth: -18%
+10.year: 1996 => growth: 36%
+->accum: 372.75 try (in 10 years)
+
+=> ACCUM: 372.75 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 1997 => growth: 78%
+12.year: 1998 => growth: -56%
+13.year: 1999 => growth: 247%
+14.year: 2000 => growth: -55%
+15.year: 2001 => growth: -13%
+16.year: 2002 => growth: -42%
+17.year: 2003 => growth: 59%
+18.year: 2004 => growth: 23%
+19.year: 2005 => growth: 48%
+20.year: 2006 => growth: -10%
+->accum: 160.76 try (in 10 years)
+
+=> ACCUM: 599.23 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2007 => growth: 31%
+22.year: 2008 => growth: -56%
+23.year: 2009 => growth: 85%
+24.year: 2010 => growth: 17%
+25.year: 2011 => growth: -30%
+26.year: 2012 => growth: 44%
+27.year: 2013 => growth: -19%
+28.year: 2014 => growth: 17%
+29.year: 2015 => growth: -23%
+30.year: 2016 => growth: 0%
+->accum: 91.78 try (in 10 years)
+
+=> ACCUM: 549.93 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+31.year: 2017 => growth: 32%
+32.year: 2018 => growth: -35%
+33.year: 2019 => growth: 13%
+34.year: 2020 => growth: 14%
+35.year: 2021 => growth: -12%
+->accum: 97.26 try (in 5 years)
+
+=> ACCUM: 534.89 TRY (in 35 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1988 #######
+
+[Group-01]
+
+1.year: 1988 => growth: 42%
+2.year: 1989 => growth: 251%
+3.year: 1990 => growth: -8%
+4.year: 1991 => growth: -22%
+5.year: 1992 => growth: -45%
+6.year: 1993 => growth: 202%
+7.year: 1994 => growth: -42%
+8.year: 1995 => growth: -18%
+9.year: 1996 => growth: 36%
+10.year: 1997 => growth: 78%
+->accum: 684 try (in 10 years)
+
+=> ACCUM: 684 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 1998 => growth: -56%
+12.year: 1999 => growth: 247%
+13.year: 2000 => growth: -55%
+14.year: 2001 => growth: -13%
+15.year: 2002 => growth: -42%
+16.year: 2003 => growth: 59%
+17.year: 2004 => growth: 23%
+18.year: 2005 => growth: 48%
+19.year: 2006 => growth: -10%
+20.year: 2007 => growth: 31%
+->accum: 118.32 try (in 10 years)
+
+=> ACCUM: 809.24 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2008 => growth: -56%
+22.year: 2009 => growth: 85%
+23.year: 2010 => growth: 17%
+24.year: 2011 => growth: -30%
+25.year: 2012 => growth: 44%
+26.year: 2013 => growth: -19%
+27.year: 2014 => growth: 17%
+28.year: 2015 => growth: -23%
+29.year: 2016 => growth: 0%
+30.year: 2017 => growth: 32%
+->accum: 92.47 try (in 10 years)
+
+=> ACCUM: 748.32 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+31.year: 2018 => growth: -35%
+32.year: 2019 => growth: 13%
+33.year: 2020 => growth: 14%
+34.year: 2021 => growth: -12%
+->accum: 73.68 try (in 4 years)
+
+=> ACCUM: 551.4 TRY (in 34 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1989 #######
+
+[Group-01]
+
+1.year: 1989 => growth: 251%
+2.year: 1990 => growth: -8%
+3.year: 1991 => growth: -22%
+4.year: 1992 => growth: -45%
+5.year: 1993 => growth: 202%
+6.year: 1994 => growth: -42%
+7.year: 1995 => growth: -18%
+8.year: 1996 => growth: 36%
+9.year: 1997 => growth: 78%
+10.year: 1998 => growth: -56%
+->accum: 211.93 try (in 10 years)
+
+=> ACCUM: 211.93 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 1999 => growth: 247%
+12.year: 2000 => growth: -55%
+13.year: 2001 => growth: -13%
+14.year: 2002 => growth: -42%
+15.year: 2003 => growth: 59%
+16.year: 2004 => growth: 23%
+17.year: 2005 => growth: 48%
+18.year: 2006 => growth: -10%
+19.year: 2007 => growth: 31%
+20.year: 2008 => growth: -56%
+->accum: 118.3 try (in 10 years)
+
+=> ACCUM: 250.74 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2009 => growth: 85%
+22.year: 2010 => growth: 17%
+23.year: 2011 => growth: -30%
+24.year: 2012 => growth: 44%
+25.year: 2013 => growth: -19%
+26.year: 2014 => growth: 17%
+27.year: 2015 => growth: -23%
+28.year: 2016 => growth: 0%
+29.year: 2017 => growth: 32%
+30.year: 2018 => growth: -35%
+->accum: 136.6 try (in 10 years)
+
+=> ACCUM: 342.52 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+31.year: 2019 => growth: 13%
+32.year: 2020 => growth: 14%
+33.year: 2021 => growth: -12%
+->accum: 113.36 try (in 3 years)
+
+=> ACCUM: 388.29 TRY (in 33 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1990 #######
+
+[Group-01]
+
+1.year: 1990 => growth: -8%
+2.year: 1991 => growth: -22%
+3.year: 1992 => growth: -45%
+4.year: 1993 => growth: 202%
+5.year: 1994 => growth: -42%
+6.year: 1995 => growth: -18%
+7.year: 1996 => growth: 36%
+8.year: 1997 => growth: 78%
+9.year: 1998 => growth: -56%
+10.year: 1999 => growth: 247%
+->accum: 209.55 try (in 10 years)
+
+=> ACCUM: 209.55 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 2000 => growth: -55%
+12.year: 2001 => growth: -13%
+13.year: 2002 => growth: -42%
+14.year: 2003 => growth: 59%
+15.year: 2004 => growth: 23%
+16.year: 2005 => growth: 48%
+17.year: 2006 => growth: -10%
+18.year: 2007 => growth: 31%
+19.year: 2008 => growth: -56%
+20.year: 2009 => growth: 85%
+->accum: 63.08 try (in 10 years)
+
+=> ACCUM: 132.16 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2010 => growth: 17%
+22.year: 2011 => growth: -30%
+23.year: 2012 => growth: 44%
+24.year: 2013 => growth: -19%
+25.year: 2014 => growth: 17%
+26.year: 2015 => growth: -23%
+27.year: 2016 => growth: 0%
+28.year: 2017 => growth: 32%
+29.year: 2018 => growth: -35%
+30.year: 2019 => growth: 13%
+->accum: 83.44 try (in 10 years)
+
+=> ACCUM: 110.28 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+31.year: 2020 => growth: 14%
+32.year: 2021 => growth: -12%
+->accum: 100.32 try (in 2 years)
+
+=> ACCUM: 110.63 TRY (in 32 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1991 #######
+
+[Group-01]
+
+1.year: 1991 => growth: -22%
+2.year: 1992 => growth: -45%
+3.year: 1993 => growth: 202%
+4.year: 1994 => growth: -42%
+5.year: 1995 => growth: -18%
+6.year: 1996 => growth: 36%
+7.year: 1997 => growth: 78%
+8.year: 1998 => growth: -56%
+9.year: 1999 => growth: 247%
+10.year: 2000 => growth: -55%
+->accum: 102.48 try (in 10 years)
+
+=> ACCUM: 102.48 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 2001 => growth: -13%
+12.year: 2002 => growth: -42%
+13.year: 2003 => growth: 59%
+14.year: 2004 => growth: 23%
+15.year: 2005 => growth: 48%
+16.year: 2006 => growth: -10%
+17.year: 2007 => growth: 31%
+18.year: 2008 => growth: -56%
+19.year: 2009 => growth: 85%
+20.year: 2010 => growth: 17%
+->accum: 164 try (in 10 years)
+
+=> ACCUM: 168.05 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2011 => growth: -30%
+22.year: 2012 => growth: 44%
+23.year: 2013 => growth: -19%
+24.year: 2014 => growth: 17%
+25.year: 2015 => growth: -23%
+26.year: 2016 => growth: 0%
+27.year: 2017 => growth: 32%
+28.year: 2018 => growth: -35%
+29.year: 2019 => growth: 13%
+30.year: 2020 => growth: 14%
+->accum: 81.32 try (in 10 years)
+
+=> ACCUM: 136.64 TRY (in 30 YEARS)
+
+_____________________________________
+
+[Group-04]
+
+31.year: 2021 => growth: -12%
+->accum: 88 try (in 1 years)
+
+=> ACCUM: 120.24 TRY (in 31 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1992 #######
+
+[Group-01]
+
+1.year: 1992 => growth: -45%
+2.year: 1993 => growth: 202%
+3.year: 1994 => growth: -42%
+4.year: 1995 => growth: -18%
+5.year: 1996 => growth: 36%
+6.year: 1997 => growth: 78%
+7.year: 1998 => growth: -56%
+8.year: 1999 => growth: 247%
+9.year: 2000 => growth: -55%
+10.year: 2001 => growth: -13%
+->accum: 114.32 try (in 10 years)
+
+=> ACCUM: 114.32 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 2002 => growth: -42%
+12.year: 2003 => growth: 59%
+13.year: 2004 => growth: 23%
+14.year: 2005 => growth: 48%
+15.year: 2006 => growth: -10%
+16.year: 2007 => growth: 31%
+17.year: 2008 => growth: -56%
+18.year: 2009 => growth: 85%
+19.year: 2010 => growth: 17%
+20.year: 2011 => growth: -30%
+->accum: 131.96 try (in 10 years)
+
+=> ACCUM: 150.86 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2012 => growth: 44%
+22.year: 2013 => growth: -19%
+23.year: 2014 => growth: 17%
+24.year: 2015 => growth: -23%
+25.year: 2016 => growth: 0%
+26.year: 2017 => growth: 32%
+27.year: 2018 => growth: -35%
+28.year: 2019 => growth: 13%
+29.year: 2020 => growth: 14%
+30.year: 2021 => growth: -12%
+->accum: 102.2 try (in 10 years)
+
+=> ACCUM: 154.18 TRY (in 30 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1993 #######
+
+[Group-01]
+
+1.year: 1993 => growth: 202%
+2.year: 1994 => growth: -42%
+3.year: 1995 => growth: -18%
+4.year: 1996 => growth: 36%
+5.year: 1997 => growth: 78%
+6.year: 1998 => growth: -56%
+7.year: 1999 => growth: 247%
+8.year: 2000 => growth: -55%
+9.year: 2001 => growth: -13%
+10.year: 2002 => growth: -42%
+->accum: 120.55 try (in 10 years)
+
+=> ACCUM: 120.55 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 2003 => growth: 59%
+12.year: 2004 => growth: 23%
+13.year: 2005 => growth: 48%
+14.year: 2006 => growth: -10%
+15.year: 2007 => growth: 31%
+16.year: 2008 => growth: -56%
+17.year: 2009 => growth: 85%
+18.year: 2010 => growth: 17%
+19.year: 2011 => growth: -30%
+20.year: 2012 => growth: 44%
+->accum: 327.6 try (in 10 years)
+
+=> ACCUM: 394.91 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2013 => growth: -19%
+22.year: 2014 => growth: 17%
+23.year: 2015 => growth: -23%
+24.year: 2016 => growth: 0%
+25.year: 2017 => growth: 32%
+26.year: 2018 => growth: -35%
+27.year: 2019 => growth: 13%
+28.year: 2020 => growth: 14%
+29.year: 2021 => growth: -12%
+->accum: 70.98 try (in 9 years)
+
+=> ACCUM: 280.3 TRY (in 29 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1994 #######
+
+[Group-01]
+
+1.year: 1994 => growth: -42%
+2.year: 1995 => growth: -18%
+3.year: 1996 => growth: 36%
+4.year: 1997 => growth: 78%
+5.year: 1998 => growth: -56%
+6.year: 1999 => growth: 247%
+7.year: 2000 => growth: -55%
+8.year: 2001 => growth: -13%
+9.year: 2002 => growth: -42%
+10.year: 2003 => growth: 59%
+->accum: 63.47 try (in 10 years)
+
+=> ACCUM: 63.47 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 2004 => growth: 23%
+12.year: 2005 => growth: 48%
+13.year: 2006 => growth: -10%
+14.year: 2007 => growth: 31%
+15.year: 2008 => growth: -56%
+16.year: 2009 => growth: 85%
+17.year: 2010 => growth: 17%
+18.year: 2011 => growth: -30%
+19.year: 2012 => growth: 44%
+20.year: 2013 => growth: -19%
+->accum: 166.9 try (in 10 years)
+
+=> ACCUM: 105.93 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2014 => growth: 17%
+22.year: 2015 => growth: -23%
+23.year: 2016 => growth: 0%
+24.year: 2017 => growth: 32%
+25.year: 2018 => growth: -35%
+26.year: 2019 => growth: 13%
+27.year: 2020 => growth: 14%
+28.year: 2021 => growth: -12%
+->accum: 87.63 try (in 8 years)
+
+=> ACCUM: 92.81 TRY (in 28 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1995 #######
+
+[Group-01]
+
+1.year: 1995 => growth: -18%
+2.year: 1996 => growth: 36%
+3.year: 1997 => growth: 78%
+4.year: 1998 => growth: -56%
+5.year: 1999 => growth: 247%
+6.year: 2000 => growth: -55%
+7.year: 2001 => growth: -13%
+8.year: 2002 => growth: -42%
+9.year: 2003 => growth: 59%
+10.year: 2004 => growth: 23%
+->accum: 134.59 try (in 10 years)
+
+=> ACCUM: 134.59 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 2005 => growth: 48%
+12.year: 2006 => growth: -10%
+13.year: 2007 => growth: 31%
+14.year: 2008 => growth: -56%
+15.year: 2009 => growth: 85%
+16.year: 2010 => growth: 17%
+17.year: 2011 => growth: -30%
+18.year: 2012 => growth: 44%
+19.year: 2013 => growth: -19%
+20.year: 2014 => growth: 17%
+->accum: 158.76 try (in 10 years)
+
+=> ACCUM: 213.65 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2015 => growth: -23%
+22.year: 2016 => growth: 0%
+23.year: 2017 => growth: 32%
+24.year: 2018 => growth: -35%
+25.year: 2019 => growth: 13%
+26.year: 2020 => growth: 14%
+27.year: 2021 => growth: -12%
+->accum: 74.9 try (in 7 years)
+
+=> ACCUM: 160.01 TRY (in 27 YEARS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 10; START_YEAR: 1996 #######
+
+[Group-01]
+
+1.year: 1996 => growth: 36%
+2.year: 1997 => growth: 78%
+3.year: 1998 => growth: -56%
+4.year: 1999 => growth: 247%
+5.year: 2000 => growth: -55%
+6.year: 2001 => growth: -13%
+7.year: 2002 => growth: -42%
+8.year: 2003 => growth: 59%
+9.year: 2004 => growth: 23%
+10.year: 2005 => growth: 48%
+->accum: 242.93 try (in 10 years)
+
+=> ACCUM: 242.93 TRY (in 10 YEARS)
+
+_____________________________________
+
+[Group-02]
+
+11.year: 2006 => growth: -10%
+12.year: 2007 => growth: 31%
+13.year: 2008 => growth: -56%
+14.year: 2009 => growth: 85%
+15.year: 2010 => growth: 17%
+16.year: 2011 => growth: -30%
+17.year: 2012 => growth: 44%
+18.year: 2013 => growth: -19%
+19.year: 2014 => growth: 17%
+20.year: 2015 => growth: -23%
+->accum: 82.61 try (in 10 years)
+
+=> ACCUM: 200.64 TRY (in 20 YEARS)
+
+_____________________________________
+
+[Group-03]
+
+21.year: 2016 => growth: 0%
+22.year: 2017 => growth: 32%
+23.year: 2018 => growth: -35%
+24.year: 2019 => growth: 13%
+25.year: 2020 => growth: 14%
+26.year: 2021 => growth: -12%
+->accum: 97.26 try (in 6 years)
+
+=> ACCUM: 195.15 TRY (in 26 YEARS)
+
+_____________________________________
+
