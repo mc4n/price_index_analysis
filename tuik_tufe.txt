@@ -1,0 +1,4150 @@
+
+####### GROUP_SIZE: 12; START_MONTH: 01-2005 #######
+
+[Group-01]
+
+1.month: 01-2005 => inflation rate: 0.55%
+2.month: 02-2005 => inflation rate: 0.02%
+3.month: 03-2005 => inflation rate: 0.26%
+4.month: 04-2005 => inflation rate: 0.71%
+5.month: 05-2005 => inflation rate: 0.92%
+6.month: 06-2005 => inflation rate: 0.1%
+7.month: 07-2005 => inflation rate: -0.57%
+8.month: 08-2005 => inflation rate: 0.85%
+9.month: 09-2005 => inflation rate: 1.02%
+10.month: 10-2005 => inflation rate: 1.79%
+11.month: 11-2005 => inflation rate: 1.4%
+12.month: 12-2005 => inflation rate: 0.42%
+->accum: 92.77 try (in 12 months)
+
+=> ACCUM: 92.77 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 01-2006 => inflation rate: 0.75%
+14.month: 02-2006 => inflation rate: 0.22%
+15.month: 03-2006 => inflation rate: 0.27%
+16.month: 04-2006 => inflation rate: 1.34%
+17.month: 05-2006 => inflation rate: 1.88%
+18.month: 06-2006 => inflation rate: 0.34%
+19.month: 07-2006 => inflation rate: 0.85%
+20.month: 08-2006 => inflation rate: -0.44%
+21.month: 09-2006 => inflation rate: 1.29%
+22.month: 10-2006 => inflation rate: 1.27%
+23.month: 11-2006 => inflation rate: 1.29%
+24.month: 12-2006 => inflation rate: 0.23%
+->accum: 91.08 try (in 12 months)
+
+=> ACCUM: 84.49 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 01-2007 => inflation rate: 1%
+26.month: 02-2007 => inflation rate: 0.43%
+27.month: 03-2007 => inflation rate: 0.92%
+28.month: 04-2007 => inflation rate: 1.21%
+29.month: 05-2007 => inflation rate: 0.5%
+30.month: 06-2007 => inflation rate: -0.24%
+31.month: 07-2007 => inflation rate: -0.73%
+32.month: 08-2007 => inflation rate: 0.02%
+33.month: 09-2007 => inflation rate: 1.03%
+34.month: 10-2007 => inflation rate: 1.81%
+35.month: 11-2007 => inflation rate: 1.95%
+36.month: 12-2007 => inflation rate: 0.22%
+->accum: 92.13 try (in 12 months)
+
+=> ACCUM: 77.84 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 01-2008 => inflation rate: 0.8%
+38.month: 02-2008 => inflation rate: 1.29%
+39.month: 03-2008 => inflation rate: 0.96%
+40.month: 04-2008 => inflation rate: 1.68%
+41.month: 05-2008 => inflation rate: 1.49%
+42.month: 06-2008 => inflation rate: -0.36%
+43.month: 07-2008 => inflation rate: 0.58%
+44.month: 08-2008 => inflation rate: -0.24%
+45.month: 09-2008 => inflation rate: 0.45%
+46.month: 10-2008 => inflation rate: 2.6%
+47.month: 11-2008 => inflation rate: 0.83%
+48.month: 12-2008 => inflation rate: -0.41%
+->accum: 90.7 try (in 12 months)
+
+=> ACCUM: 70.6 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 01-2009 => inflation rate: 0.29%
+50.month: 02-2009 => inflation rate: -0.34%
+51.month: 03-2009 => inflation rate: 1.1%
+52.month: 04-2009 => inflation rate: 0.02%
+53.month: 05-2009 => inflation rate: 0.64%
+54.month: 06-2009 => inflation rate: 0.11%
+55.month: 07-2009 => inflation rate: 0.25%
+56.month: 08-2009 => inflation rate: -0.3%
+57.month: 09-2009 => inflation rate: 0.39%
+58.month: 10-2009 => inflation rate: 2.41%
+59.month: 11-2009 => inflation rate: 1.27%
+60.month: 12-2009 => inflation rate: 0.53%
+->accum: 93.78 try (in 12 months)
+
+=> ACCUM: 66.21 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 01-2010 => inflation rate: 1.85%
+62.month: 02-2010 => inflation rate: 1.45%
+63.month: 03-2010 => inflation rate: 0.58%
+64.month: 04-2010 => inflation rate: 0.6%
+65.month: 05-2010 => inflation rate: -0.36%
+66.month: 06-2010 => inflation rate: -0.56%
+67.month: 07-2010 => inflation rate: -0.48%
+68.month: 08-2010 => inflation rate: 0.4%
+69.month: 09-2010 => inflation rate: 1.23%
+70.month: 10-2010 => inflation rate: 1.83%
+71.month: 11-2010 => inflation rate: 0.03%
+72.month: 12-2010 => inflation rate: -0.3%
+->accum: 93.86 try (in 12 months)
+
+=> ACCUM: 62.16 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 01-2011 => inflation rate: 0.41%
+74.month: 02-2011 => inflation rate: 0.73%
+75.month: 03-2011 => inflation rate: 0.42%
+76.month: 04-2011 => inflation rate: 0.87%
+77.month: 05-2011 => inflation rate: 2.42%
+78.month: 06-2011 => inflation rate: -1.43%
+79.month: 07-2011 => inflation rate: -0.41%
+80.month: 08-2011 => inflation rate: 0.73%
+81.month: 09-2011 => inflation rate: 0.75%
+82.month: 10-2011 => inflation rate: 3.27%
+83.month: 11-2011 => inflation rate: 1.73%
+84.month: 12-2011 => inflation rate: 0.58%
+->accum: 90.3 try (in 12 months)
+
+=> ACCUM: 56.15 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 01-2012 => inflation rate: 0.56%
+86.month: 02-2012 => inflation rate: 0.56%
+87.month: 03-2012 => inflation rate: 0.41%
+88.month: 04-2012 => inflation rate: 1.52%
+89.month: 05-2012 => inflation rate: -0.21%
+90.month: 06-2012 => inflation rate: -0.9%
+91.month: 07-2012 => inflation rate: -0.23%
+92.month: 08-2012 => inflation rate: 0.56%
+93.month: 09-2012 => inflation rate: 1.03%
+94.month: 10-2012 => inflation rate: 1.96%
+95.month: 11-2012 => inflation rate: 0.38%
+96.month: 12-2012 => inflation rate: 0.38%
+->accum: 94.09 try (in 12 months)
+
+=> ACCUM: 52.85 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 01-2013 => inflation rate: 1.65%
+98.month: 02-2013 => inflation rate: 0.3%
+99.month: 03-2013 => inflation rate: 0.66%
+100.month: 04-2013 => inflation rate: 0.42%
+101.month: 05-2013 => inflation rate: 0.15%
+102.month: 06-2013 => inflation rate: 0.76%
+103.month: 07-2013 => inflation rate: 0.31%
+104.month: 08-2013 => inflation rate: -0.1%
+105.month: 09-2013 => inflation rate: 0.77%
+106.month: 10-2013 => inflation rate: 1.8%
+107.month: 11-2013 => inflation rate: 0.01%
+108.month: 12-2013 => inflation rate: 0.46%
+->accum: 93.01 try (in 12 months)
+
+=> ACCUM: 49.15 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 01-2014 => inflation rate: 1.98%
+110.month: 02-2014 => inflation rate: 0.43%
+111.month: 03-2014 => inflation rate: 1.13%
+112.month: 04-2014 => inflation rate: 1.34%
+113.month: 05-2014 => inflation rate: 0.4%
+114.month: 06-2014 => inflation rate: 0.31%
+115.month: 07-2014 => inflation rate: 0.45%
+116.month: 08-2014 => inflation rate: 0.09%
+117.month: 09-2014 => inflation rate: 0.14%
+118.month: 10-2014 => inflation rate: 1.9%
+119.month: 11-2014 => inflation rate: 0.18%
+120.month: 12-2014 => inflation rate: -0.44%
+->accum: 92.35 try (in 12 months)
+
+=> ACCUM: 45.39 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 01-2015 => inflation rate: 1.1%
+122.month: 02-2015 => inflation rate: 0.71%
+123.month: 03-2015 => inflation rate: 1.19%
+124.month: 04-2015 => inflation rate: 1.63%
+125.month: 05-2015 => inflation rate: 0.56%
+126.month: 06-2015 => inflation rate: -0.51%
+127.month: 07-2015 => inflation rate: 0.09%
+128.month: 08-2015 => inflation rate: 0.4%
+129.month: 09-2015 => inflation rate: 0.89%
+130.month: 10-2015 => inflation rate: 1.55%
+131.month: 11-2015 => inflation rate: 0.67%
+132.month: 12-2015 => inflation rate: 0.21%
+->accum: 91.82 try (in 12 months)
+
+=> ACCUM: 41.68 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 01-2016 => inflation rate: 1.82%
+134.month: 02-2016 => inflation rate: -0.02%
+135.month: 03-2016 => inflation rate: -0.04%
+136.month: 04-2016 => inflation rate: 0.78%
+137.month: 05-2016 => inflation rate: 0.58%
+138.month: 06-2016 => inflation rate: 0.47%
+139.month: 07-2016 => inflation rate: 1.16%
+140.month: 08-2016 => inflation rate: -0.29%
+141.month: 09-2016 => inflation rate: 0.18%
+142.month: 10-2016 => inflation rate: 1.44%
+143.month: 11-2016 => inflation rate: 0.52%
+144.month: 12-2016 => inflation rate: 1.64%
+->accum: 92.04 try (in 12 months)
+
+=> ACCUM: 38.37 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 01-2017 => inflation rate: 2.46%
+146.month: 02-2017 => inflation rate: 0.81%
+147.month: 03-2017 => inflation rate: 1.02%
+148.month: 04-2017 => inflation rate: 1.31%
+149.month: 05-2017 => inflation rate: 0.45%
+150.month: 06-2017 => inflation rate: -0.27%
+151.month: 07-2017 => inflation rate: 0.15%
+152.month: 08-2017 => inflation rate: 0.52%
+153.month: 09-2017 => inflation rate: 0.65%
+154.month: 10-2017 => inflation rate: 2.08%
+155.month: 11-2017 => inflation rate: 1.49%
+156.month: 12-2017 => inflation rate: 0.69%
+->accum: 89.17 try (in 12 months)
+
+=> ACCUM: 34.24 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 01-2018 => inflation rate: 1.02%
+158.month: 02-2018 => inflation rate: 0.73%
+159.month: 03-2018 => inflation rate: 0.99%
+160.month: 04-2018 => inflation rate: 1.87%
+161.month: 05-2018 => inflation rate: 1.62%
+162.month: 06-2018 => inflation rate: 2.61%
+163.month: 07-2018 => inflation rate: 0.55%
+164.month: 08-2018 => inflation rate: 2.3%
+165.month: 09-2018 => inflation rate: 6.3%
+166.month: 10-2018 => inflation rate: 2.67%
+167.month: 11-2018 => inflation rate: -1.44%
+168.month: 12-2018 => inflation rate: -0.4%
+->accum: 82.56 try (in 12 months)
+
+=> ACCUM: 28.26 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 01-2019 => inflation rate: 1.06%
+170.month: 02-2019 => inflation rate: 0.16%
+171.month: 03-2019 => inflation rate: 1.03%
+172.month: 04-2019 => inflation rate: 1.69%
+173.month: 05-2019 => inflation rate: 0.95%
+174.month: 06-2019 => inflation rate: 0.03%
+175.month: 07-2019 => inflation rate: 1.36%
+176.month: 08-2019 => inflation rate: 0.86%
+177.month: 09-2019 => inflation rate: 0.99%
+178.month: 10-2019 => inflation rate: 2%
+179.month: 11-2019 => inflation rate: 0.38%
+180.month: 12-2019 => inflation rate: 0.74%
+->accum: 89.3 try (in 12 months)
+
+=> ACCUM: 25.22 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 01-2020 => inflation rate: 1.35%
+182.month: 02-2020 => inflation rate: 0.35%
+183.month: 03-2020 => inflation rate: 0.57%
+184.month: 04-2020 => inflation rate: 0.85%
+185.month: 05-2020 => inflation rate: 1.36%
+186.month: 06-2020 => inflation rate: 1.13%
+187.month: 07-2020 => inflation rate: 0.58%
+188.month: 08-2020 => inflation rate: 0.86%
+189.month: 09-2020 => inflation rate: 0.97%
+190.month: 10-2020 => inflation rate: 2.13%
+191.month: 11-2020 => inflation rate: 2.3%
+192.month: 12-2020 => inflation rate: 1.25%
+->accum: 87.11 try (in 12 months)
+
+=> ACCUM: 21.97 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 01-2021 => inflation rate: 1.68%
+194.month: 02-2021 => inflation rate: 0.91%
+195.month: 03-2021 => inflation rate: 1.08%
+196.month: 04-2021 => inflation rate: 1.68%
+197.month: 05-2021 => inflation rate: 0.89%
+198.month: 06-2021 => inflation rate: 1.94%
+199.month: 07-2021 => inflation rate: 1.8%
+200.month: 08-2021 => inflation rate: 1.12%
+201.month: 09-2021 => inflation rate: 1.25%
+202.month: 10-2021 => inflation rate: 2.39%
+203.month: 11-2021 => inflation rate: 3.51%
+204.month: 12-2021 => inflation rate: 13.58%
+->accum: 71.88 try (in 12 months)
+
+=> ACCUM: 15.79 TRY (in 204 MONTHS)
+
+_____________________________________
+
+[Group-18]
+
+205.month: 01-2022 => inflation rate: 11.1%
+206.month: 02-2022 => inflation rate: 4.81%
+207.month: 03-2022 => inflation rate: 5.46%
+208.month: 04-2022 => inflation rate: 7.25%
+209.month: 05-2022 => inflation rate: 2.98%
+->accum: 71.99 try (in 5 months)
+
+=> ACCUM: 11.36 TRY (in 209 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 02-2005 #######
+
+[Group-01]
+
+1.month: 02-2005 => inflation rate: 0.02%
+2.month: 03-2005 => inflation rate: 0.26%
+3.month: 04-2005 => inflation rate: 0.71%
+4.month: 05-2005 => inflation rate: 0.92%
+5.month: 06-2005 => inflation rate: 0.1%
+6.month: 07-2005 => inflation rate: -0.57%
+7.month: 08-2005 => inflation rate: 0.85%
+8.month: 09-2005 => inflation rate: 1.02%
+9.month: 10-2005 => inflation rate: 1.79%
+10.month: 11-2005 => inflation rate: 1.4%
+11.month: 12-2005 => inflation rate: 0.42%
+12.month: 01-2006 => inflation rate: 0.75%
+->accum: 92.57 try (in 12 months)
+
+=> ACCUM: 92.57 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 02-2006 => inflation rate: 0.22%
+14.month: 03-2006 => inflation rate: 0.27%
+15.month: 04-2006 => inflation rate: 1.34%
+16.month: 05-2006 => inflation rate: 1.88%
+17.month: 06-2006 => inflation rate: 0.34%
+18.month: 07-2006 => inflation rate: 0.85%
+19.month: 08-2006 => inflation rate: -0.44%
+20.month: 09-2006 => inflation rate: 1.29%
+21.month: 10-2006 => inflation rate: 1.27%
+22.month: 11-2006 => inflation rate: 1.29%
+23.month: 12-2006 => inflation rate: 0.23%
+24.month: 01-2007 => inflation rate: 1%
+->accum: 90.84 try (in 12 months)
+
+=> ACCUM: 84.1 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 02-2007 => inflation rate: 0.43%
+26.month: 03-2007 => inflation rate: 0.92%
+27.month: 04-2007 => inflation rate: 1.21%
+28.month: 05-2007 => inflation rate: 0.5%
+29.month: 06-2007 => inflation rate: -0.24%
+30.month: 07-2007 => inflation rate: -0.73%
+31.month: 08-2007 => inflation rate: 0.02%
+32.month: 09-2007 => inflation rate: 1.03%
+33.month: 10-2007 => inflation rate: 1.81%
+34.month: 11-2007 => inflation rate: 1.95%
+35.month: 12-2007 => inflation rate: 0.22%
+36.month: 01-2008 => inflation rate: 0.8%
+->accum: 92.32 try (in 12 months)
+
+=> ACCUM: 77.66 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 02-2008 => inflation rate: 1.29%
+38.month: 03-2008 => inflation rate: 0.96%
+39.month: 04-2008 => inflation rate: 1.68%
+40.month: 05-2008 => inflation rate: 1.49%
+41.month: 06-2008 => inflation rate: -0.36%
+42.month: 07-2008 => inflation rate: 0.58%
+43.month: 08-2008 => inflation rate: -0.24%
+44.month: 09-2008 => inflation rate: 0.45%
+45.month: 10-2008 => inflation rate: 2.6%
+46.month: 11-2008 => inflation rate: 0.83%
+47.month: 12-2008 => inflation rate: -0.41%
+48.month: 01-2009 => inflation rate: 0.29%
+->accum: 91.17 try (in 12 months)
+
+=> ACCUM: 70.8 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 02-2009 => inflation rate: -0.34%
+50.month: 03-2009 => inflation rate: 1.1%
+51.month: 04-2009 => inflation rate: 0.02%
+52.month: 05-2009 => inflation rate: 0.64%
+53.month: 06-2009 => inflation rate: 0.11%
+54.month: 07-2009 => inflation rate: 0.25%
+55.month: 08-2009 => inflation rate: -0.3%
+56.month: 09-2009 => inflation rate: 0.39%
+57.month: 10-2009 => inflation rate: 2.41%
+58.month: 11-2009 => inflation rate: 1.27%
+59.month: 12-2009 => inflation rate: 0.53%
+60.month: 01-2010 => inflation rate: 1.85%
+->accum: 92.31 try (in 12 months)
+
+=> ACCUM: 65.38 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 02-2010 => inflation rate: 1.45%
+62.month: 03-2010 => inflation rate: 0.58%
+63.month: 04-2010 => inflation rate: 0.6%
+64.month: 05-2010 => inflation rate: -0.36%
+65.month: 06-2010 => inflation rate: -0.56%
+66.month: 07-2010 => inflation rate: -0.48%
+67.month: 08-2010 => inflation rate: 0.4%
+68.month: 09-2010 => inflation rate: 1.23%
+69.month: 10-2010 => inflation rate: 1.83%
+70.month: 11-2010 => inflation rate: 0.03%
+71.month: 12-2010 => inflation rate: -0.3%
+72.month: 01-2011 => inflation rate: 0.41%
+->accum: 95.24 try (in 12 months)
+
+=> ACCUM: 62.28 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 02-2011 => inflation rate: 0.73%
+74.month: 03-2011 => inflation rate: 0.42%
+75.month: 04-2011 => inflation rate: 0.87%
+76.month: 05-2011 => inflation rate: 2.42%
+77.month: 06-2011 => inflation rate: -1.43%
+78.month: 07-2011 => inflation rate: -0.41%
+79.month: 08-2011 => inflation rate: 0.73%
+80.month: 09-2011 => inflation rate: 0.75%
+81.month: 10-2011 => inflation rate: 3.27%
+82.month: 11-2011 => inflation rate: 1.73%
+83.month: 12-2011 => inflation rate: 0.58%
+84.month: 01-2012 => inflation rate: 0.56%
+->accum: 90.16 try (in 12 months)
+
+=> ACCUM: 56.16 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 02-2012 => inflation rate: 0.56%
+86.month: 03-2012 => inflation rate: 0.41%
+87.month: 04-2012 => inflation rate: 1.52%
+88.month: 05-2012 => inflation rate: -0.21%
+89.month: 06-2012 => inflation rate: -0.9%
+90.month: 07-2012 => inflation rate: -0.23%
+91.month: 08-2012 => inflation rate: 0.56%
+92.month: 09-2012 => inflation rate: 1.03%
+93.month: 10-2012 => inflation rate: 1.96%
+94.month: 11-2012 => inflation rate: 0.38%
+95.month: 12-2012 => inflation rate: 0.38%
+96.month: 01-2013 => inflation rate: 1.65%
+->accum: 93.08 try (in 12 months)
+
+=> ACCUM: 52.28 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 02-2013 => inflation rate: 0.3%
+98.month: 03-2013 => inflation rate: 0.66%
+99.month: 04-2013 => inflation rate: 0.42%
+100.month: 05-2013 => inflation rate: 0.15%
+101.month: 06-2013 => inflation rate: 0.76%
+102.month: 07-2013 => inflation rate: 0.31%
+103.month: 08-2013 => inflation rate: -0.1%
+104.month: 09-2013 => inflation rate: 0.77%
+105.month: 10-2013 => inflation rate: 1.8%
+106.month: 11-2013 => inflation rate: 0.01%
+107.month: 12-2013 => inflation rate: 0.46%
+108.month: 01-2014 => inflation rate: 1.98%
+->accum: 92.71 try (in 12 months)
+
+=> ACCUM: 48.47 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 02-2014 => inflation rate: 0.43%
+110.month: 03-2014 => inflation rate: 1.13%
+111.month: 04-2014 => inflation rate: 1.34%
+112.month: 05-2014 => inflation rate: 0.4%
+113.month: 06-2014 => inflation rate: 0.31%
+114.month: 07-2014 => inflation rate: 0.45%
+115.month: 08-2014 => inflation rate: 0.09%
+116.month: 09-2014 => inflation rate: 0.14%
+117.month: 10-2014 => inflation rate: 1.9%
+118.month: 11-2014 => inflation rate: 0.18%
+119.month: 12-2014 => inflation rate: -0.44%
+120.month: 01-2015 => inflation rate: 1.1%
+->accum: 93.16 try (in 12 months)
+
+=> ACCUM: 45.15 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 02-2015 => inflation rate: 0.71%
+122.month: 03-2015 => inflation rate: 1.19%
+123.month: 04-2015 => inflation rate: 1.63%
+124.month: 05-2015 => inflation rate: 0.56%
+125.month: 06-2015 => inflation rate: -0.51%
+126.month: 07-2015 => inflation rate: 0.09%
+127.month: 08-2015 => inflation rate: 0.4%
+128.month: 09-2015 => inflation rate: 0.89%
+129.month: 10-2015 => inflation rate: 1.55%
+130.month: 11-2015 => inflation rate: 0.67%
+131.month: 12-2015 => inflation rate: 0.21%
+132.month: 01-2016 => inflation rate: 1.82%
+->accum: 91.14 try (in 12 months)
+
+=> ACCUM: 41.16 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 02-2016 => inflation rate: -0.02%
+134.month: 03-2016 => inflation rate: -0.04%
+135.month: 04-2016 => inflation rate: 0.78%
+136.month: 05-2016 => inflation rate: 0.58%
+137.month: 06-2016 => inflation rate: 0.47%
+138.month: 07-2016 => inflation rate: 1.16%
+139.month: 08-2016 => inflation rate: -0.29%
+140.month: 09-2016 => inflation rate: 0.18%
+141.month: 10-2016 => inflation rate: 1.44%
+142.month: 11-2016 => inflation rate: 0.52%
+143.month: 12-2016 => inflation rate: 1.64%
+144.month: 01-2017 => inflation rate: 2.46%
+->accum: 91.43 try (in 12 months)
+
+=> ACCUM: 37.64 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 02-2017 => inflation rate: 0.81%
+146.month: 03-2017 => inflation rate: 1.02%
+147.month: 04-2017 => inflation rate: 1.31%
+148.month: 05-2017 => inflation rate: 0.45%
+149.month: 06-2017 => inflation rate: -0.27%
+150.month: 07-2017 => inflation rate: 0.15%
+151.month: 08-2017 => inflation rate: 0.52%
+152.month: 09-2017 => inflation rate: 0.65%
+153.month: 10-2017 => inflation rate: 2.08%
+154.month: 11-2017 => inflation rate: 1.49%
+155.month: 12-2017 => inflation rate: 0.69%
+156.month: 01-2018 => inflation rate: 1.02%
+->accum: 90.49 try (in 12 months)
+
+=> ACCUM: 34.08 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 02-2018 => inflation rate: 0.73%
+158.month: 03-2018 => inflation rate: 0.99%
+159.month: 04-2018 => inflation rate: 1.87%
+160.month: 05-2018 => inflation rate: 1.62%
+161.month: 06-2018 => inflation rate: 2.61%
+162.month: 07-2018 => inflation rate: 0.55%
+163.month: 08-2018 => inflation rate: 2.3%
+164.month: 09-2018 => inflation rate: 6.3%
+165.month: 10-2018 => inflation rate: 2.67%
+166.month: 11-2018 => inflation rate: -1.44%
+167.month: 12-2018 => inflation rate: -0.4%
+168.month: 01-2019 => inflation rate: 1.06%
+->accum: 82.51 try (in 12 months)
+
+=> ACCUM: 28.12 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 02-2019 => inflation rate: 0.16%
+170.month: 03-2019 => inflation rate: 1.03%
+171.month: 04-2019 => inflation rate: 1.69%
+172.month: 05-2019 => inflation rate: 0.95%
+173.month: 06-2019 => inflation rate: 0.03%
+174.month: 07-2019 => inflation rate: 1.36%
+175.month: 08-2019 => inflation rate: 0.86%
+176.month: 09-2019 => inflation rate: 0.99%
+177.month: 10-2019 => inflation rate: 2%
+178.month: 11-2019 => inflation rate: 0.38%
+179.month: 12-2019 => inflation rate: 0.74%
+180.month: 01-2020 => inflation rate: 1.35%
+->accum: 89.03 try (in 12 months)
+
+=> ACCUM: 25.04 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 02-2020 => inflation rate: 0.35%
+182.month: 03-2020 => inflation rate: 0.57%
+183.month: 04-2020 => inflation rate: 0.85%
+184.month: 05-2020 => inflation rate: 1.36%
+185.month: 06-2020 => inflation rate: 1.13%
+186.month: 07-2020 => inflation rate: 0.58%
+187.month: 08-2020 => inflation rate: 0.86%
+188.month: 09-2020 => inflation rate: 0.97%
+189.month: 10-2020 => inflation rate: 2.13%
+190.month: 11-2020 => inflation rate: 2.3%
+191.month: 12-2020 => inflation rate: 1.25%
+192.month: 01-2021 => inflation rate: 1.68%
+->accum: 86.82 try (in 12 months)
+
+=> ACCUM: 21.74 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 02-2021 => inflation rate: 0.91%
+194.month: 03-2021 => inflation rate: 1.08%
+195.month: 04-2021 => inflation rate: 1.68%
+196.month: 05-2021 => inflation rate: 0.89%
+197.month: 06-2021 => inflation rate: 1.94%
+198.month: 07-2021 => inflation rate: 1.8%
+199.month: 08-2021 => inflation rate: 1.12%
+200.month: 09-2021 => inflation rate: 1.25%
+201.month: 10-2021 => inflation rate: 2.39%
+202.month: 11-2021 => inflation rate: 3.51%
+203.month: 12-2021 => inflation rate: 13.58%
+204.month: 01-2022 => inflation rate: 11.1%
+->accum: 64.98 try (in 12 months)
+
+=> ACCUM: 14.12 TRY (in 204 MONTHS)
+
+_____________________________________
+
+[Group-18]
+
+205.month: 02-2022 => inflation rate: 4.81%
+206.month: 03-2022 => inflation rate: 5.46%
+207.month: 04-2022 => inflation rate: 7.25%
+208.month: 05-2022 => inflation rate: 2.98%
+->accum: 80.98 try (in 4 months)
+
+=> ACCUM: 11.44 TRY (in 208 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 03-2005 #######
+
+[Group-01]
+
+1.month: 03-2005 => inflation rate: 0.26%
+2.month: 04-2005 => inflation rate: 0.71%
+3.month: 05-2005 => inflation rate: 0.92%
+4.month: 06-2005 => inflation rate: 0.1%
+5.month: 07-2005 => inflation rate: -0.57%
+6.month: 08-2005 => inflation rate: 0.85%
+7.month: 09-2005 => inflation rate: 1.02%
+8.month: 10-2005 => inflation rate: 1.79%
+9.month: 11-2005 => inflation rate: 1.4%
+10.month: 12-2005 => inflation rate: 0.42%
+11.month: 01-2006 => inflation rate: 0.75%
+12.month: 02-2006 => inflation rate: 0.22%
+->accum: 92.39 try (in 12 months)
+
+=> ACCUM: 92.39 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 03-2006 => inflation rate: 0.27%
+14.month: 04-2006 => inflation rate: 1.34%
+15.month: 05-2006 => inflation rate: 1.88%
+16.month: 06-2006 => inflation rate: 0.34%
+17.month: 07-2006 => inflation rate: 0.85%
+18.month: 08-2006 => inflation rate: -0.44%
+19.month: 09-2006 => inflation rate: 1.29%
+20.month: 10-2006 => inflation rate: 1.27%
+21.month: 11-2006 => inflation rate: 1.29%
+22.month: 12-2006 => inflation rate: 0.23%
+23.month: 01-2007 => inflation rate: 1%
+24.month: 02-2007 => inflation rate: 0.43%
+->accum: 90.65 try (in 12 months)
+
+=> ACCUM: 83.76 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 03-2007 => inflation rate: 0.92%
+26.month: 04-2007 => inflation rate: 1.21%
+27.month: 05-2007 => inflation rate: 0.5%
+28.month: 06-2007 => inflation rate: -0.24%
+29.month: 07-2007 => inflation rate: -0.73%
+30.month: 08-2007 => inflation rate: 0.02%
+31.month: 09-2007 => inflation rate: 1.03%
+32.month: 10-2007 => inflation rate: 1.81%
+33.month: 11-2007 => inflation rate: 1.95%
+34.month: 12-2007 => inflation rate: 0.22%
+35.month: 01-2008 => inflation rate: 0.8%
+36.month: 02-2008 => inflation rate: 1.29%
+->accum: 91.52 try (in 12 months)
+
+=> ACCUM: 76.67 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 03-2008 => inflation rate: 0.96%
+38.month: 04-2008 => inflation rate: 1.68%
+39.month: 05-2008 => inflation rate: 1.49%
+40.month: 06-2008 => inflation rate: -0.36%
+41.month: 07-2008 => inflation rate: 0.58%
+42.month: 08-2008 => inflation rate: -0.24%
+43.month: 09-2008 => inflation rate: 0.45%
+44.month: 10-2008 => inflation rate: 2.6%
+45.month: 11-2008 => inflation rate: 0.83%
+46.month: 12-2008 => inflation rate: -0.41%
+47.month: 01-2009 => inflation rate: 0.29%
+48.month: 02-2009 => inflation rate: -0.34%
+->accum: 92.69 try (in 12 months)
+
+=> ACCUM: 71.05 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 03-2009 => inflation rate: 1.1%
+50.month: 04-2009 => inflation rate: 0.02%
+51.month: 05-2009 => inflation rate: 0.64%
+52.month: 06-2009 => inflation rate: 0.11%
+53.month: 07-2009 => inflation rate: 0.25%
+54.month: 08-2009 => inflation rate: -0.3%
+55.month: 09-2009 => inflation rate: 0.39%
+56.month: 10-2009 => inflation rate: 2.41%
+57.month: 11-2009 => inflation rate: 1.27%
+58.month: 12-2009 => inflation rate: 0.53%
+59.month: 01-2010 => inflation rate: 1.85%
+60.month: 02-2010 => inflation rate: 1.45%
+->accum: 90.67 try (in 12 months)
+
+=> ACCUM: 64.44 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 03-2010 => inflation rate: 0.58%
+62.month: 04-2010 => inflation rate: 0.6%
+63.month: 05-2010 => inflation rate: -0.36%
+64.month: 06-2010 => inflation rate: -0.56%
+65.month: 07-2010 => inflation rate: -0.48%
+66.month: 08-2010 => inflation rate: 0.4%
+67.month: 09-2010 => inflation rate: 1.23%
+68.month: 10-2010 => inflation rate: 1.83%
+69.month: 11-2010 => inflation rate: 0.03%
+70.month: 12-2010 => inflation rate: -0.3%
+71.month: 01-2011 => inflation rate: 0.41%
+72.month: 02-2011 => inflation rate: 0.73%
+->accum: 95.94 try (in 12 months)
+
+=> ACCUM: 61.84 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 03-2011 => inflation rate: 0.42%
+74.month: 04-2011 => inflation rate: 0.87%
+75.month: 05-2011 => inflation rate: 2.42%
+76.month: 06-2011 => inflation rate: -1.43%
+77.month: 07-2011 => inflation rate: -0.41%
+78.month: 08-2011 => inflation rate: 0.73%
+79.month: 09-2011 => inflation rate: 0.75%
+80.month: 10-2011 => inflation rate: 3.27%
+81.month: 11-2011 => inflation rate: 1.73%
+82.month: 12-2011 => inflation rate: 0.58%
+83.month: 01-2012 => inflation rate: 0.56%
+84.month: 02-2012 => inflation rate: 0.56%
+->accum: 90.32 try (in 12 months)
+
+=> ACCUM: 55.86 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 03-2012 => inflation rate: 0.41%
+86.month: 04-2012 => inflation rate: 1.52%
+87.month: 05-2012 => inflation rate: -0.21%
+88.month: 06-2012 => inflation rate: -0.9%
+89.month: 07-2012 => inflation rate: -0.23%
+90.month: 08-2012 => inflation rate: 0.56%
+91.month: 09-2012 => inflation rate: 1.03%
+92.month: 10-2012 => inflation rate: 1.96%
+93.month: 11-2012 => inflation rate: 0.38%
+94.month: 12-2012 => inflation rate: 0.38%
+95.month: 01-2013 => inflation rate: 1.65%
+96.month: 02-2013 => inflation rate: 0.3%
+->accum: 93.33 try (in 12 months)
+
+=> ACCUM: 52.13 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 03-2013 => inflation rate: 0.66%
+98.month: 04-2013 => inflation rate: 0.42%
+99.month: 05-2013 => inflation rate: 0.15%
+100.month: 06-2013 => inflation rate: 0.76%
+101.month: 07-2013 => inflation rate: 0.31%
+102.month: 08-2013 => inflation rate: -0.1%
+103.month: 09-2013 => inflation rate: 0.77%
+104.month: 10-2013 => inflation rate: 1.8%
+105.month: 11-2013 => inflation rate: 0.01%
+106.month: 12-2013 => inflation rate: 0.46%
+107.month: 01-2014 => inflation rate: 1.98%
+108.month: 02-2014 => inflation rate: 0.43%
+->accum: 92.59 try (in 12 months)
+
+=> ACCUM: 48.27 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 03-2014 => inflation rate: 1.13%
+110.month: 04-2014 => inflation rate: 1.34%
+111.month: 05-2014 => inflation rate: 0.4%
+112.month: 06-2014 => inflation rate: 0.31%
+113.month: 07-2014 => inflation rate: 0.45%
+114.month: 08-2014 => inflation rate: 0.09%
+115.month: 09-2014 => inflation rate: 0.14%
+116.month: 10-2014 => inflation rate: 1.9%
+117.month: 11-2014 => inflation rate: 0.18%
+118.month: 12-2014 => inflation rate: -0.44%
+119.month: 01-2015 => inflation rate: 1.1%
+120.month: 02-2015 => inflation rate: 0.71%
+->accum: 92.91 try (in 12 months)
+
+=> ACCUM: 44.84 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 03-2015 => inflation rate: 1.19%
+122.month: 04-2015 => inflation rate: 1.63%
+123.month: 05-2015 => inflation rate: 0.56%
+124.month: 06-2015 => inflation rate: -0.51%
+125.month: 07-2015 => inflation rate: 0.09%
+126.month: 08-2015 => inflation rate: 0.4%
+127.month: 09-2015 => inflation rate: 0.89%
+128.month: 10-2015 => inflation rate: 1.55%
+129.month: 11-2015 => inflation rate: 0.67%
+130.month: 12-2015 => inflation rate: 0.21%
+131.month: 01-2016 => inflation rate: 1.82%
+132.month: 02-2016 => inflation rate: -0.02%
+->accum: 91.81 try (in 12 months)
+
+=> ACCUM: 41.18 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 03-2016 => inflation rate: -0.04%
+134.month: 04-2016 => inflation rate: 0.78%
+135.month: 05-2016 => inflation rate: 0.58%
+136.month: 06-2016 => inflation rate: 0.47%
+137.month: 07-2016 => inflation rate: 1.16%
+138.month: 08-2016 => inflation rate: -0.29%
+139.month: 09-2016 => inflation rate: 0.18%
+140.month: 10-2016 => inflation rate: 1.44%
+141.month: 11-2016 => inflation rate: 0.52%
+142.month: 12-2016 => inflation rate: 1.64%
+143.month: 01-2017 => inflation rate: 2.46%
+144.month: 02-2017 => inflation rate: 0.81%
+->accum: 90.67 try (in 12 months)
+
+=> ACCUM: 37.35 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 03-2017 => inflation rate: 1.02%
+146.month: 04-2017 => inflation rate: 1.31%
+147.month: 05-2017 => inflation rate: 0.45%
+148.month: 06-2017 => inflation rate: -0.27%
+149.month: 07-2017 => inflation rate: 0.15%
+150.month: 08-2017 => inflation rate: 0.52%
+151.month: 09-2017 => inflation rate: 0.65%
+152.month: 10-2017 => inflation rate: 2.08%
+153.month: 11-2017 => inflation rate: 1.49%
+154.month: 12-2017 => inflation rate: 0.69%
+155.month: 01-2018 => inflation rate: 1.02%
+156.month: 02-2018 => inflation rate: 0.73%
+->accum: 90.56 try (in 12 months)
+
+=> ACCUM: 33.84 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 03-2018 => inflation rate: 0.99%
+158.month: 04-2018 => inflation rate: 1.87%
+159.month: 05-2018 => inflation rate: 1.62%
+160.month: 06-2018 => inflation rate: 2.61%
+161.month: 07-2018 => inflation rate: 0.55%
+162.month: 08-2018 => inflation rate: 2.3%
+163.month: 09-2018 => inflation rate: 6.3%
+164.month: 10-2018 => inflation rate: 2.67%
+165.month: 11-2018 => inflation rate: -1.44%
+166.month: 12-2018 => inflation rate: -0.4%
+167.month: 01-2019 => inflation rate: 1.06%
+168.month: 02-2019 => inflation rate: 0.16%
+->accum: 83 try (in 12 months)
+
+=> ACCUM: 28.08 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 03-2019 => inflation rate: 1.03%
+170.month: 04-2019 => inflation rate: 1.69%
+171.month: 05-2019 => inflation rate: 0.95%
+172.month: 06-2019 => inflation rate: 0.03%
+173.month: 07-2019 => inflation rate: 1.36%
+174.month: 08-2019 => inflation rate: 0.86%
+175.month: 09-2019 => inflation rate: 0.99%
+176.month: 10-2019 => inflation rate: 2%
+177.month: 11-2019 => inflation rate: 0.38%
+178.month: 12-2019 => inflation rate: 0.74%
+179.month: 01-2020 => inflation rate: 1.35%
+180.month: 02-2020 => inflation rate: 0.35%
+->accum: 88.87 try (in 12 months)
+
+=> ACCUM: 24.95 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 03-2020 => inflation rate: 0.57%
+182.month: 04-2020 => inflation rate: 0.85%
+183.month: 05-2020 => inflation rate: 1.36%
+184.month: 06-2020 => inflation rate: 1.13%
+185.month: 07-2020 => inflation rate: 0.58%
+186.month: 08-2020 => inflation rate: 0.86%
+187.month: 09-2020 => inflation rate: 0.97%
+188.month: 10-2020 => inflation rate: 2.13%
+189.month: 11-2020 => inflation rate: 2.3%
+190.month: 12-2020 => inflation rate: 1.25%
+191.month: 01-2021 => inflation rate: 1.68%
+192.month: 02-2021 => inflation rate: 0.91%
+->accum: 86.33 try (in 12 months)
+
+=> ACCUM: 21.54 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 03-2021 => inflation rate: 1.08%
+194.month: 04-2021 => inflation rate: 1.68%
+195.month: 05-2021 => inflation rate: 0.89%
+196.month: 06-2021 => inflation rate: 1.94%
+197.month: 07-2021 => inflation rate: 1.8%
+198.month: 08-2021 => inflation rate: 1.12%
+199.month: 09-2021 => inflation rate: 1.25%
+200.month: 10-2021 => inflation rate: 2.39%
+201.month: 11-2021 => inflation rate: 3.51%
+202.month: 12-2021 => inflation rate: 13.58%
+203.month: 01-2022 => inflation rate: 11.1%
+204.month: 02-2022 => inflation rate: 4.81%
+->accum: 62.43 try (in 12 months)
+
+=> ACCUM: 13.44 TRY (in 204 MONTHS)
+
+_____________________________________
+
+[Group-18]
+
+205.month: 03-2022 => inflation rate: 5.46%
+206.month: 04-2022 => inflation rate: 7.25%
+207.month: 05-2022 => inflation rate: 2.98%
+->accum: 85.08 try (in 3 months)
+
+=> ACCUM: 11.44 TRY (in 207 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 04-2005 #######
+
+[Group-01]
+
+1.month: 04-2005 => inflation rate: 0.71%
+2.month: 05-2005 => inflation rate: 0.92%
+3.month: 06-2005 => inflation rate: 0.1%
+4.month: 07-2005 => inflation rate: -0.57%
+5.month: 08-2005 => inflation rate: 0.85%
+6.month: 09-2005 => inflation rate: 1.02%
+7.month: 10-2005 => inflation rate: 1.79%
+8.month: 11-2005 => inflation rate: 1.4%
+9.month: 12-2005 => inflation rate: 0.42%
+10.month: 01-2006 => inflation rate: 0.75%
+11.month: 02-2006 => inflation rate: 0.22%
+12.month: 03-2006 => inflation rate: 0.27%
+->accum: 92.39 try (in 12 months)
+
+=> ACCUM: 92.39 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 04-2006 => inflation rate: 1.34%
+14.month: 05-2006 => inflation rate: 1.88%
+15.month: 06-2006 => inflation rate: 0.34%
+16.month: 07-2006 => inflation rate: 0.85%
+17.month: 08-2006 => inflation rate: -0.44%
+18.month: 09-2006 => inflation rate: 1.29%
+19.month: 10-2006 => inflation rate: 1.27%
+20.month: 11-2006 => inflation rate: 1.29%
+21.month: 12-2006 => inflation rate: 0.23%
+22.month: 01-2007 => inflation rate: 1%
+23.month: 02-2007 => inflation rate: 0.43%
+24.month: 03-2007 => inflation rate: 0.92%
+->accum: 90.07 try (in 12 months)
+
+=> ACCUM: 83.21 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 04-2007 => inflation rate: 1.21%
+26.month: 05-2007 => inflation rate: 0.5%
+27.month: 06-2007 => inflation rate: -0.24%
+28.month: 07-2007 => inflation rate: -0.73%
+29.month: 08-2007 => inflation rate: 0.02%
+30.month: 09-2007 => inflation rate: 1.03%
+31.month: 10-2007 => inflation rate: 1.81%
+32.month: 11-2007 => inflation rate: 1.95%
+33.month: 12-2007 => inflation rate: 0.22%
+34.month: 01-2008 => inflation rate: 0.8%
+35.month: 02-2008 => inflation rate: 1.29%
+36.month: 03-2008 => inflation rate: 0.96%
+->accum: 91.5 try (in 12 months)
+
+=> ACCUM: 76.14 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 04-2008 => inflation rate: 1.68%
+38.month: 05-2008 => inflation rate: 1.49%
+39.month: 06-2008 => inflation rate: -0.36%
+40.month: 07-2008 => inflation rate: 0.58%
+41.month: 08-2008 => inflation rate: -0.24%
+42.month: 09-2008 => inflation rate: 0.45%
+43.month: 10-2008 => inflation rate: 2.6%
+44.month: 11-2008 => inflation rate: 0.83%
+45.month: 12-2008 => inflation rate: -0.41%
+46.month: 01-2009 => inflation rate: 0.29%
+47.month: 02-2009 => inflation rate: -0.34%
+48.month: 03-2009 => inflation rate: 1.1%
+->accum: 92.55 try (in 12 months)
+
+=> ACCUM: 70.47 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 04-2009 => inflation rate: 0.02%
+50.month: 05-2009 => inflation rate: 0.64%
+51.month: 06-2009 => inflation rate: 0.11%
+52.month: 07-2009 => inflation rate: 0.25%
+53.month: 08-2009 => inflation rate: -0.3%
+54.month: 09-2009 => inflation rate: 0.39%
+55.month: 10-2009 => inflation rate: 2.41%
+56.month: 11-2009 => inflation rate: 1.27%
+57.month: 12-2009 => inflation rate: 0.53%
+58.month: 01-2010 => inflation rate: 1.85%
+59.month: 02-2010 => inflation rate: 1.45%
+60.month: 03-2010 => inflation rate: 0.58%
+->accum: 91.15 try (in 12 months)
+
+=> ACCUM: 64.24 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 04-2010 => inflation rate: 0.6%
+62.month: 05-2010 => inflation rate: -0.36%
+63.month: 06-2010 => inflation rate: -0.56%
+64.month: 07-2010 => inflation rate: -0.48%
+65.month: 08-2010 => inflation rate: 0.4%
+66.month: 09-2010 => inflation rate: 1.23%
+67.month: 10-2010 => inflation rate: 1.83%
+68.month: 11-2010 => inflation rate: 0.03%
+69.month: 12-2010 => inflation rate: -0.3%
+70.month: 01-2011 => inflation rate: 0.41%
+71.month: 02-2011 => inflation rate: 0.73%
+72.month: 03-2011 => inflation rate: 0.42%
+->accum: 96.1 try (in 12 months)
+
+=> ACCUM: 61.72 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 04-2011 => inflation rate: 0.87%
+74.month: 05-2011 => inflation rate: 2.42%
+75.month: 06-2011 => inflation rate: -1.43%
+76.month: 07-2011 => inflation rate: -0.41%
+77.month: 08-2011 => inflation rate: 0.73%
+78.month: 09-2011 => inflation rate: 0.75%
+79.month: 10-2011 => inflation rate: 3.27%
+80.month: 11-2011 => inflation rate: 1.73%
+81.month: 12-2011 => inflation rate: 0.58%
+82.month: 01-2012 => inflation rate: 0.56%
+83.month: 02-2012 => inflation rate: 0.56%
+84.month: 03-2012 => inflation rate: 0.41%
+->accum: 90.34 try (in 12 months)
+
+=> ACCUM: 55.75 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 04-2012 => inflation rate: 1.52%
+86.month: 05-2012 => inflation rate: -0.21%
+87.month: 06-2012 => inflation rate: -0.9%
+88.month: 07-2012 => inflation rate: -0.23%
+89.month: 08-2012 => inflation rate: 0.56%
+90.month: 09-2012 => inflation rate: 1.03%
+91.month: 10-2012 => inflation rate: 1.96%
+92.month: 11-2012 => inflation rate: 0.38%
+93.month: 12-2012 => inflation rate: 0.38%
+94.month: 01-2013 => inflation rate: 1.65%
+95.month: 02-2013 => inflation rate: 0.3%
+96.month: 03-2013 => inflation rate: 0.66%
+->accum: 93.09 try (in 12 months)
+
+=> ACCUM: 51.92 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 04-2013 => inflation rate: 0.42%
+98.month: 05-2013 => inflation rate: 0.15%
+99.month: 06-2013 => inflation rate: 0.76%
+100.month: 07-2013 => inflation rate: 0.31%
+101.month: 08-2013 => inflation rate: -0.1%
+102.month: 09-2013 => inflation rate: 0.77%
+103.month: 10-2013 => inflation rate: 1.8%
+104.month: 11-2013 => inflation rate: 0.01%
+105.month: 12-2013 => inflation rate: 0.46%
+106.month: 01-2014 => inflation rate: 1.98%
+107.month: 02-2014 => inflation rate: 0.43%
+108.month: 03-2014 => inflation rate: 1.13%
+->accum: 92.15 try (in 12 months)
+
+=> ACCUM: 47.85 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 04-2014 => inflation rate: 1.34%
+110.month: 05-2014 => inflation rate: 0.4%
+111.month: 06-2014 => inflation rate: 0.31%
+112.month: 07-2014 => inflation rate: 0.45%
+113.month: 08-2014 => inflation rate: 0.09%
+114.month: 09-2014 => inflation rate: 0.14%
+115.month: 10-2014 => inflation rate: 1.9%
+116.month: 11-2014 => inflation rate: 0.18%
+117.month: 12-2014 => inflation rate: -0.44%
+118.month: 01-2015 => inflation rate: 1.1%
+119.month: 02-2015 => inflation rate: 0.71%
+120.month: 03-2015 => inflation rate: 1.19%
+->accum: 92.86 try (in 12 months)
+
+=> ACCUM: 44.43 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 04-2015 => inflation rate: 1.63%
+122.month: 05-2015 => inflation rate: 0.56%
+123.month: 06-2015 => inflation rate: -0.51%
+124.month: 07-2015 => inflation rate: 0.09%
+125.month: 08-2015 => inflation rate: 0.4%
+126.month: 09-2015 => inflation rate: 0.89%
+127.month: 10-2015 => inflation rate: 1.55%
+128.month: 11-2015 => inflation rate: 0.67%
+129.month: 12-2015 => inflation rate: 0.21%
+130.month: 01-2016 => inflation rate: 1.82%
+131.month: 02-2016 => inflation rate: -0.02%
+132.month: 03-2016 => inflation rate: -0.04%
+->accum: 92.97 try (in 12 months)
+
+=> ACCUM: 41.31 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 04-2016 => inflation rate: 0.78%
+134.month: 05-2016 => inflation rate: 0.58%
+135.month: 06-2016 => inflation rate: 0.47%
+136.month: 07-2016 => inflation rate: 1.16%
+137.month: 08-2016 => inflation rate: -0.29%
+138.month: 09-2016 => inflation rate: 0.18%
+139.month: 10-2016 => inflation rate: 1.44%
+140.month: 11-2016 => inflation rate: 0.52%
+141.month: 12-2016 => inflation rate: 1.64%
+142.month: 01-2017 => inflation rate: 2.46%
+143.month: 02-2017 => inflation rate: 0.81%
+144.month: 03-2017 => inflation rate: 1.02%
+->accum: 89.72 try (in 12 months)
+
+=> ACCUM: 37.06 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 04-2017 => inflation rate: 1.31%
+146.month: 05-2017 => inflation rate: 0.45%
+147.month: 06-2017 => inflation rate: -0.27%
+148.month: 07-2017 => inflation rate: 0.15%
+149.month: 08-2017 => inflation rate: 0.52%
+150.month: 09-2017 => inflation rate: 0.65%
+151.month: 10-2017 => inflation rate: 2.08%
+152.month: 11-2017 => inflation rate: 1.49%
+153.month: 12-2017 => inflation rate: 0.69%
+154.month: 01-2018 => inflation rate: 1.02%
+155.month: 02-2018 => inflation rate: 0.73%
+156.month: 03-2018 => inflation rate: 0.99%
+->accum: 90.6 try (in 12 months)
+
+=> ACCUM: 33.57 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 04-2018 => inflation rate: 1.87%
+158.month: 05-2018 => inflation rate: 1.62%
+159.month: 06-2018 => inflation rate: 2.61%
+160.month: 07-2018 => inflation rate: 0.55%
+161.month: 08-2018 => inflation rate: 2.3%
+162.month: 09-2018 => inflation rate: 6.3%
+163.month: 10-2018 => inflation rate: 2.67%
+164.month: 11-2018 => inflation rate: -1.44%
+165.month: 12-2018 => inflation rate: -0.4%
+166.month: 01-2019 => inflation rate: 1.06%
+167.month: 02-2019 => inflation rate: 0.16%
+168.month: 03-2019 => inflation rate: 1.03%
+->accum: 82.95 try (in 12 months)
+
+=> ACCUM: 27.84 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 04-2019 => inflation rate: 1.69%
+170.month: 05-2019 => inflation rate: 0.95%
+171.month: 06-2019 => inflation rate: 0.03%
+172.month: 07-2019 => inflation rate: 1.36%
+173.month: 08-2019 => inflation rate: 0.86%
+174.month: 09-2019 => inflation rate: 0.99%
+175.month: 10-2019 => inflation rate: 2%
+176.month: 11-2019 => inflation rate: 0.38%
+177.month: 12-2019 => inflation rate: 0.74%
+178.month: 01-2020 => inflation rate: 1.35%
+179.month: 02-2020 => inflation rate: 0.35%
+180.month: 03-2020 => inflation rate: 0.57%
+->accum: 89.28 try (in 12 months)
+
+=> ACCUM: 24.86 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 04-2020 => inflation rate: 0.85%
+182.month: 05-2020 => inflation rate: 1.36%
+183.month: 06-2020 => inflation rate: 1.13%
+184.month: 07-2020 => inflation rate: 0.58%
+185.month: 08-2020 => inflation rate: 0.86%
+186.month: 09-2020 => inflation rate: 0.97%
+187.month: 10-2020 => inflation rate: 2.13%
+188.month: 11-2020 => inflation rate: 2.3%
+189.month: 12-2020 => inflation rate: 1.25%
+190.month: 01-2021 => inflation rate: 1.68%
+191.month: 02-2021 => inflation rate: 0.91%
+192.month: 03-2021 => inflation rate: 1.08%
+->accum: 85.88 try (in 12 months)
+
+=> ACCUM: 21.35 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 04-2021 => inflation rate: 1.68%
+194.month: 05-2021 => inflation rate: 0.89%
+195.month: 06-2021 => inflation rate: 1.94%
+196.month: 07-2021 => inflation rate: 1.8%
+197.month: 08-2021 => inflation rate: 1.12%
+198.month: 09-2021 => inflation rate: 1.25%
+199.month: 10-2021 => inflation rate: 2.39%
+200.month: 11-2021 => inflation rate: 3.51%
+201.month: 12-2021 => inflation rate: 13.58%
+202.month: 01-2022 => inflation rate: 11.1%
+203.month: 02-2022 => inflation rate: 4.81%
+204.month: 03-2022 => inflation rate: 5.46%
+->accum: 59.65 try (in 12 months)
+
+=> ACCUM: 12.73 TRY (in 204 MONTHS)
+
+_____________________________________
+
+[Group-18]
+
+205.month: 04-2022 => inflation rate: 7.25%
+206.month: 05-2022 => inflation rate: 2.98%
+->accum: 89.99 try (in 2 months)
+
+=> ACCUM: 11.46 TRY (in 206 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 05-2005 #######
+
+[Group-01]
+
+1.month: 05-2005 => inflation rate: 0.92%
+2.month: 06-2005 => inflation rate: 0.1%
+3.month: 07-2005 => inflation rate: -0.57%
+4.month: 08-2005 => inflation rate: 0.85%
+5.month: 09-2005 => inflation rate: 1.02%
+6.month: 10-2005 => inflation rate: 1.79%
+7.month: 11-2005 => inflation rate: 1.4%
+8.month: 12-2005 => inflation rate: 0.42%
+9.month: 01-2006 => inflation rate: 0.75%
+10.month: 02-2006 => inflation rate: 0.22%
+11.month: 03-2006 => inflation rate: 0.27%
+12.month: 04-2006 => inflation rate: 1.34%
+->accum: 91.77 try (in 12 months)
+
+=> ACCUM: 91.77 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 05-2006 => inflation rate: 1.88%
+14.month: 06-2006 => inflation rate: 0.34%
+15.month: 07-2006 => inflation rate: 0.85%
+16.month: 08-2006 => inflation rate: -0.44%
+17.month: 09-2006 => inflation rate: 1.29%
+18.month: 10-2006 => inflation rate: 1.27%
+19.month: 11-2006 => inflation rate: 1.29%
+20.month: 12-2006 => inflation rate: 0.23%
+21.month: 01-2007 => inflation rate: 1%
+22.month: 02-2007 => inflation rate: 0.43%
+23.month: 03-2007 => inflation rate: 0.92%
+24.month: 04-2007 => inflation rate: 1.21%
+->accum: 90.19 try (in 12 months)
+
+=> ACCUM: 82.75 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 05-2007 => inflation rate: 0.5%
+26.month: 06-2007 => inflation rate: -0.24%
+27.month: 07-2007 => inflation rate: -0.73%
+28.month: 08-2007 => inflation rate: 0.02%
+29.month: 09-2007 => inflation rate: 1.03%
+30.month: 10-2007 => inflation rate: 1.81%
+31.month: 11-2007 => inflation rate: 1.95%
+32.month: 12-2007 => inflation rate: 0.22%
+33.month: 01-2008 => inflation rate: 0.8%
+34.month: 02-2008 => inflation rate: 1.29%
+35.month: 03-2008 => inflation rate: 0.96%
+36.month: 04-2008 => inflation rate: 1.68%
+->accum: 91.07 try (in 12 months)
+
+=> ACCUM: 75.35 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 05-2008 => inflation rate: 1.49%
+38.month: 06-2008 => inflation rate: -0.36%
+39.month: 07-2008 => inflation rate: 0.58%
+40.month: 08-2008 => inflation rate: -0.24%
+41.month: 09-2008 => inflation rate: 0.45%
+42.month: 10-2008 => inflation rate: 2.6%
+43.month: 11-2008 => inflation rate: 0.83%
+44.month: 12-2008 => inflation rate: -0.41%
+45.month: 01-2009 => inflation rate: 0.29%
+46.month: 02-2009 => inflation rate: -0.34%
+47.month: 03-2009 => inflation rate: 1.1%
+48.month: 04-2009 => inflation rate: 0.02%
+->accum: 94.11 try (in 12 months)
+
+=> ACCUM: 70.92 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 05-2009 => inflation rate: 0.64%
+50.month: 06-2009 => inflation rate: 0.11%
+51.month: 07-2009 => inflation rate: 0.25%
+52.month: 08-2009 => inflation rate: -0.3%
+53.month: 09-2009 => inflation rate: 0.39%
+54.month: 10-2009 => inflation rate: 2.41%
+55.month: 11-2009 => inflation rate: 1.27%
+56.month: 12-2009 => inflation rate: 0.53%
+57.month: 01-2010 => inflation rate: 1.85%
+58.month: 02-2010 => inflation rate: 1.45%
+59.month: 03-2010 => inflation rate: 0.58%
+60.month: 04-2010 => inflation rate: 0.6%
+->accum: 90.61 try (in 12 months)
+
+=> ACCUM: 64.26 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 05-2010 => inflation rate: -0.36%
+62.month: 06-2010 => inflation rate: -0.56%
+63.month: 07-2010 => inflation rate: -0.48%
+64.month: 08-2010 => inflation rate: 0.4%
+65.month: 09-2010 => inflation rate: 1.23%
+66.month: 10-2010 => inflation rate: 1.83%
+67.month: 11-2010 => inflation rate: 0.03%
+68.month: 12-2010 => inflation rate: -0.3%
+69.month: 01-2011 => inflation rate: 0.41%
+70.month: 02-2011 => inflation rate: 0.73%
+71.month: 03-2011 => inflation rate: 0.42%
+72.month: 04-2011 => inflation rate: 0.87%
+->accum: 95.82 try (in 12 months)
+
+=> ACCUM: 61.58 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 05-2011 => inflation rate: 2.42%
+74.month: 06-2011 => inflation rate: -1.43%
+75.month: 07-2011 => inflation rate: -0.41%
+76.month: 08-2011 => inflation rate: 0.73%
+77.month: 09-2011 => inflation rate: 0.75%
+78.month: 10-2011 => inflation rate: 3.27%
+79.month: 11-2011 => inflation rate: 1.73%
+80.month: 12-2011 => inflation rate: 0.58%
+81.month: 01-2012 => inflation rate: 0.56%
+82.month: 02-2012 => inflation rate: 0.56%
+83.month: 03-2012 => inflation rate: 0.41%
+84.month: 04-2012 => inflation rate: 1.52%
+->accum: 89.73 try (in 12 months)
+
+=> ACCUM: 55.26 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 05-2012 => inflation rate: -0.21%
+86.month: 06-2012 => inflation rate: -0.9%
+87.month: 07-2012 => inflation rate: -0.23%
+88.month: 08-2012 => inflation rate: 0.56%
+89.month: 09-2012 => inflation rate: 1.03%
+90.month: 10-2012 => inflation rate: 1.96%
+91.month: 11-2012 => inflation rate: 0.38%
+92.month: 12-2012 => inflation rate: 0.38%
+93.month: 01-2013 => inflation rate: 1.65%
+94.month: 02-2013 => inflation rate: 0.3%
+95.month: 03-2013 => inflation rate: 0.66%
+96.month: 04-2013 => inflation rate: 0.42%
+->accum: 94.12 try (in 12 months)
+
+=> ACCUM: 52.02 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 05-2013 => inflation rate: 0.15%
+98.month: 06-2013 => inflation rate: 0.76%
+99.month: 07-2013 => inflation rate: 0.31%
+100.month: 08-2013 => inflation rate: -0.1%
+101.month: 09-2013 => inflation rate: 0.77%
+102.month: 10-2013 => inflation rate: 1.8%
+103.month: 11-2013 => inflation rate: 0.01%
+104.month: 12-2013 => inflation rate: 0.46%
+105.month: 01-2014 => inflation rate: 1.98%
+106.month: 02-2014 => inflation rate: 0.43%
+107.month: 03-2014 => inflation rate: 1.13%
+108.month: 04-2014 => inflation rate: 1.34%
+->accum: 91.3 try (in 12 months)
+
+=> ACCUM: 47.49 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 05-2014 => inflation rate: 0.4%
+110.month: 06-2014 => inflation rate: 0.31%
+111.month: 07-2014 => inflation rate: 0.45%
+112.month: 08-2014 => inflation rate: 0.09%
+113.month: 09-2014 => inflation rate: 0.14%
+114.month: 10-2014 => inflation rate: 1.9%
+115.month: 11-2014 => inflation rate: 0.18%
+116.month: 12-2014 => inflation rate: -0.44%
+117.month: 01-2015 => inflation rate: 1.1%
+118.month: 02-2015 => inflation rate: 0.71%
+119.month: 03-2015 => inflation rate: 1.19%
+120.month: 04-2015 => inflation rate: 1.63%
+->accum: 92.58 try (in 12 months)
+
+=> ACCUM: 43.96 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 05-2015 => inflation rate: 0.56%
+122.month: 06-2015 => inflation rate: -0.51%
+123.month: 07-2015 => inflation rate: 0.09%
+124.month: 08-2015 => inflation rate: 0.4%
+125.month: 09-2015 => inflation rate: 0.89%
+126.month: 10-2015 => inflation rate: 1.55%
+127.month: 11-2015 => inflation rate: 0.67%
+128.month: 12-2015 => inflation rate: 0.21%
+129.month: 01-2016 => inflation rate: 1.82%
+130.month: 02-2016 => inflation rate: -0.02%
+131.month: 03-2016 => inflation rate: -0.04%
+132.month: 04-2016 => inflation rate: 0.78%
+->accum: 93.76 try (in 12 months)
+
+=> ACCUM: 41.21 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 05-2016 => inflation rate: 0.58%
+134.month: 06-2016 => inflation rate: 0.47%
+135.month: 07-2016 => inflation rate: 1.16%
+136.month: 08-2016 => inflation rate: -0.29%
+137.month: 09-2016 => inflation rate: 0.18%
+138.month: 10-2016 => inflation rate: 1.44%
+139.month: 11-2016 => inflation rate: 0.52%
+140.month: 12-2016 => inflation rate: 1.64%
+141.month: 01-2017 => inflation rate: 2.46%
+142.month: 02-2017 => inflation rate: 0.81%
+143.month: 03-2017 => inflation rate: 1.02%
+144.month: 04-2017 => inflation rate: 1.31%
+->accum: 89.24 try (in 12 months)
+
+=> ACCUM: 36.78 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 05-2017 => inflation rate: 0.45%
+146.month: 06-2017 => inflation rate: -0.27%
+147.month: 07-2017 => inflation rate: 0.15%
+148.month: 08-2017 => inflation rate: 0.52%
+149.month: 09-2017 => inflation rate: 0.65%
+150.month: 10-2017 => inflation rate: 2.08%
+151.month: 11-2017 => inflation rate: 1.49%
+152.month: 12-2017 => inflation rate: 0.69%
+153.month: 01-2018 => inflation rate: 1.02%
+154.month: 02-2018 => inflation rate: 0.73%
+155.month: 03-2018 => inflation rate: 0.99%
+156.month: 04-2018 => inflation rate: 1.87%
+->accum: 90.08 try (in 12 months)
+
+=> ACCUM: 33.13 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 05-2018 => inflation rate: 1.62%
+158.month: 06-2018 => inflation rate: 2.61%
+159.month: 07-2018 => inflation rate: 0.55%
+160.month: 08-2018 => inflation rate: 2.3%
+161.month: 09-2018 => inflation rate: 6.3%
+162.month: 10-2018 => inflation rate: 2.67%
+163.month: 11-2018 => inflation rate: -1.44%
+164.month: 12-2018 => inflation rate: -0.4%
+165.month: 01-2019 => inflation rate: 1.06%
+166.month: 02-2019 => inflation rate: 0.16%
+167.month: 03-2019 => inflation rate: 1.03%
+168.month: 04-2019 => inflation rate: 1.69%
+->accum: 83.09 try (in 12 months)
+
+=> ACCUM: 27.54 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 05-2019 => inflation rate: 0.95%
+170.month: 06-2019 => inflation rate: 0.03%
+171.month: 07-2019 => inflation rate: 1.36%
+172.month: 08-2019 => inflation rate: 0.86%
+173.month: 09-2019 => inflation rate: 0.99%
+174.month: 10-2019 => inflation rate: 2%
+175.month: 11-2019 => inflation rate: 0.38%
+176.month: 12-2019 => inflation rate: 0.74%
+177.month: 01-2020 => inflation rate: 1.35%
+178.month: 02-2020 => inflation rate: 0.35%
+179.month: 03-2020 => inflation rate: 0.57%
+180.month: 04-2020 => inflation rate: 0.85%
+->accum: 90.04 try (in 12 months)
+
+=> ACCUM: 24.8 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 05-2020 => inflation rate: 1.36%
+182.month: 06-2020 => inflation rate: 1.13%
+183.month: 07-2020 => inflation rate: 0.58%
+184.month: 08-2020 => inflation rate: 0.86%
+185.month: 09-2020 => inflation rate: 0.97%
+186.month: 10-2020 => inflation rate: 2.13%
+187.month: 11-2020 => inflation rate: 2.3%
+188.month: 12-2020 => inflation rate: 1.25%
+189.month: 01-2021 => inflation rate: 1.68%
+190.month: 02-2021 => inflation rate: 0.91%
+191.month: 03-2021 => inflation rate: 1.08%
+192.month: 04-2021 => inflation rate: 1.68%
+->accum: 85.17 try (in 12 months)
+
+=> ACCUM: 21.13 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 05-2021 => inflation rate: 0.89%
+194.month: 06-2021 => inflation rate: 1.94%
+195.month: 07-2021 => inflation rate: 1.8%
+196.month: 08-2021 => inflation rate: 1.12%
+197.month: 09-2021 => inflation rate: 1.25%
+198.month: 10-2021 => inflation rate: 2.39%
+199.month: 11-2021 => inflation rate: 3.51%
+200.month: 12-2021 => inflation rate: 13.58%
+201.month: 01-2022 => inflation rate: 11.1%
+202.month: 02-2022 => inflation rate: 4.81%
+203.month: 03-2022 => inflation rate: 5.46%
+204.month: 04-2022 => inflation rate: 7.25%
+->accum: 56.29 try (in 12 months)
+
+=> ACCUM: 11.89 TRY (in 204 MONTHS)
+
+_____________________________________
+
+[Group-18]
+
+205.month: 05-2022 => inflation rate: 2.98%
+->accum: 97.02 try (in 1 months)
+
+=> ACCUM: 11.54 TRY (in 205 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 06-2005 #######
+
+[Group-01]
+
+1.month: 06-2005 => inflation rate: 0.1%
+2.month: 07-2005 => inflation rate: -0.57%
+3.month: 08-2005 => inflation rate: 0.85%
+4.month: 09-2005 => inflation rate: 1.02%
+5.month: 10-2005 => inflation rate: 1.79%
+6.month: 11-2005 => inflation rate: 1.4%
+7.month: 12-2005 => inflation rate: 0.42%
+8.month: 01-2006 => inflation rate: 0.75%
+9.month: 02-2006 => inflation rate: 0.22%
+10.month: 03-2006 => inflation rate: 0.27%
+11.month: 04-2006 => inflation rate: 1.34%
+12.month: 05-2006 => inflation rate: 1.88%
+->accum: 90.91 try (in 12 months)
+
+=> ACCUM: 90.91 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 06-2006 => inflation rate: 0.34%
+14.month: 07-2006 => inflation rate: 0.85%
+15.month: 08-2006 => inflation rate: -0.44%
+16.month: 09-2006 => inflation rate: 1.29%
+17.month: 10-2006 => inflation rate: 1.27%
+18.month: 11-2006 => inflation rate: 1.29%
+19.month: 12-2006 => inflation rate: 0.23%
+20.month: 01-2007 => inflation rate: 1%
+21.month: 02-2007 => inflation rate: 0.43%
+22.month: 03-2007 => inflation rate: 0.92%
+23.month: 04-2007 => inflation rate: 1.21%
+24.month: 05-2007 => inflation rate: 0.5%
+->accum: 91.44 try (in 12 months)
+
+=> ACCUM: 83.14 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 06-2007 => inflation rate: -0.24%
+26.month: 07-2007 => inflation rate: -0.73%
+27.month: 08-2007 => inflation rate: 0.02%
+28.month: 09-2007 => inflation rate: 1.03%
+29.month: 10-2007 => inflation rate: 1.81%
+30.month: 11-2007 => inflation rate: 1.95%
+31.month: 12-2007 => inflation rate: 0.22%
+32.month: 01-2008 => inflation rate: 0.8%
+33.month: 02-2008 => inflation rate: 1.29%
+34.month: 03-2008 => inflation rate: 0.96%
+35.month: 04-2008 => inflation rate: 1.68%
+36.month: 05-2008 => inflation rate: 1.49%
+->accum: 90.16 try (in 12 months)
+
+=> ACCUM: 74.96 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 06-2008 => inflation rate: -0.36%
+38.month: 07-2008 => inflation rate: 0.58%
+39.month: 08-2008 => inflation rate: -0.24%
+40.month: 09-2008 => inflation rate: 0.45%
+41.month: 10-2008 => inflation rate: 2.6%
+42.month: 11-2008 => inflation rate: 0.83%
+43.month: 12-2008 => inflation rate: -0.41%
+44.month: 01-2009 => inflation rate: 0.29%
+45.month: 02-2009 => inflation rate: -0.34%
+46.month: 03-2009 => inflation rate: 1.1%
+47.month: 04-2009 => inflation rate: 0.02%
+48.month: 05-2009 => inflation rate: 0.64%
+->accum: 94.93 try (in 12 months)
+
+=> ACCUM: 71.16 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 06-2009 => inflation rate: 0.11%
+50.month: 07-2009 => inflation rate: 0.25%
+51.month: 08-2009 => inflation rate: -0.3%
+52.month: 09-2009 => inflation rate: 0.39%
+53.month: 10-2009 => inflation rate: 2.41%
+54.month: 11-2009 => inflation rate: 1.27%
+55.month: 12-2009 => inflation rate: 0.53%
+56.month: 01-2010 => inflation rate: 1.85%
+57.month: 02-2010 => inflation rate: 1.45%
+58.month: 03-2010 => inflation rate: 0.58%
+59.month: 04-2010 => inflation rate: 0.6%
+60.month: 05-2010 => inflation rate: -0.36%
+->accum: 91.52 try (in 12 months)
+
+=> ACCUM: 65.11 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 06-2010 => inflation rate: -0.56%
+62.month: 07-2010 => inflation rate: -0.48%
+63.month: 08-2010 => inflation rate: 0.4%
+64.month: 09-2010 => inflation rate: 1.23%
+65.month: 10-2010 => inflation rate: 1.83%
+66.month: 11-2010 => inflation rate: 0.03%
+67.month: 12-2010 => inflation rate: -0.3%
+68.month: 01-2011 => inflation rate: 0.41%
+69.month: 02-2011 => inflation rate: 0.73%
+70.month: 03-2011 => inflation rate: 0.42%
+71.month: 04-2011 => inflation rate: 0.87%
+72.month: 05-2011 => inflation rate: 2.42%
+->accum: 93.17 try (in 12 months)
+
+=> ACCUM: 60.67 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 06-2011 => inflation rate: -1.43%
+74.month: 07-2011 => inflation rate: -0.41%
+75.month: 08-2011 => inflation rate: 0.73%
+76.month: 09-2011 => inflation rate: 0.75%
+77.month: 10-2011 => inflation rate: 3.27%
+78.month: 11-2011 => inflation rate: 1.73%
+79.month: 12-2011 => inflation rate: 0.58%
+80.month: 01-2012 => inflation rate: 0.56%
+81.month: 02-2012 => inflation rate: 0.56%
+82.month: 03-2012 => inflation rate: 0.41%
+83.month: 04-2012 => inflation rate: 1.52%
+84.month: 05-2012 => inflation rate: -0.21%
+->accum: 92.17 try (in 12 months)
+
+=> ACCUM: 55.92 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 06-2012 => inflation rate: -0.9%
+86.month: 07-2012 => inflation rate: -0.23%
+87.month: 08-2012 => inflation rate: 0.56%
+88.month: 09-2012 => inflation rate: 1.03%
+89.month: 10-2012 => inflation rate: 1.96%
+90.month: 11-2012 => inflation rate: 0.38%
+91.month: 12-2012 => inflation rate: 0.38%
+92.month: 01-2013 => inflation rate: 1.65%
+93.month: 02-2013 => inflation rate: 0.3%
+94.month: 03-2013 => inflation rate: 0.66%
+95.month: 04-2013 => inflation rate: 0.42%
+96.month: 05-2013 => inflation rate: 0.15%
+->accum: 93.77 try (in 12 months)
+
+=> ACCUM: 52.44 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 06-2013 => inflation rate: 0.76%
+98.month: 07-2013 => inflation rate: 0.31%
+99.month: 08-2013 => inflation rate: -0.1%
+100.month: 09-2013 => inflation rate: 0.77%
+101.month: 10-2013 => inflation rate: 1.8%
+102.month: 11-2013 => inflation rate: 0.01%
+103.month: 12-2013 => inflation rate: 0.46%
+104.month: 01-2014 => inflation rate: 1.98%
+105.month: 02-2014 => inflation rate: 0.43%
+106.month: 03-2014 => inflation rate: 1.13%
+107.month: 04-2014 => inflation rate: 1.34%
+108.month: 05-2014 => inflation rate: 0.4%
+->accum: 91.08 try (in 12 months)
+
+=> ACCUM: 47.75 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 06-2014 => inflation rate: 0.31%
+110.month: 07-2014 => inflation rate: 0.45%
+111.month: 08-2014 => inflation rate: 0.09%
+112.month: 09-2014 => inflation rate: 0.14%
+113.month: 10-2014 => inflation rate: 1.9%
+114.month: 11-2014 => inflation rate: 0.18%
+115.month: 12-2014 => inflation rate: -0.44%
+116.month: 01-2015 => inflation rate: 1.1%
+117.month: 02-2015 => inflation rate: 0.71%
+118.month: 03-2015 => inflation rate: 1.19%
+119.month: 04-2015 => inflation rate: 1.63%
+120.month: 05-2015 => inflation rate: 0.56%
+->accum: 92.44 try (in 12 months)
+
+=> ACCUM: 44.13 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 06-2015 => inflation rate: -0.51%
+122.month: 07-2015 => inflation rate: 0.09%
+123.month: 08-2015 => inflation rate: 0.4%
+124.month: 09-2015 => inflation rate: 0.89%
+125.month: 10-2015 => inflation rate: 1.55%
+126.month: 11-2015 => inflation rate: 0.67%
+127.month: 12-2015 => inflation rate: 0.21%
+128.month: 01-2016 => inflation rate: 1.82%
+129.month: 02-2016 => inflation rate: -0.02%
+130.month: 03-2016 => inflation rate: -0.04%
+131.month: 04-2016 => inflation rate: 0.78%
+132.month: 05-2016 => inflation rate: 0.58%
+->accum: 93.75 try (in 12 months)
+
+=> ACCUM: 41.37 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 06-2016 => inflation rate: 0.47%
+134.month: 07-2016 => inflation rate: 1.16%
+135.month: 08-2016 => inflation rate: -0.29%
+136.month: 09-2016 => inflation rate: 0.18%
+137.month: 10-2016 => inflation rate: 1.44%
+138.month: 11-2016 => inflation rate: 0.52%
+139.month: 12-2016 => inflation rate: 1.64%
+140.month: 01-2017 => inflation rate: 2.46%
+141.month: 02-2017 => inflation rate: 0.81%
+142.month: 03-2017 => inflation rate: 1.02%
+143.month: 04-2017 => inflation rate: 1.31%
+144.month: 05-2017 => inflation rate: 0.45%
+->accum: 89.37 try (in 12 months)
+
+=> ACCUM: 36.96 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 06-2017 => inflation rate: -0.27%
+146.month: 07-2017 => inflation rate: 0.15%
+147.month: 08-2017 => inflation rate: 0.52%
+148.month: 09-2017 => inflation rate: 0.65%
+149.month: 10-2017 => inflation rate: 2.08%
+150.month: 11-2017 => inflation rate: 1.49%
+151.month: 12-2017 => inflation rate: 0.69%
+152.month: 01-2018 => inflation rate: 1.02%
+153.month: 02-2018 => inflation rate: 0.73%
+154.month: 03-2018 => inflation rate: 0.99%
+155.month: 04-2018 => inflation rate: 1.87%
+156.month: 05-2018 => inflation rate: 1.62%
+->accum: 89.03 try (in 12 months)
+
+=> ACCUM: 32.91 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 06-2018 => inflation rate: 2.61%
+158.month: 07-2018 => inflation rate: 0.55%
+159.month: 08-2018 => inflation rate: 2.3%
+160.month: 09-2018 => inflation rate: 6.3%
+161.month: 10-2018 => inflation rate: 2.67%
+162.month: 11-2018 => inflation rate: -1.44%
+163.month: 12-2018 => inflation rate: -0.4%
+164.month: 01-2019 => inflation rate: 1.06%
+165.month: 02-2019 => inflation rate: 0.16%
+166.month: 03-2019 => inflation rate: 1.03%
+167.month: 04-2019 => inflation rate: 1.69%
+168.month: 05-2019 => inflation rate: 0.95%
+->accum: 83.67 try (in 12 months)
+
+=> ACCUM: 27.54 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 06-2019 => inflation rate: 0.03%
+170.month: 07-2019 => inflation rate: 1.36%
+171.month: 08-2019 => inflation rate: 0.86%
+172.month: 09-2019 => inflation rate: 0.99%
+173.month: 10-2019 => inflation rate: 2%
+174.month: 11-2019 => inflation rate: 0.38%
+175.month: 12-2019 => inflation rate: 0.74%
+176.month: 01-2020 => inflation rate: 1.35%
+177.month: 02-2020 => inflation rate: 0.35%
+178.month: 03-2020 => inflation rate: 0.57%
+179.month: 04-2020 => inflation rate: 0.85%
+180.month: 05-2020 => inflation rate: 1.36%
+->accum: 89.65 try (in 12 months)
+
+=> ACCUM: 24.71 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 06-2020 => inflation rate: 1.13%
+182.month: 07-2020 => inflation rate: 0.58%
+183.month: 08-2020 => inflation rate: 0.86%
+184.month: 09-2020 => inflation rate: 0.97%
+185.month: 10-2020 => inflation rate: 2.13%
+186.month: 11-2020 => inflation rate: 2.3%
+187.month: 12-2020 => inflation rate: 1.25%
+188.month: 01-2021 => inflation rate: 1.68%
+189.month: 02-2021 => inflation rate: 0.91%
+190.month: 03-2021 => inflation rate: 1.08%
+191.month: 04-2021 => inflation rate: 1.68%
+192.month: 05-2021 => inflation rate: 0.89%
+->accum: 85.56 try (in 12 months)
+
+=> ACCUM: 21.15 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 06-2021 => inflation rate: 1.94%
+194.month: 07-2021 => inflation rate: 1.8%
+195.month: 08-2021 => inflation rate: 1.12%
+196.month: 09-2021 => inflation rate: 1.25%
+197.month: 10-2021 => inflation rate: 2.39%
+198.month: 11-2021 => inflation rate: 3.51%
+199.month: 12-2021 => inflation rate: 13.58%
+200.month: 01-2022 => inflation rate: 11.1%
+201.month: 02-2022 => inflation rate: 4.81%
+202.month: 03-2022 => inflation rate: 5.46%
+203.month: 04-2022 => inflation rate: 7.25%
+204.month: 05-2022 => inflation rate: 2.98%
+->accum: 55.09 try (in 12 months)
+
+=> ACCUM: 11.65 TRY (in 204 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 07-2005 #######
+
+[Group-01]
+
+1.month: 07-2005 => inflation rate: -0.57%
+2.month: 08-2005 => inflation rate: 0.85%
+3.month: 09-2005 => inflation rate: 1.02%
+4.month: 10-2005 => inflation rate: 1.79%
+5.month: 11-2005 => inflation rate: 1.4%
+6.month: 12-2005 => inflation rate: 0.42%
+7.month: 01-2006 => inflation rate: 0.75%
+8.month: 02-2006 => inflation rate: 0.22%
+9.month: 03-2006 => inflation rate: 0.27%
+10.month: 04-2006 => inflation rate: 1.34%
+11.month: 05-2006 => inflation rate: 1.88%
+12.month: 06-2006 => inflation rate: 0.34%
+->accum: 90.69 try (in 12 months)
+
+=> ACCUM: 90.69 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 07-2006 => inflation rate: 0.85%
+14.month: 08-2006 => inflation rate: -0.44%
+15.month: 09-2006 => inflation rate: 1.29%
+16.month: 10-2006 => inflation rate: 1.27%
+17.month: 11-2006 => inflation rate: 1.29%
+18.month: 12-2006 => inflation rate: 0.23%
+19.month: 01-2007 => inflation rate: 1%
+20.month: 02-2007 => inflation rate: 0.43%
+21.month: 03-2007 => inflation rate: 0.92%
+22.month: 04-2007 => inflation rate: 1.21%
+23.month: 05-2007 => inflation rate: 0.5%
+24.month: 06-2007 => inflation rate: -0.24%
+->accum: 91.98 try (in 12 months)
+
+=> ACCUM: 83.41 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 07-2007 => inflation rate: -0.73%
+26.month: 08-2007 => inflation rate: 0.02%
+27.month: 09-2007 => inflation rate: 1.03%
+28.month: 10-2007 => inflation rate: 1.81%
+29.month: 11-2007 => inflation rate: 1.95%
+30.month: 12-2007 => inflation rate: 0.22%
+31.month: 01-2008 => inflation rate: 0.8%
+32.month: 02-2008 => inflation rate: 1.29%
+33.month: 03-2008 => inflation rate: 0.96%
+34.month: 04-2008 => inflation rate: 1.68%
+35.month: 05-2008 => inflation rate: 1.49%
+36.month: 06-2008 => inflation rate: -0.36%
+->accum: 90.25 try (in 12 months)
+
+=> ACCUM: 75.29 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 07-2008 => inflation rate: 0.58%
+38.month: 08-2008 => inflation rate: -0.24%
+39.month: 09-2008 => inflation rate: 0.45%
+40.month: 10-2008 => inflation rate: 2.6%
+41.month: 11-2008 => inflation rate: 0.83%
+42.month: 12-2008 => inflation rate: -0.41%
+43.month: 01-2009 => inflation rate: 0.29%
+44.month: 02-2009 => inflation rate: -0.34%
+45.month: 03-2009 => inflation rate: 1.1%
+46.month: 04-2009 => inflation rate: 0.02%
+47.month: 05-2009 => inflation rate: 0.64%
+48.month: 06-2009 => inflation rate: 0.11%
+->accum: 94.48 try (in 12 months)
+
+=> ACCUM: 71.14 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 07-2009 => inflation rate: 0.25%
+50.month: 08-2009 => inflation rate: -0.3%
+51.month: 09-2009 => inflation rate: 0.39%
+52.month: 10-2009 => inflation rate: 2.41%
+53.month: 11-2009 => inflation rate: 1.27%
+54.month: 12-2009 => inflation rate: 0.53%
+55.month: 01-2010 => inflation rate: 1.85%
+56.month: 02-2010 => inflation rate: 1.45%
+57.month: 03-2010 => inflation rate: 0.58%
+58.month: 04-2010 => inflation rate: 0.6%
+59.month: 05-2010 => inflation rate: -0.36%
+60.month: 06-2010 => inflation rate: -0.56%
+->accum: 92.13 try (in 12 months)
+
+=> ACCUM: 65.53 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 07-2010 => inflation rate: -0.48%
+62.month: 08-2010 => inflation rate: 0.4%
+63.month: 09-2010 => inflation rate: 1.23%
+64.month: 10-2010 => inflation rate: 1.83%
+65.month: 11-2010 => inflation rate: 0.03%
+66.month: 12-2010 => inflation rate: -0.3%
+67.month: 01-2011 => inflation rate: 0.41%
+68.month: 02-2011 => inflation rate: 0.73%
+69.month: 03-2011 => inflation rate: 0.42%
+70.month: 04-2011 => inflation rate: 0.87%
+71.month: 05-2011 => inflation rate: 2.42%
+72.month: 06-2011 => inflation rate: -1.43%
+->accum: 93.99 try (in 12 months)
+
+=> ACCUM: 61.58 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 07-2011 => inflation rate: -0.41%
+74.month: 08-2011 => inflation rate: 0.73%
+75.month: 09-2011 => inflation rate: 0.75%
+76.month: 10-2011 => inflation rate: 3.27%
+77.month: 11-2011 => inflation rate: 1.73%
+78.month: 12-2011 => inflation rate: 0.58%
+79.month: 01-2012 => inflation rate: 0.56%
+80.month: 02-2012 => inflation rate: 0.56%
+81.month: 03-2012 => inflation rate: 0.41%
+82.month: 04-2012 => inflation rate: 1.52%
+83.month: 05-2012 => inflation rate: -0.21%
+84.month: 06-2012 => inflation rate: -0.9%
+->accum: 91.67 try (in 12 months)
+
+=> ACCUM: 56.46 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 07-2012 => inflation rate: -0.23%
+86.month: 08-2012 => inflation rate: 0.56%
+87.month: 09-2012 => inflation rate: 1.03%
+88.month: 10-2012 => inflation rate: 1.96%
+89.month: 11-2012 => inflation rate: 0.38%
+90.month: 12-2012 => inflation rate: 0.38%
+91.month: 01-2013 => inflation rate: 1.65%
+92.month: 02-2013 => inflation rate: 0.3%
+93.month: 03-2013 => inflation rate: 0.66%
+94.month: 04-2013 => inflation rate: 0.42%
+95.month: 05-2013 => inflation rate: 0.15%
+96.month: 06-2013 => inflation rate: 0.76%
+->accum: 92.25 try (in 12 months)
+
+=> ACCUM: 52.08 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 07-2013 => inflation rate: 0.31%
+98.month: 08-2013 => inflation rate: -0.1%
+99.month: 09-2013 => inflation rate: 0.77%
+100.month: 10-2013 => inflation rate: 1.8%
+101.month: 11-2013 => inflation rate: 0.01%
+102.month: 12-2013 => inflation rate: 0.46%
+103.month: 01-2014 => inflation rate: 1.98%
+104.month: 02-2014 => inflation rate: 0.43%
+105.month: 03-2014 => inflation rate: 1.13%
+106.month: 04-2014 => inflation rate: 1.34%
+107.month: 05-2014 => inflation rate: 0.4%
+108.month: 06-2014 => inflation rate: 0.31%
+->accum: 91.48 try (in 12 months)
+
+=> ACCUM: 47.64 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 07-2014 => inflation rate: 0.45%
+110.month: 08-2014 => inflation rate: 0.09%
+111.month: 09-2014 => inflation rate: 0.14%
+112.month: 10-2014 => inflation rate: 1.9%
+113.month: 11-2014 => inflation rate: 0.18%
+114.month: 12-2014 => inflation rate: -0.44%
+115.month: 01-2015 => inflation rate: 1.1%
+116.month: 02-2015 => inflation rate: 0.71%
+117.month: 03-2015 => inflation rate: 1.19%
+118.month: 04-2015 => inflation rate: 1.63%
+119.month: 05-2015 => inflation rate: 0.56%
+120.month: 06-2015 => inflation rate: -0.51%
+->accum: 93.19 try (in 12 months)
+
+=> ACCUM: 44.4 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 07-2015 => inflation rate: 0.09%
+122.month: 08-2015 => inflation rate: 0.4%
+123.month: 09-2015 => inflation rate: 0.89%
+124.month: 10-2015 => inflation rate: 1.55%
+125.month: 11-2015 => inflation rate: 0.67%
+126.month: 12-2015 => inflation rate: 0.21%
+127.month: 01-2016 => inflation rate: 1.82%
+128.month: 02-2016 => inflation rate: -0.02%
+129.month: 03-2016 => inflation rate: -0.04%
+130.month: 04-2016 => inflation rate: 0.78%
+131.month: 05-2016 => inflation rate: 0.58%
+132.month: 06-2016 => inflation rate: 0.47%
+->accum: 92.83 try (in 12 months)
+
+=> ACCUM: 41.22 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 07-2016 => inflation rate: 1.16%
+134.month: 08-2016 => inflation rate: -0.29%
+135.month: 09-2016 => inflation rate: 0.18%
+136.month: 10-2016 => inflation rate: 1.44%
+137.month: 11-2016 => inflation rate: 0.52%
+138.month: 12-2016 => inflation rate: 1.64%
+139.month: 01-2017 => inflation rate: 2.46%
+140.month: 02-2017 => inflation rate: 0.81%
+141.month: 03-2017 => inflation rate: 1.02%
+142.month: 04-2017 => inflation rate: 1.31%
+143.month: 05-2017 => inflation rate: 0.45%
+144.month: 06-2017 => inflation rate: -0.27%
+->accum: 90.02 try (in 12 months)
+
+=> ACCUM: 37.1 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 07-2017 => inflation rate: 0.15%
+146.month: 08-2017 => inflation rate: 0.52%
+147.month: 09-2017 => inflation rate: 0.65%
+148.month: 10-2017 => inflation rate: 2.08%
+149.month: 11-2017 => inflation rate: 1.49%
+150.month: 12-2017 => inflation rate: 0.69%
+151.month: 01-2018 => inflation rate: 1.02%
+152.month: 02-2018 => inflation rate: 0.73%
+153.month: 03-2018 => inflation rate: 0.99%
+154.month: 04-2018 => inflation rate: 1.87%
+155.month: 05-2018 => inflation rate: 1.62%
+156.month: 06-2018 => inflation rate: 2.61%
+->accum: 86.47 try (in 12 months)
+
+=> ACCUM: 32.09 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 07-2018 => inflation rate: 0.55%
+158.month: 08-2018 => inflation rate: 2.3%
+159.month: 09-2018 => inflation rate: 6.3%
+160.month: 10-2018 => inflation rate: 2.67%
+161.month: 11-2018 => inflation rate: -1.44%
+162.month: 12-2018 => inflation rate: -0.4%
+163.month: 01-2019 => inflation rate: 1.06%
+164.month: 02-2019 => inflation rate: 0.16%
+165.month: 03-2019 => inflation rate: 1.03%
+166.month: 04-2019 => inflation rate: 1.69%
+167.month: 05-2019 => inflation rate: 0.95%
+168.month: 06-2019 => inflation rate: 0.03%
+->accum: 85.89 try (in 12 months)
+
+=> ACCUM: 27.57 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 07-2019 => inflation rate: 1.36%
+170.month: 08-2019 => inflation rate: 0.86%
+171.month: 09-2019 => inflation rate: 0.99%
+172.month: 10-2019 => inflation rate: 2%
+173.month: 11-2019 => inflation rate: 0.38%
+174.month: 12-2019 => inflation rate: 0.74%
+175.month: 01-2020 => inflation rate: 1.35%
+176.month: 02-2020 => inflation rate: 0.35%
+177.month: 03-2020 => inflation rate: 0.57%
+178.month: 04-2020 => inflation rate: 0.85%
+179.month: 05-2020 => inflation rate: 1.36%
+180.month: 06-2020 => inflation rate: 1.13%
+->accum: 88.67 try (in 12 months)
+
+=> ACCUM: 24.46 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 07-2020 => inflation rate: 0.58%
+182.month: 08-2020 => inflation rate: 0.86%
+183.month: 09-2020 => inflation rate: 0.97%
+184.month: 10-2020 => inflation rate: 2.13%
+185.month: 11-2020 => inflation rate: 2.3%
+186.month: 12-2020 => inflation rate: 1.25%
+187.month: 01-2021 => inflation rate: 1.68%
+188.month: 02-2021 => inflation rate: 0.91%
+189.month: 03-2021 => inflation rate: 1.08%
+190.month: 04-2021 => inflation rate: 1.68%
+191.month: 05-2021 => inflation rate: 0.89%
+192.month: 06-2021 => inflation rate: 1.94%
+->accum: 84.86 try (in 12 months)
+
+=> ACCUM: 20.76 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 07-2021 => inflation rate: 1.8%
+194.month: 08-2021 => inflation rate: 1.12%
+195.month: 09-2021 => inflation rate: 1.25%
+196.month: 10-2021 => inflation rate: 2.39%
+197.month: 11-2021 => inflation rate: 3.51%
+198.month: 12-2021 => inflation rate: 13.58%
+199.month: 01-2022 => inflation rate: 11.1%
+200.month: 02-2022 => inflation rate: 4.81%
+201.month: 03-2022 => inflation rate: 5.46%
+202.month: 04-2022 => inflation rate: 7.25%
+203.month: 05-2022 => inflation rate: 2.98%
+->accum: 56.18 try (in 11 months)
+
+=> ACCUM: 11.66 TRY (in 203 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 08-2005 #######
+
+[Group-01]
+
+1.month: 08-2005 => inflation rate: 0.85%
+2.month: 09-2005 => inflation rate: 1.02%
+3.month: 10-2005 => inflation rate: 1.79%
+4.month: 11-2005 => inflation rate: 1.4%
+5.month: 12-2005 => inflation rate: 0.42%
+6.month: 01-2006 => inflation rate: 0.75%
+7.month: 02-2006 => inflation rate: 0.22%
+8.month: 03-2006 => inflation rate: 0.27%
+9.month: 04-2006 => inflation rate: 1.34%
+10.month: 05-2006 => inflation rate: 1.88%
+11.month: 06-2006 => inflation rate: 0.34%
+12.month: 07-2006 => inflation rate: 0.85%
+->accum: 89.4 try (in 12 months)
+
+=> ACCUM: 89.4 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 08-2006 => inflation rate: -0.44%
+14.month: 09-2006 => inflation rate: 1.29%
+15.month: 10-2006 => inflation rate: 1.27%
+16.month: 11-2006 => inflation rate: 1.29%
+17.month: 12-2006 => inflation rate: 0.23%
+18.month: 01-2007 => inflation rate: 1%
+19.month: 02-2007 => inflation rate: 0.43%
+20.month: 03-2007 => inflation rate: 0.92%
+21.month: 04-2007 => inflation rate: 1.21%
+22.month: 05-2007 => inflation rate: 0.5%
+23.month: 06-2007 => inflation rate: -0.24%
+24.month: 07-2007 => inflation rate: -0.73%
+->accum: 93.45 try (in 12 months)
+
+=> ACCUM: 83.53 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 08-2007 => inflation rate: 0.02%
+26.month: 09-2007 => inflation rate: 1.03%
+27.month: 10-2007 => inflation rate: 1.81%
+28.month: 11-2007 => inflation rate: 1.95%
+29.month: 12-2007 => inflation rate: 0.22%
+30.month: 01-2008 => inflation rate: 0.8%
+31.month: 02-2008 => inflation rate: 1.29%
+32.month: 03-2008 => inflation rate: 0.96%
+33.month: 04-2008 => inflation rate: 1.68%
+34.month: 05-2008 => inflation rate: 1.49%
+35.month: 06-2008 => inflation rate: -0.36%
+36.month: 07-2008 => inflation rate: 0.58%
+->accum: 89.09 try (in 12 months)
+
+=> ACCUM: 74.4 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 08-2008 => inflation rate: -0.24%
+38.month: 09-2008 => inflation rate: 0.45%
+39.month: 10-2008 => inflation rate: 2.6%
+40.month: 11-2008 => inflation rate: 0.83%
+41.month: 12-2008 => inflation rate: -0.41%
+42.month: 01-2009 => inflation rate: 0.29%
+43.month: 02-2009 => inflation rate: -0.34%
+44.month: 03-2009 => inflation rate: 1.1%
+45.month: 04-2009 => inflation rate: 0.02%
+46.month: 05-2009 => inflation rate: 0.64%
+47.month: 06-2009 => inflation rate: 0.11%
+48.month: 07-2009 => inflation rate: 0.25%
+->accum: 94.8 try (in 12 months)
+
+=> ACCUM: 70.51 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 08-2009 => inflation rate: -0.3%
+50.month: 09-2009 => inflation rate: 0.39%
+51.month: 10-2009 => inflation rate: 2.41%
+52.month: 11-2009 => inflation rate: 1.27%
+53.month: 12-2009 => inflation rate: 0.53%
+54.month: 01-2010 => inflation rate: 1.85%
+55.month: 02-2010 => inflation rate: 1.45%
+56.month: 03-2010 => inflation rate: 0.58%
+57.month: 04-2010 => inflation rate: 0.6%
+58.month: 05-2010 => inflation rate: -0.36%
+59.month: 06-2010 => inflation rate: -0.56%
+60.month: 07-2010 => inflation rate: -0.48%
+->accum: 92.81 try (in 12 months)
+
+=> ACCUM: 65.43 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 08-2010 => inflation rate: 0.4%
+62.month: 09-2010 => inflation rate: 1.23%
+63.month: 10-2010 => inflation rate: 1.83%
+64.month: 11-2010 => inflation rate: 0.03%
+65.month: 12-2010 => inflation rate: -0.3%
+66.month: 01-2011 => inflation rate: 0.41%
+67.month: 02-2011 => inflation rate: 0.73%
+68.month: 03-2011 => inflation rate: 0.42%
+69.month: 04-2011 => inflation rate: 0.87%
+70.month: 05-2011 => inflation rate: 2.42%
+71.month: 06-2011 => inflation rate: -1.43%
+72.month: 07-2011 => inflation rate: -0.41%
+->accum: 93.91 try (in 12 months)
+
+=> ACCUM: 61.45 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 08-2011 => inflation rate: 0.73%
+74.month: 09-2011 => inflation rate: 0.75%
+75.month: 10-2011 => inflation rate: 3.27%
+76.month: 11-2011 => inflation rate: 1.73%
+77.month: 12-2011 => inflation rate: 0.58%
+78.month: 01-2012 => inflation rate: 0.56%
+79.month: 02-2012 => inflation rate: 0.56%
+80.month: 03-2012 => inflation rate: 0.41%
+81.month: 04-2012 => inflation rate: 1.52%
+82.month: 05-2012 => inflation rate: -0.21%
+83.month: 06-2012 => inflation rate: -0.9%
+84.month: 07-2012 => inflation rate: -0.23%
+->accum: 91.52 try (in 12 months)
+
+=> ACCUM: 56.24 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 08-2012 => inflation rate: 0.56%
+86.month: 09-2012 => inflation rate: 1.03%
+87.month: 10-2012 => inflation rate: 1.96%
+88.month: 11-2012 => inflation rate: 0.38%
+89.month: 12-2012 => inflation rate: 0.38%
+90.month: 01-2013 => inflation rate: 1.65%
+91.month: 02-2013 => inflation rate: 0.3%
+92.month: 03-2013 => inflation rate: 0.66%
+93.month: 04-2013 => inflation rate: 0.42%
+94.month: 05-2013 => inflation rate: 0.15%
+95.month: 06-2013 => inflation rate: 0.76%
+96.month: 07-2013 => inflation rate: 0.31%
+->accum: 91.75 try (in 12 months)
+
+=> ACCUM: 51.59 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 08-2013 => inflation rate: -0.1%
+98.month: 09-2013 => inflation rate: 0.77%
+99.month: 10-2013 => inflation rate: 1.8%
+100.month: 11-2013 => inflation rate: 0.01%
+101.month: 12-2013 => inflation rate: 0.46%
+102.month: 01-2014 => inflation rate: 1.98%
+103.month: 02-2014 => inflation rate: 0.43%
+104.month: 03-2014 => inflation rate: 1.13%
+105.month: 04-2014 => inflation rate: 1.34%
+106.month: 05-2014 => inflation rate: 0.4%
+107.month: 06-2014 => inflation rate: 0.31%
+108.month: 07-2014 => inflation rate: 0.45%
+->accum: 91.35 try (in 12 months)
+
+=> ACCUM: 47.13 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 08-2014 => inflation rate: 0.09%
+110.month: 09-2014 => inflation rate: 0.14%
+111.month: 10-2014 => inflation rate: 1.9%
+112.month: 11-2014 => inflation rate: 0.18%
+113.month: 12-2014 => inflation rate: -0.44%
+114.month: 01-2015 => inflation rate: 1.1%
+115.month: 02-2015 => inflation rate: 0.71%
+116.month: 03-2015 => inflation rate: 1.19%
+117.month: 04-2015 => inflation rate: 1.63%
+118.month: 05-2015 => inflation rate: 0.56%
+119.month: 06-2015 => inflation rate: -0.51%
+120.month: 07-2015 => inflation rate: 0.09%
+->accum: 93.52 try (in 12 months)
+
+=> ACCUM: 44.08 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 08-2015 => inflation rate: 0.4%
+122.month: 09-2015 => inflation rate: 0.89%
+123.month: 10-2015 => inflation rate: 1.55%
+124.month: 11-2015 => inflation rate: 0.67%
+125.month: 12-2015 => inflation rate: 0.21%
+126.month: 01-2016 => inflation rate: 1.82%
+127.month: 02-2016 => inflation rate: -0.02%
+128.month: 03-2016 => inflation rate: -0.04%
+129.month: 04-2016 => inflation rate: 0.78%
+130.month: 05-2016 => inflation rate: 0.58%
+131.month: 06-2016 => inflation rate: 0.47%
+132.month: 07-2016 => inflation rate: 1.16%
+->accum: 91.84 try (in 12 months)
+
+=> ACCUM: 40.48 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 08-2016 => inflation rate: -0.29%
+134.month: 09-2016 => inflation rate: 0.18%
+135.month: 10-2016 => inflation rate: 1.44%
+136.month: 11-2016 => inflation rate: 0.52%
+137.month: 12-2016 => inflation rate: 1.64%
+138.month: 01-2017 => inflation rate: 2.46%
+139.month: 02-2017 => inflation rate: 0.81%
+140.month: 03-2017 => inflation rate: 1.02%
+141.month: 04-2017 => inflation rate: 1.31%
+142.month: 05-2017 => inflation rate: 0.45%
+143.month: 06-2017 => inflation rate: -0.27%
+144.month: 07-2017 => inflation rate: 0.15%
+->accum: 90.95 try (in 12 months)
+
+=> ACCUM: 36.81 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 08-2017 => inflation rate: 0.52%
+146.month: 09-2017 => inflation rate: 0.65%
+147.month: 10-2017 => inflation rate: 2.08%
+148.month: 11-2017 => inflation rate: 1.49%
+149.month: 12-2017 => inflation rate: 0.69%
+150.month: 01-2018 => inflation rate: 1.02%
+151.month: 02-2018 => inflation rate: 0.73%
+152.month: 03-2018 => inflation rate: 0.99%
+153.month: 04-2018 => inflation rate: 1.87%
+154.month: 05-2018 => inflation rate: 1.62%
+155.month: 06-2018 => inflation rate: 2.61%
+156.month: 07-2018 => inflation rate: 0.55%
+->accum: 86.12 try (in 12 months)
+
+=> ACCUM: 31.7 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 08-2018 => inflation rate: 2.3%
+158.month: 09-2018 => inflation rate: 6.3%
+159.month: 10-2018 => inflation rate: 2.67%
+160.month: 11-2018 => inflation rate: -1.44%
+161.month: 12-2018 => inflation rate: -0.4%
+162.month: 01-2019 => inflation rate: 1.06%
+163.month: 02-2019 => inflation rate: 0.16%
+164.month: 03-2019 => inflation rate: 1.03%
+165.month: 04-2019 => inflation rate: 1.69%
+166.month: 05-2019 => inflation rate: 0.95%
+167.month: 06-2019 => inflation rate: 0.03%
+168.month: 07-2019 => inflation rate: 1.36%
+->accum: 85.19 try (in 12 months)
+
+=> ACCUM: 27.01 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 08-2019 => inflation rate: 0.86%
+170.month: 09-2019 => inflation rate: 0.99%
+171.month: 10-2019 => inflation rate: 2%
+172.month: 11-2019 => inflation rate: 0.38%
+173.month: 12-2019 => inflation rate: 0.74%
+174.month: 01-2020 => inflation rate: 1.35%
+175.month: 02-2020 => inflation rate: 0.35%
+176.month: 03-2020 => inflation rate: 0.57%
+177.month: 04-2020 => inflation rate: 0.85%
+178.month: 05-2020 => inflation rate: 1.36%
+179.month: 06-2020 => inflation rate: 1.13%
+180.month: 07-2020 => inflation rate: 0.58%
+->accum: 89.39 try (in 12 months)
+
+=> ACCUM: 24.14 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 08-2020 => inflation rate: 0.86%
+182.month: 09-2020 => inflation rate: 0.97%
+183.month: 10-2020 => inflation rate: 2.13%
+184.month: 11-2020 => inflation rate: 2.3%
+185.month: 12-2020 => inflation rate: 1.25%
+186.month: 01-2021 => inflation rate: 1.68%
+187.month: 02-2021 => inflation rate: 0.91%
+188.month: 03-2021 => inflation rate: 1.08%
+189.month: 04-2021 => inflation rate: 1.68%
+190.month: 05-2021 => inflation rate: 0.89%
+191.month: 06-2021 => inflation rate: 1.94%
+192.month: 07-2021 => inflation rate: 1.8%
+->accum: 83.83 try (in 12 months)
+
+=> ACCUM: 20.24 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 08-2021 => inflation rate: 1.12%
+194.month: 09-2021 => inflation rate: 1.25%
+195.month: 10-2021 => inflation rate: 2.39%
+196.month: 11-2021 => inflation rate: 3.51%
+197.month: 12-2021 => inflation rate: 13.58%
+198.month: 01-2022 => inflation rate: 11.1%
+199.month: 02-2022 => inflation rate: 4.81%
+200.month: 03-2022 => inflation rate: 5.46%
+201.month: 04-2022 => inflation rate: 7.25%
+202.month: 05-2022 => inflation rate: 2.98%
+->accum: 57.21 try (in 10 months)
+
+=> ACCUM: 11.58 TRY (in 202 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 09-2005 #######
+
+[Group-01]
+
+1.month: 09-2005 => inflation rate: 1.02%
+2.month: 10-2005 => inflation rate: 1.79%
+3.month: 11-2005 => inflation rate: 1.4%
+4.month: 12-2005 => inflation rate: 0.42%
+5.month: 01-2006 => inflation rate: 0.75%
+6.month: 02-2006 => inflation rate: 0.22%
+7.month: 03-2006 => inflation rate: 0.27%
+8.month: 04-2006 => inflation rate: 1.34%
+9.month: 05-2006 => inflation rate: 1.88%
+10.month: 06-2006 => inflation rate: 0.34%
+11.month: 07-2006 => inflation rate: 0.85%
+12.month: 08-2006 => inflation rate: -0.44%
+->accum: 90.57 try (in 12 months)
+
+=> ACCUM: 90.57 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 09-2006 => inflation rate: 1.29%
+14.month: 10-2006 => inflation rate: 1.27%
+15.month: 11-2006 => inflation rate: 1.29%
+16.month: 12-2006 => inflation rate: 0.23%
+17.month: 01-2007 => inflation rate: 1%
+18.month: 02-2007 => inflation rate: 0.43%
+19.month: 03-2007 => inflation rate: 0.92%
+20.month: 04-2007 => inflation rate: 1.21%
+21.month: 05-2007 => inflation rate: 0.5%
+22.month: 06-2007 => inflation rate: -0.24%
+23.month: 07-2007 => inflation rate: -0.73%
+24.month: 08-2007 => inflation rate: 0.02%
+->accum: 93.02 try (in 12 months)
+
+=> ACCUM: 84.23 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 09-2007 => inflation rate: 1.03%
+26.month: 10-2007 => inflation rate: 1.81%
+27.month: 11-2007 => inflation rate: 1.95%
+28.month: 12-2007 => inflation rate: 0.22%
+29.month: 01-2008 => inflation rate: 0.8%
+30.month: 02-2008 => inflation rate: 1.29%
+31.month: 03-2008 => inflation rate: 0.96%
+32.month: 04-2008 => inflation rate: 1.68%
+33.month: 05-2008 => inflation rate: 1.49%
+34.month: 06-2008 => inflation rate: -0.36%
+35.month: 07-2008 => inflation rate: 0.58%
+36.month: 08-2008 => inflation rate: -0.24%
+->accum: 89.31 try (in 12 months)
+
+=> ACCUM: 75.23 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 09-2008 => inflation rate: 0.45%
+38.month: 10-2008 => inflation rate: 2.6%
+39.month: 11-2008 => inflation rate: 0.83%
+40.month: 12-2008 => inflation rate: -0.41%
+41.month: 01-2009 => inflation rate: 0.29%
+42.month: 02-2009 => inflation rate: -0.34%
+43.month: 03-2009 => inflation rate: 1.1%
+44.month: 04-2009 => inflation rate: 0.02%
+45.month: 05-2009 => inflation rate: 0.64%
+46.month: 06-2009 => inflation rate: 0.11%
+47.month: 07-2009 => inflation rate: 0.25%
+48.month: 08-2009 => inflation rate: -0.3%
+->accum: 94.85 try (in 12 months)
+
+=> ACCUM: 71.35 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 09-2009 => inflation rate: 0.39%
+50.month: 10-2009 => inflation rate: 2.41%
+51.month: 11-2009 => inflation rate: 1.27%
+52.month: 12-2009 => inflation rate: 0.53%
+53.month: 01-2010 => inflation rate: 1.85%
+54.month: 02-2010 => inflation rate: 1.45%
+55.month: 03-2010 => inflation rate: 0.58%
+56.month: 04-2010 => inflation rate: 0.6%
+57.month: 05-2010 => inflation rate: -0.36%
+58.month: 06-2010 => inflation rate: -0.56%
+59.month: 07-2010 => inflation rate: -0.48%
+60.month: 08-2010 => inflation rate: 0.4%
+->accum: 92.16 try (in 12 months)
+
+=> ACCUM: 65.78 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 09-2010 => inflation rate: 1.23%
+62.month: 10-2010 => inflation rate: 1.83%
+63.month: 11-2010 => inflation rate: 0.03%
+64.month: 12-2010 => inflation rate: -0.3%
+65.month: 01-2011 => inflation rate: 0.41%
+66.month: 02-2011 => inflation rate: 0.73%
+67.month: 03-2011 => inflation rate: 0.42%
+68.month: 04-2011 => inflation rate: 0.87%
+69.month: 05-2011 => inflation rate: 2.42%
+70.month: 06-2011 => inflation rate: -1.43%
+71.month: 07-2011 => inflation rate: -0.41%
+72.month: 08-2011 => inflation rate: 0.73%
+->accum: 93.59 try (in 12 months)
+
+=> ACCUM: 61.57 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 09-2011 => inflation rate: 0.75%
+74.month: 10-2011 => inflation rate: 3.27%
+75.month: 11-2011 => inflation rate: 1.73%
+76.month: 12-2011 => inflation rate: 0.58%
+77.month: 01-2012 => inflation rate: 0.56%
+78.month: 02-2012 => inflation rate: 0.56%
+79.month: 03-2012 => inflation rate: 0.41%
+80.month: 04-2012 => inflation rate: 1.52%
+81.month: 05-2012 => inflation rate: -0.21%
+82.month: 06-2012 => inflation rate: -0.9%
+83.month: 07-2012 => inflation rate: -0.23%
+84.month: 08-2012 => inflation rate: 0.56%
+->accum: 91.66 try (in 12 months)
+
+=> ACCUM: 56.46 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 09-2012 => inflation rate: 1.03%
+86.month: 10-2012 => inflation rate: 1.96%
+87.month: 11-2012 => inflation rate: 0.38%
+88.month: 12-2012 => inflation rate: 0.38%
+89.month: 01-2013 => inflation rate: 1.65%
+90.month: 02-2013 => inflation rate: 0.3%
+91.month: 03-2013 => inflation rate: 0.66%
+92.month: 04-2013 => inflation rate: 0.42%
+93.month: 05-2013 => inflation rate: 0.15%
+94.month: 06-2013 => inflation rate: 0.76%
+95.month: 07-2013 => inflation rate: 0.31%
+96.month: 08-2013 => inflation rate: -0.1%
+->accum: 92.36 try (in 12 months)
+
+=> ACCUM: 52.14 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 09-2013 => inflation rate: 0.77%
+98.month: 10-2013 => inflation rate: 1.8%
+99.month: 11-2013 => inflation rate: 0.01%
+100.month: 12-2013 => inflation rate: 0.46%
+101.month: 01-2014 => inflation rate: 1.98%
+102.month: 02-2014 => inflation rate: 0.43%
+103.month: 03-2014 => inflation rate: 1.13%
+104.month: 04-2014 => inflation rate: 1.34%
+105.month: 05-2014 => inflation rate: 0.4%
+106.month: 06-2014 => inflation rate: 0.31%
+107.month: 07-2014 => inflation rate: 0.45%
+108.month: 08-2014 => inflation rate: 0.09%
+->accum: 91.18 try (in 12 months)
+
+=> ACCUM: 47.55 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 09-2014 => inflation rate: 0.14%
+110.month: 10-2014 => inflation rate: 1.9%
+111.month: 11-2014 => inflation rate: 0.18%
+112.month: 12-2014 => inflation rate: -0.44%
+113.month: 01-2015 => inflation rate: 1.1%
+114.month: 02-2015 => inflation rate: 0.71%
+115.month: 03-2015 => inflation rate: 1.19%
+116.month: 04-2015 => inflation rate: 1.63%
+117.month: 05-2015 => inflation rate: 0.56%
+118.month: 06-2015 => inflation rate: -0.51%
+119.month: 07-2015 => inflation rate: 0.09%
+120.month: 08-2015 => inflation rate: 0.4%
+->accum: 93.25 try (in 12 months)
+
+=> ACCUM: 44.33 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 09-2015 => inflation rate: 0.89%
+122.month: 10-2015 => inflation rate: 1.55%
+123.month: 11-2015 => inflation rate: 0.67%
+124.month: 12-2015 => inflation rate: 0.21%
+125.month: 01-2016 => inflation rate: 1.82%
+126.month: 02-2016 => inflation rate: -0.02%
+127.month: 03-2016 => inflation rate: -0.04%
+128.month: 04-2016 => inflation rate: 0.78%
+129.month: 05-2016 => inflation rate: 0.58%
+130.month: 06-2016 => inflation rate: 0.47%
+131.month: 07-2016 => inflation rate: 1.16%
+132.month: 08-2016 => inflation rate: -0.29%
+->accum: 92.48 try (in 12 months)
+
+=> ACCUM: 41 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 09-2016 => inflation rate: 0.18%
+134.month: 10-2016 => inflation rate: 1.44%
+135.month: 11-2016 => inflation rate: 0.52%
+136.month: 12-2016 => inflation rate: 1.64%
+137.month: 01-2017 => inflation rate: 2.46%
+138.month: 02-2017 => inflation rate: 0.81%
+139.month: 03-2017 => inflation rate: 1.02%
+140.month: 04-2017 => inflation rate: 1.31%
+141.month: 05-2017 => inflation rate: 0.45%
+142.month: 06-2017 => inflation rate: -0.27%
+143.month: 07-2017 => inflation rate: 0.15%
+144.month: 08-2017 => inflation rate: 0.52%
+->accum: 90.19 try (in 12 months)
+
+=> ACCUM: 36.98 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 09-2017 => inflation rate: 0.65%
+146.month: 10-2017 => inflation rate: 2.08%
+147.month: 11-2017 => inflation rate: 1.49%
+148.month: 12-2017 => inflation rate: 0.69%
+149.month: 01-2018 => inflation rate: 1.02%
+150.month: 02-2018 => inflation rate: 0.73%
+151.month: 03-2018 => inflation rate: 0.99%
+152.month: 04-2018 => inflation rate: 1.87%
+153.month: 05-2018 => inflation rate: 1.62%
+154.month: 06-2018 => inflation rate: 2.61%
+155.month: 07-2018 => inflation rate: 0.55%
+156.month: 08-2018 => inflation rate: 2.3%
+->accum: 84.58 try (in 12 months)
+
+=> ACCUM: 31.29 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 09-2018 => inflation rate: 6.3%
+158.month: 10-2018 => inflation rate: 2.67%
+159.month: 11-2018 => inflation rate: -1.44%
+160.month: 12-2018 => inflation rate: -0.4%
+161.month: 01-2019 => inflation rate: 1.06%
+162.month: 02-2019 => inflation rate: 0.16%
+163.month: 03-2019 => inflation rate: 1.03%
+164.month: 04-2019 => inflation rate: 1.69%
+165.month: 05-2019 => inflation rate: 0.95%
+166.month: 06-2019 => inflation rate: 0.03%
+167.month: 07-2019 => inflation rate: 1.36%
+168.month: 08-2019 => inflation rate: 0.86%
+->accum: 86.44 try (in 12 months)
+
+=> ACCUM: 27.04 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 09-2019 => inflation rate: 0.99%
+170.month: 10-2019 => inflation rate: 2%
+171.month: 11-2019 => inflation rate: 0.38%
+172.month: 12-2019 => inflation rate: 0.74%
+173.month: 01-2020 => inflation rate: 1.35%
+174.month: 02-2020 => inflation rate: 0.35%
+175.month: 03-2020 => inflation rate: 0.57%
+176.month: 04-2020 => inflation rate: 0.85%
+177.month: 05-2020 => inflation rate: 1.36%
+178.month: 06-2020 => inflation rate: 1.13%
+179.month: 07-2020 => inflation rate: 0.58%
+180.month: 08-2020 => inflation rate: 0.86%
+->accum: 89.36 try (in 12 months)
+
+=> ACCUM: 24.16 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 09-2020 => inflation rate: 0.97%
+182.month: 10-2020 => inflation rate: 2.13%
+183.month: 11-2020 => inflation rate: 2.3%
+184.month: 12-2020 => inflation rate: 1.25%
+185.month: 01-2021 => inflation rate: 1.68%
+186.month: 02-2021 => inflation rate: 0.91%
+187.month: 03-2021 => inflation rate: 1.08%
+188.month: 04-2021 => inflation rate: 1.68%
+189.month: 05-2021 => inflation rate: 0.89%
+190.month: 06-2021 => inflation rate: 1.94%
+191.month: 07-2021 => inflation rate: 1.8%
+192.month: 08-2021 => inflation rate: 1.12%
+->accum: 83.62 try (in 12 months)
+
+=> ACCUM: 20.2 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 09-2021 => inflation rate: 1.25%
+194.month: 10-2021 => inflation rate: 2.39%
+195.month: 11-2021 => inflation rate: 3.51%
+196.month: 12-2021 => inflation rate: 13.58%
+197.month: 01-2022 => inflation rate: 11.1%
+198.month: 02-2022 => inflation rate: 4.81%
+199.month: 03-2022 => inflation rate: 5.46%
+200.month: 04-2022 => inflation rate: 7.25%
+201.month: 05-2022 => inflation rate: 2.98%
+->accum: 57.87 try (in 9 months)
+
+=> ACCUM: 11.7 TRY (in 201 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 10-2005 #######
+
+[Group-01]
+
+1.month: 10-2005 => inflation rate: 1.79%
+2.month: 11-2005 => inflation rate: 1.4%
+3.month: 12-2005 => inflation rate: 0.42%
+4.month: 01-2006 => inflation rate: 0.75%
+5.month: 02-2006 => inflation rate: 0.22%
+6.month: 03-2006 => inflation rate: 0.27%
+7.month: 04-2006 => inflation rate: 1.34%
+8.month: 05-2006 => inflation rate: 1.88%
+9.month: 06-2006 => inflation rate: 0.34%
+10.month: 07-2006 => inflation rate: 0.85%
+11.month: 08-2006 => inflation rate: -0.44%
+12.month: 09-2006 => inflation rate: 1.29%
+->accum: 90.32 try (in 12 months)
+
+=> ACCUM: 90.32 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 10-2006 => inflation rate: 1.27%
+14.month: 11-2006 => inflation rate: 1.29%
+15.month: 12-2006 => inflation rate: 0.23%
+16.month: 01-2007 => inflation rate: 1%
+17.month: 02-2007 => inflation rate: 0.43%
+18.month: 03-2007 => inflation rate: 0.92%
+19.month: 04-2007 => inflation rate: 1.21%
+20.month: 05-2007 => inflation rate: 0.5%
+21.month: 06-2007 => inflation rate: -0.24%
+22.month: 07-2007 => inflation rate: -0.73%
+23.month: 08-2007 => inflation rate: 0.02%
+24.month: 09-2007 => inflation rate: 1.03%
+->accum: 93.27 try (in 12 months)
+
+=> ACCUM: 84.23 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 10-2007 => inflation rate: 1.81%
+26.month: 11-2007 => inflation rate: 1.95%
+27.month: 12-2007 => inflation rate: 0.22%
+28.month: 01-2008 => inflation rate: 0.8%
+29.month: 02-2008 => inflation rate: 1.29%
+30.month: 03-2008 => inflation rate: 0.96%
+31.month: 04-2008 => inflation rate: 1.68%
+32.month: 05-2008 => inflation rate: 1.49%
+33.month: 06-2008 => inflation rate: -0.36%
+34.month: 07-2008 => inflation rate: 0.58%
+35.month: 08-2008 => inflation rate: -0.24%
+36.month: 09-2008 => inflation rate: 0.45%
+->accum: 89.84 try (in 12 months)
+
+=> ACCUM: 75.67 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 10-2008 => inflation rate: 2.6%
+38.month: 11-2008 => inflation rate: 0.83%
+39.month: 12-2008 => inflation rate: -0.41%
+40.month: 01-2009 => inflation rate: 0.29%
+41.month: 02-2009 => inflation rate: -0.34%
+42.month: 03-2009 => inflation rate: 1.1%
+43.month: 04-2009 => inflation rate: 0.02%
+44.month: 05-2009 => inflation rate: 0.64%
+45.month: 06-2009 => inflation rate: 0.11%
+46.month: 07-2009 => inflation rate: 0.25%
+47.month: 08-2009 => inflation rate: -0.3%
+48.month: 09-2009 => inflation rate: 0.39%
+->accum: 94.91 try (in 12 months)
+
+=> ACCUM: 71.83 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 10-2009 => inflation rate: 2.41%
+50.month: 11-2009 => inflation rate: 1.27%
+51.month: 12-2009 => inflation rate: 0.53%
+52.month: 01-2010 => inflation rate: 1.85%
+53.month: 02-2010 => inflation rate: 1.45%
+54.month: 03-2010 => inflation rate: 0.58%
+55.month: 04-2010 => inflation rate: 0.6%
+56.month: 05-2010 => inflation rate: -0.36%
+57.month: 06-2010 => inflation rate: -0.56%
+58.month: 07-2010 => inflation rate: -0.48%
+59.month: 08-2010 => inflation rate: 0.4%
+60.month: 09-2010 => inflation rate: 1.23%
+->accum: 91.39 try (in 12 months)
+
+=> ACCUM: 65.64 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 10-2010 => inflation rate: 1.83%
+62.month: 11-2010 => inflation rate: 0.03%
+63.month: 12-2010 => inflation rate: -0.3%
+64.month: 01-2011 => inflation rate: 0.41%
+65.month: 02-2011 => inflation rate: 0.73%
+66.month: 03-2011 => inflation rate: 0.42%
+67.month: 04-2011 => inflation rate: 0.87%
+68.month: 05-2011 => inflation rate: 2.42%
+69.month: 06-2011 => inflation rate: -1.43%
+70.month: 07-2011 => inflation rate: -0.41%
+71.month: 08-2011 => inflation rate: 0.73%
+72.month: 09-2011 => inflation rate: 0.75%
+->accum: 94.06 try (in 12 months)
+
+=> ACCUM: 61.74 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 10-2011 => inflation rate: 3.27%
+74.month: 11-2011 => inflation rate: 1.73%
+75.month: 12-2011 => inflation rate: 0.58%
+76.month: 01-2012 => inflation rate: 0.56%
+77.month: 02-2012 => inflation rate: 0.56%
+78.month: 03-2012 => inflation rate: 0.41%
+79.month: 04-2012 => inflation rate: 1.52%
+80.month: 05-2012 => inflation rate: -0.21%
+81.month: 06-2012 => inflation rate: -0.9%
+82.month: 07-2012 => inflation rate: -0.23%
+83.month: 08-2012 => inflation rate: 0.56%
+84.month: 09-2012 => inflation rate: 1.03%
+->accum: 91.42 try (in 12 months)
+
+=> ACCUM: 56.44 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 10-2012 => inflation rate: 1.96%
+86.month: 11-2012 => inflation rate: 0.38%
+87.month: 12-2012 => inflation rate: 0.38%
+88.month: 01-2013 => inflation rate: 1.65%
+89.month: 02-2013 => inflation rate: 0.3%
+90.month: 03-2013 => inflation rate: 0.66%
+91.month: 04-2013 => inflation rate: 0.42%
+92.month: 05-2013 => inflation rate: 0.15%
+93.month: 06-2013 => inflation rate: 0.76%
+94.month: 07-2013 => inflation rate: 0.31%
+95.month: 08-2013 => inflation rate: -0.1%
+96.month: 09-2013 => inflation rate: 0.77%
+->accum: 92.59 try (in 12 months)
+
+=> ACCUM: 52.26 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 10-2013 => inflation rate: 1.8%
+98.month: 11-2013 => inflation rate: 0.01%
+99.month: 12-2013 => inflation rate: 0.46%
+100.month: 01-2014 => inflation rate: 1.98%
+101.month: 02-2014 => inflation rate: 0.43%
+102.month: 03-2014 => inflation rate: 1.13%
+103.month: 04-2014 => inflation rate: 1.34%
+104.month: 05-2014 => inflation rate: 0.4%
+105.month: 06-2014 => inflation rate: 0.31%
+106.month: 07-2014 => inflation rate: 0.45%
+107.month: 08-2014 => inflation rate: 0.09%
+108.month: 09-2014 => inflation rate: 0.14%
+->accum: 91.76 try (in 12 months)
+
+=> ACCUM: 47.95 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 10-2014 => inflation rate: 1.9%
+110.month: 11-2014 => inflation rate: 0.18%
+111.month: 12-2014 => inflation rate: -0.44%
+112.month: 01-2015 => inflation rate: 1.1%
+113.month: 02-2015 => inflation rate: 0.71%
+114.month: 03-2015 => inflation rate: 1.19%
+115.month: 04-2015 => inflation rate: 1.63%
+116.month: 05-2015 => inflation rate: 0.56%
+117.month: 06-2015 => inflation rate: -0.51%
+118.month: 07-2015 => inflation rate: 0.09%
+119.month: 08-2015 => inflation rate: 0.4%
+120.month: 09-2015 => inflation rate: 0.89%
+->accum: 92.54 try (in 12 months)
+
+=> ACCUM: 44.38 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 10-2015 => inflation rate: 1.55%
+122.month: 11-2015 => inflation rate: 0.67%
+123.month: 12-2015 => inflation rate: 0.21%
+124.month: 01-2016 => inflation rate: 1.82%
+125.month: 02-2016 => inflation rate: -0.02%
+126.month: 03-2016 => inflation rate: -0.04%
+127.month: 04-2016 => inflation rate: 0.78%
+128.month: 05-2016 => inflation rate: 0.58%
+129.month: 06-2016 => inflation rate: 0.47%
+130.month: 07-2016 => inflation rate: 1.16%
+131.month: 08-2016 => inflation rate: -0.29%
+132.month: 09-2016 => inflation rate: 0.18%
+->accum: 93.13 try (in 12 months)
+
+=> ACCUM: 41.35 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 10-2016 => inflation rate: 1.44%
+134.month: 11-2016 => inflation rate: 0.52%
+135.month: 12-2016 => inflation rate: 1.64%
+136.month: 01-2017 => inflation rate: 2.46%
+137.month: 02-2017 => inflation rate: 0.81%
+138.month: 03-2017 => inflation rate: 1.02%
+139.month: 04-2017 => inflation rate: 1.31%
+140.month: 05-2017 => inflation rate: 0.45%
+141.month: 06-2017 => inflation rate: -0.27%
+142.month: 07-2017 => inflation rate: 0.15%
+143.month: 08-2017 => inflation rate: 0.52%
+144.month: 09-2017 => inflation rate: 0.65%
+->accum: 89.78 try (in 12 months)
+
+=> ACCUM: 37.12 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 10-2017 => inflation rate: 2.08%
+146.month: 11-2017 => inflation rate: 1.49%
+147.month: 12-2017 => inflation rate: 0.69%
+148.month: 01-2018 => inflation rate: 1.02%
+149.month: 02-2018 => inflation rate: 0.73%
+150.month: 03-2018 => inflation rate: 0.99%
+151.month: 04-2018 => inflation rate: 1.87%
+152.month: 05-2018 => inflation rate: 1.62%
+153.month: 06-2018 => inflation rate: 2.61%
+154.month: 07-2018 => inflation rate: 0.55%
+155.month: 08-2018 => inflation rate: 2.3%
+156.month: 09-2018 => inflation rate: 6.3%
+->accum: 79.78 try (in 12 months)
+
+=> ACCUM: 29.61 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 10-2018 => inflation rate: 2.67%
+158.month: 11-2018 => inflation rate: -1.44%
+159.month: 12-2018 => inflation rate: -0.4%
+160.month: 01-2019 => inflation rate: 1.06%
+161.month: 02-2019 => inflation rate: 0.16%
+162.month: 03-2019 => inflation rate: 1.03%
+163.month: 04-2019 => inflation rate: 1.69%
+164.month: 05-2019 => inflation rate: 0.95%
+165.month: 06-2019 => inflation rate: 0.03%
+166.month: 07-2019 => inflation rate: 1.36%
+167.month: 08-2019 => inflation rate: 0.86%
+168.month: 09-2019 => inflation rate: 0.99%
+->accum: 91.34 try (in 12 months)
+
+=> ACCUM: 27.04 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 10-2019 => inflation rate: 2%
+170.month: 11-2019 => inflation rate: 0.38%
+171.month: 12-2019 => inflation rate: 0.74%
+172.month: 01-2020 => inflation rate: 1.35%
+173.month: 02-2020 => inflation rate: 0.35%
+174.month: 03-2020 => inflation rate: 0.57%
+175.month: 04-2020 => inflation rate: 0.85%
+176.month: 05-2020 => inflation rate: 1.36%
+177.month: 06-2020 => inflation rate: 1.13%
+178.month: 07-2020 => inflation rate: 0.58%
+179.month: 08-2020 => inflation rate: 0.86%
+180.month: 09-2020 => inflation rate: 0.97%
+->accum: 89.4 try (in 12 months)
+
+=> ACCUM: 24.17 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 10-2020 => inflation rate: 2.13%
+182.month: 11-2020 => inflation rate: 2.3%
+183.month: 12-2020 => inflation rate: 1.25%
+184.month: 01-2021 => inflation rate: 1.68%
+185.month: 02-2021 => inflation rate: 0.91%
+186.month: 03-2021 => inflation rate: 1.08%
+187.month: 04-2021 => inflation rate: 1.68%
+188.month: 05-2021 => inflation rate: 0.89%
+189.month: 06-2021 => inflation rate: 1.94%
+190.month: 07-2021 => inflation rate: 1.8%
+191.month: 08-2021 => inflation rate: 1.12%
+192.month: 09-2021 => inflation rate: 1.25%
+->accum: 83.36 try (in 12 months)
+
+=> ACCUM: 20.16 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 10-2021 => inflation rate: 2.39%
+194.month: 11-2021 => inflation rate: 3.51%
+195.month: 12-2021 => inflation rate: 13.58%
+196.month: 01-2022 => inflation rate: 11.1%
+197.month: 02-2022 => inflation rate: 4.81%
+198.month: 03-2022 => inflation rate: 5.46%
+199.month: 04-2022 => inflation rate: 7.25%
+200.month: 05-2022 => inflation rate: 2.98%
+->accum: 58.6 try (in 8 months)
+
+=> ACCUM: 11.82 TRY (in 200 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 11-2005 #######
+
+[Group-01]
+
+1.month: 11-2005 => inflation rate: 1.4%
+2.month: 12-2005 => inflation rate: 0.42%
+3.month: 01-2006 => inflation rate: 0.75%
+4.month: 02-2006 => inflation rate: 0.22%
+5.month: 03-2006 => inflation rate: 0.27%
+6.month: 04-2006 => inflation rate: 1.34%
+7.month: 05-2006 => inflation rate: 1.88%
+8.month: 06-2006 => inflation rate: 0.34%
+9.month: 07-2006 => inflation rate: 0.85%
+10.month: 08-2006 => inflation rate: -0.44%
+11.month: 09-2006 => inflation rate: 1.29%
+12.month: 10-2006 => inflation rate: 1.27%
+->accum: 90.8 try (in 12 months)
+
+=> ACCUM: 90.8 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 11-2006 => inflation rate: 1.29%
+14.month: 12-2006 => inflation rate: 0.23%
+15.month: 01-2007 => inflation rate: 1%
+16.month: 02-2007 => inflation rate: 0.43%
+17.month: 03-2007 => inflation rate: 0.92%
+18.month: 04-2007 => inflation rate: 1.21%
+19.month: 05-2007 => inflation rate: 0.5%
+20.month: 06-2007 => inflation rate: -0.24%
+21.month: 07-2007 => inflation rate: -0.73%
+22.month: 08-2007 => inflation rate: 0.02%
+23.month: 09-2007 => inflation rate: 1.03%
+24.month: 10-2007 => inflation rate: 1.81%
+->accum: 92.76 try (in 12 months)
+
+=> ACCUM: 84.23 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 11-2007 => inflation rate: 1.95%
+26.month: 12-2007 => inflation rate: 0.22%
+27.month: 01-2008 => inflation rate: 0.8%
+28.month: 02-2008 => inflation rate: 1.29%
+29.month: 03-2008 => inflation rate: 0.96%
+30.month: 04-2008 => inflation rate: 1.68%
+31.month: 05-2008 => inflation rate: 1.49%
+32.month: 06-2008 => inflation rate: -0.36%
+33.month: 07-2008 => inflation rate: 0.58%
+34.month: 08-2008 => inflation rate: -0.24%
+35.month: 09-2008 => inflation rate: 0.45%
+36.month: 10-2008 => inflation rate: 2.6%
+->accum: 89.13 try (in 12 months)
+
+=> ACCUM: 75.09 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 11-2008 => inflation rate: 0.83%
+38.month: 12-2008 => inflation rate: -0.41%
+39.month: 01-2009 => inflation rate: 0.29%
+40.month: 02-2009 => inflation rate: -0.34%
+41.month: 03-2009 => inflation rate: 1.1%
+42.month: 04-2009 => inflation rate: 0.02%
+43.month: 05-2009 => inflation rate: 0.64%
+44.month: 06-2009 => inflation rate: 0.11%
+45.month: 07-2009 => inflation rate: 0.25%
+46.month: 08-2009 => inflation rate: -0.3%
+47.month: 09-2009 => inflation rate: 0.39%
+48.month: 10-2009 => inflation rate: 2.41%
+->accum: 95.09 try (in 12 months)
+
+=> ACCUM: 71.42 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 11-2009 => inflation rate: 1.27%
+50.month: 12-2009 => inflation rate: 0.53%
+51.month: 01-2010 => inflation rate: 1.85%
+52.month: 02-2010 => inflation rate: 1.45%
+53.month: 03-2010 => inflation rate: 0.58%
+54.month: 04-2010 => inflation rate: 0.6%
+55.month: 05-2010 => inflation rate: -0.36%
+56.month: 06-2010 => inflation rate: -0.56%
+57.month: 07-2010 => inflation rate: -0.48%
+58.month: 08-2010 => inflation rate: 0.4%
+59.month: 09-2010 => inflation rate: 1.23%
+60.month: 10-2010 => inflation rate: 1.83%
+->accum: 91.93 try (in 12 months)
+
+=> ACCUM: 65.67 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 11-2010 => inflation rate: 0.03%
+62.month: 12-2010 => inflation rate: -0.3%
+63.month: 01-2011 => inflation rate: 0.41%
+64.month: 02-2011 => inflation rate: 0.73%
+65.month: 03-2011 => inflation rate: 0.42%
+66.month: 04-2011 => inflation rate: 0.87%
+67.month: 05-2011 => inflation rate: 2.42%
+68.month: 06-2011 => inflation rate: -1.43%
+69.month: 07-2011 => inflation rate: -0.41%
+70.month: 08-2011 => inflation rate: 0.73%
+71.month: 09-2011 => inflation rate: 0.75%
+72.month: 10-2011 => inflation rate: 3.27%
+->accum: 92.69 try (in 12 months)
+
+=> ACCUM: 60.86 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 11-2011 => inflation rate: 1.73%
+74.month: 12-2011 => inflation rate: 0.58%
+75.month: 01-2012 => inflation rate: 0.56%
+76.month: 02-2012 => inflation rate: 0.56%
+77.month: 03-2012 => inflation rate: 0.41%
+78.month: 04-2012 => inflation rate: 1.52%
+79.month: 05-2012 => inflation rate: -0.21%
+80.month: 06-2012 => inflation rate: -0.9%
+81.month: 07-2012 => inflation rate: -0.23%
+82.month: 08-2012 => inflation rate: 0.56%
+83.month: 09-2012 => inflation rate: 1.03%
+84.month: 10-2012 => inflation rate: 1.96%
+->accum: 92.65 try (in 12 months)
+
+=> ACCUM: 56.38 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 11-2012 => inflation rate: 0.38%
+86.month: 12-2012 => inflation rate: 0.38%
+87.month: 01-2013 => inflation rate: 1.65%
+88.month: 02-2013 => inflation rate: 0.3%
+89.month: 03-2013 => inflation rate: 0.66%
+90.month: 04-2013 => inflation rate: 0.42%
+91.month: 05-2013 => inflation rate: 0.15%
+92.month: 06-2013 => inflation rate: 0.76%
+93.month: 07-2013 => inflation rate: 0.31%
+94.month: 08-2013 => inflation rate: -0.1%
+95.month: 09-2013 => inflation rate: 0.77%
+96.month: 10-2013 => inflation rate: 1.8%
+->accum: 92.76 try (in 12 months)
+
+=> ACCUM: 52.3 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 11-2013 => inflation rate: 0.01%
+98.month: 12-2013 => inflation rate: 0.46%
+99.month: 01-2014 => inflation rate: 1.98%
+100.month: 02-2014 => inflation rate: 0.43%
+101.month: 03-2014 => inflation rate: 1.13%
+102.month: 04-2014 => inflation rate: 1.34%
+103.month: 05-2014 => inflation rate: 0.4%
+104.month: 06-2014 => inflation rate: 0.31%
+105.month: 07-2014 => inflation rate: 0.45%
+106.month: 08-2014 => inflation rate: 0.09%
+107.month: 09-2014 => inflation rate: 0.14%
+108.month: 10-2014 => inflation rate: 1.9%
+->accum: 91.67 try (in 12 months)
+
+=> ACCUM: 47.95 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 11-2014 => inflation rate: 0.18%
+110.month: 12-2014 => inflation rate: -0.44%
+111.month: 01-2015 => inflation rate: 1.1%
+112.month: 02-2015 => inflation rate: 0.71%
+113.month: 03-2015 => inflation rate: 1.19%
+114.month: 04-2015 => inflation rate: 1.63%
+115.month: 05-2015 => inflation rate: 0.56%
+116.month: 06-2015 => inflation rate: -0.51%
+117.month: 07-2015 => inflation rate: 0.09%
+118.month: 08-2015 => inflation rate: 0.4%
+119.month: 09-2015 => inflation rate: 0.89%
+120.month: 10-2015 => inflation rate: 1.55%
+->accum: 92.87 try (in 12 months)
+
+=> ACCUM: 44.52 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 11-2015 => inflation rate: 0.67%
+122.month: 12-2015 => inflation rate: 0.21%
+123.month: 01-2016 => inflation rate: 1.82%
+124.month: 02-2016 => inflation rate: -0.02%
+125.month: 03-2016 => inflation rate: -0.04%
+126.month: 04-2016 => inflation rate: 0.78%
+127.month: 05-2016 => inflation rate: 0.58%
+128.month: 06-2016 => inflation rate: 0.47%
+129.month: 07-2016 => inflation rate: 1.16%
+130.month: 08-2016 => inflation rate: -0.29%
+131.month: 09-2016 => inflation rate: 0.18%
+132.month: 10-2016 => inflation rate: 1.44%
+->accum: 93.24 try (in 12 months)
+
+=> ACCUM: 41.51 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 11-2016 => inflation rate: 0.52%
+134.month: 12-2016 => inflation rate: 1.64%
+135.month: 01-2017 => inflation rate: 2.46%
+136.month: 02-2017 => inflation rate: 0.81%
+137.month: 03-2017 => inflation rate: 1.02%
+138.month: 04-2017 => inflation rate: 1.31%
+139.month: 05-2017 => inflation rate: 0.45%
+140.month: 06-2017 => inflation rate: -0.27%
+141.month: 07-2017 => inflation rate: 0.15%
+142.month: 08-2017 => inflation rate: 0.52%
+143.month: 09-2017 => inflation rate: 0.65%
+144.month: 10-2017 => inflation rate: 2.08%
+->accum: 89.19 try (in 12 months)
+
+=> ACCUM: 37.01 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 11-2017 => inflation rate: 1.49%
+146.month: 12-2017 => inflation rate: 0.69%
+147.month: 01-2018 => inflation rate: 1.02%
+148.month: 02-2018 => inflation rate: 0.73%
+149.month: 03-2018 => inflation rate: 0.99%
+150.month: 04-2018 => inflation rate: 1.87%
+151.month: 05-2018 => inflation rate: 1.62%
+152.month: 06-2018 => inflation rate: 2.61%
+153.month: 07-2018 => inflation rate: 0.55%
+154.month: 08-2018 => inflation rate: 2.3%
+155.month: 09-2018 => inflation rate: 6.3%
+156.month: 10-2018 => inflation rate: 2.67%
+->accum: 79.29 try (in 12 months)
+
+=> ACCUM: 29.34 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 11-2018 => inflation rate: -1.44%
+158.month: 12-2018 => inflation rate: -0.4%
+159.month: 01-2019 => inflation rate: 1.06%
+160.month: 02-2019 => inflation rate: 0.16%
+161.month: 03-2019 => inflation rate: 1.03%
+162.month: 04-2019 => inflation rate: 1.69%
+163.month: 05-2019 => inflation rate: 0.95%
+164.month: 06-2019 => inflation rate: 0.03%
+165.month: 07-2019 => inflation rate: 1.36%
+166.month: 08-2019 => inflation rate: 0.86%
+167.month: 09-2019 => inflation rate: 0.99%
+168.month: 10-2019 => inflation rate: 2%
+->accum: 91.97 try (in 12 months)
+
+=> ACCUM: 26.98 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 11-2019 => inflation rate: 0.38%
+170.month: 12-2019 => inflation rate: 0.74%
+171.month: 01-2020 => inflation rate: 1.35%
+172.month: 02-2020 => inflation rate: 0.35%
+173.month: 03-2020 => inflation rate: 0.57%
+174.month: 04-2020 => inflation rate: 0.85%
+175.month: 05-2020 => inflation rate: 1.36%
+176.month: 06-2020 => inflation rate: 1.13%
+177.month: 07-2020 => inflation rate: 0.58%
+178.month: 08-2020 => inflation rate: 0.86%
+179.month: 09-2020 => inflation rate: 0.97%
+180.month: 10-2020 => inflation rate: 2.13%
+->accum: 89.3 try (in 12 months)
+
+=> ACCUM: 24.09 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 11-2020 => inflation rate: 2.3%
+182.month: 12-2020 => inflation rate: 1.25%
+183.month: 01-2021 => inflation rate: 1.68%
+184.month: 02-2021 => inflation rate: 0.91%
+185.month: 03-2021 => inflation rate: 1.08%
+186.month: 04-2021 => inflation rate: 1.68%
+187.month: 05-2021 => inflation rate: 0.89%
+188.month: 06-2021 => inflation rate: 1.94%
+189.month: 07-2021 => inflation rate: 1.8%
+190.month: 08-2021 => inflation rate: 1.12%
+191.month: 09-2021 => inflation rate: 1.25%
+192.month: 10-2021 => inflation rate: 2.39%
+->accum: 83.15 try (in 12 months)
+
+=> ACCUM: 20.03 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 11-2021 => inflation rate: 3.51%
+194.month: 12-2021 => inflation rate: 13.58%
+195.month: 01-2022 => inflation rate: 11.1%
+196.month: 02-2022 => inflation rate: 4.81%
+197.month: 03-2022 => inflation rate: 5.46%
+198.month: 04-2022 => inflation rate: 7.25%
+199.month: 05-2022 => inflation rate: 2.98%
+->accum: 60.03 try (in 7 months)
+
+=> ACCUM: 12.03 TRY (in 199 MONTHS)
+
+_____________________________________
+
+
+####### GROUP_SIZE: 12; START_MONTH: 12-2005 #######
+
+[Group-01]
+
+1.month: 12-2005 => inflation rate: 0.42%
+2.month: 01-2006 => inflation rate: 0.75%
+3.month: 02-2006 => inflation rate: 0.22%
+4.month: 03-2006 => inflation rate: 0.27%
+5.month: 04-2006 => inflation rate: 1.34%
+6.month: 05-2006 => inflation rate: 1.88%
+7.month: 06-2006 => inflation rate: 0.34%
+8.month: 07-2006 => inflation rate: 0.85%
+9.month: 08-2006 => inflation rate: -0.44%
+10.month: 09-2006 => inflation rate: 1.29%
+11.month: 10-2006 => inflation rate: 1.27%
+12.month: 11-2006 => inflation rate: 1.29%
+->accum: 90.89 try (in 12 months)
+
+=> ACCUM: 90.89 TRY (in 12 MONTHS)
+
+_____________________________________
+
+[Group-02]
+
+13.month: 12-2006 => inflation rate: 0.23%
+14.month: 01-2007 => inflation rate: 1%
+15.month: 02-2007 => inflation rate: 0.43%
+16.month: 03-2007 => inflation rate: 0.92%
+17.month: 04-2007 => inflation rate: 1.21%
+18.month: 05-2007 => inflation rate: 0.5%
+19.month: 06-2007 => inflation rate: -0.24%
+20.month: 07-2007 => inflation rate: -0.73%
+21.month: 08-2007 => inflation rate: 0.02%
+22.month: 09-2007 => inflation rate: 1.03%
+23.month: 10-2007 => inflation rate: 1.81%
+24.month: 11-2007 => inflation rate: 1.95%
+->accum: 92.14 try (in 12 months)
+
+=> ACCUM: 83.73 TRY (in 24 MONTHS)
+
+_____________________________________
+
+[Group-03]
+
+25.month: 12-2007 => inflation rate: 0.22%
+26.month: 01-2008 => inflation rate: 0.8%
+27.month: 02-2008 => inflation rate: 1.29%
+28.month: 03-2008 => inflation rate: 0.96%
+29.month: 04-2008 => inflation rate: 1.68%
+30.month: 05-2008 => inflation rate: 1.49%
+31.month: 06-2008 => inflation rate: -0.36%
+32.month: 07-2008 => inflation rate: 0.58%
+33.month: 08-2008 => inflation rate: -0.24%
+34.month: 09-2008 => inflation rate: 0.45%
+35.month: 10-2008 => inflation rate: 2.6%
+36.month: 11-2008 => inflation rate: 0.83%
+->accum: 90.12 try (in 12 months)
+
+=> ACCUM: 75.47 TRY (in 36 MONTHS)
+
+_____________________________________
+
+[Group-04]
+
+37.month: 12-2008 => inflation rate: -0.41%
+38.month: 01-2009 => inflation rate: 0.29%
+39.month: 02-2009 => inflation rate: -0.34%
+40.month: 03-2009 => inflation rate: 1.1%
+41.month: 04-2009 => inflation rate: 0.02%
+42.month: 05-2009 => inflation rate: 0.64%
+43.month: 06-2009 => inflation rate: 0.11%
+44.month: 07-2009 => inflation rate: 0.25%
+45.month: 08-2009 => inflation rate: -0.3%
+46.month: 09-2009 => inflation rate: 0.39%
+47.month: 10-2009 => inflation rate: 2.41%
+48.month: 11-2009 => inflation rate: 1.27%
+->accum: 94.65 try (in 12 months)
+
+=> ACCUM: 71.45 TRY (in 48 MONTHS)
+
+_____________________________________
+
+[Group-05]
+
+49.month: 12-2009 => inflation rate: 0.53%
+50.month: 01-2010 => inflation rate: 1.85%
+51.month: 02-2010 => inflation rate: 1.45%
+52.month: 03-2010 => inflation rate: 0.58%
+53.month: 04-2010 => inflation rate: 0.6%
+54.month: 05-2010 => inflation rate: -0.36%
+55.month: 06-2010 => inflation rate: -0.56%
+56.month: 07-2010 => inflation rate: -0.48%
+57.month: 08-2010 => inflation rate: 0.4%
+58.month: 09-2010 => inflation rate: 1.23%
+59.month: 10-2010 => inflation rate: 1.83%
+60.month: 11-2010 => inflation rate: 0.03%
+->accum: 93.07 try (in 12 months)
+
+=> ACCUM: 66.51 TRY (in 60 MONTHS)
+
+_____________________________________
+
+[Group-06]
+
+61.month: 12-2010 => inflation rate: -0.3%
+62.month: 01-2011 => inflation rate: 0.41%
+63.month: 02-2011 => inflation rate: 0.73%
+64.month: 03-2011 => inflation rate: 0.42%
+65.month: 04-2011 => inflation rate: 0.87%
+66.month: 05-2011 => inflation rate: 2.42%
+67.month: 06-2011 => inflation rate: -1.43%
+68.month: 07-2011 => inflation rate: -0.41%
+69.month: 08-2011 => inflation rate: 0.73%
+70.month: 09-2011 => inflation rate: 0.75%
+71.month: 10-2011 => inflation rate: 3.27%
+72.month: 11-2011 => inflation rate: 1.73%
+->accum: 91.12 try (in 12 months)
+
+=> ACCUM: 60.59 TRY (in 72 MONTHS)
+
+_____________________________________
+
+[Group-07]
+
+73.month: 12-2011 => inflation rate: 0.58%
+74.month: 01-2012 => inflation rate: 0.56%
+75.month: 02-2012 => inflation rate: 0.56%
+76.month: 03-2012 => inflation rate: 0.41%
+77.month: 04-2012 => inflation rate: 1.52%
+78.month: 05-2012 => inflation rate: -0.21%
+79.month: 06-2012 => inflation rate: -0.9%
+80.month: 07-2012 => inflation rate: -0.23%
+81.month: 08-2012 => inflation rate: 0.56%
+82.month: 09-2012 => inflation rate: 1.03%
+83.month: 10-2012 => inflation rate: 1.96%
+84.month: 11-2012 => inflation rate: 0.38%
+->accum: 93.92 try (in 12 months)
+
+=> ACCUM: 56.91 TRY (in 84 MONTHS)
+
+_____________________________________
+
+[Group-08]
+
+85.month: 12-2012 => inflation rate: 0.38%
+86.month: 01-2013 => inflation rate: 1.65%
+87.month: 02-2013 => inflation rate: 0.3%
+88.month: 03-2013 => inflation rate: 0.66%
+89.month: 04-2013 => inflation rate: 0.42%
+90.month: 05-2013 => inflation rate: 0.15%
+91.month: 06-2013 => inflation rate: 0.76%
+92.month: 07-2013 => inflation rate: 0.31%
+93.month: 08-2013 => inflation rate: -0.1%
+94.month: 09-2013 => inflation rate: 0.77%
+95.month: 10-2013 => inflation rate: 1.8%
+96.month: 11-2013 => inflation rate: 0.01%
+->accum: 93.11 try (in 12 months)
+
+=> ACCUM: 52.96 TRY (in 96 MONTHS)
+
+_____________________________________
+
+[Group-09]
+
+97.month: 12-2013 => inflation rate: 0.46%
+98.month: 01-2014 => inflation rate: 1.98%
+99.month: 02-2014 => inflation rate: 0.43%
+100.month: 03-2014 => inflation rate: 1.13%
+101.month: 04-2014 => inflation rate: 1.34%
+102.month: 05-2014 => inflation rate: 0.4%
+103.month: 06-2014 => inflation rate: 0.31%
+104.month: 07-2014 => inflation rate: 0.45%
+105.month: 08-2014 => inflation rate: 0.09%
+106.month: 09-2014 => inflation rate: 0.14%
+107.month: 10-2014 => inflation rate: 1.9%
+108.month: 11-2014 => inflation rate: 0.18%
+->accum: 91.51 try (in 12 months)
+
+=> ACCUM: 48.48 TRY (in 108 MONTHS)
+
+_____________________________________
+
+[Group-10]
+
+109.month: 12-2014 => inflation rate: -0.44%
+110.month: 01-2015 => inflation rate: 1.1%
+111.month: 02-2015 => inflation rate: 0.71%
+112.month: 03-2015 => inflation rate: 1.19%
+113.month: 04-2015 => inflation rate: 1.63%
+114.month: 05-2015 => inflation rate: 0.56%
+115.month: 06-2015 => inflation rate: -0.51%
+116.month: 07-2015 => inflation rate: 0.09%
+117.month: 08-2015 => inflation rate: 0.4%
+118.month: 09-2015 => inflation rate: 0.89%
+119.month: 10-2015 => inflation rate: 1.55%
+120.month: 11-2015 => inflation rate: 0.67%
+->accum: 92.42 try (in 12 months)
+
+=> ACCUM: 44.8 TRY (in 120 MONTHS)
+
+_____________________________________
+
+[Group-11]
+
+121.month: 12-2015 => inflation rate: 0.21%
+122.month: 01-2016 => inflation rate: 1.82%
+123.month: 02-2016 => inflation rate: -0.02%
+124.month: 03-2016 => inflation rate: -0.04%
+125.month: 04-2016 => inflation rate: 0.78%
+126.month: 05-2016 => inflation rate: 0.58%
+127.month: 06-2016 => inflation rate: 0.47%
+128.month: 07-2016 => inflation rate: 1.16%
+129.month: 08-2016 => inflation rate: -0.29%
+130.month: 09-2016 => inflation rate: 0.18%
+131.month: 10-2016 => inflation rate: 1.44%
+132.month: 11-2016 => inflation rate: 0.52%
+->accum: 93.39 try (in 12 months)
+
+=> ACCUM: 41.85 TRY (in 132 MONTHS)
+
+_____________________________________
+
+[Group-12]
+
+133.month: 12-2016 => inflation rate: 1.64%
+134.month: 01-2017 => inflation rate: 2.46%
+135.month: 02-2017 => inflation rate: 0.81%
+136.month: 03-2017 => inflation rate: 1.02%
+137.month: 04-2017 => inflation rate: 1.31%
+138.month: 05-2017 => inflation rate: 0.45%
+139.month: 06-2017 => inflation rate: -0.27%
+140.month: 07-2017 => inflation rate: 0.15%
+141.month: 08-2017 => inflation rate: 0.52%
+142.month: 09-2017 => inflation rate: 0.65%
+143.month: 10-2017 => inflation rate: 2.08%
+144.month: 11-2017 => inflation rate: 1.49%
+->accum: 88.33 try (in 12 months)
+
+=> ACCUM: 36.94 TRY (in 144 MONTHS)
+
+_____________________________________
+
+[Group-13]
+
+145.month: 12-2017 => inflation rate: 0.69%
+146.month: 01-2018 => inflation rate: 1.02%
+147.month: 02-2018 => inflation rate: 0.73%
+148.month: 03-2018 => inflation rate: 0.99%
+149.month: 04-2018 => inflation rate: 1.87%
+150.month: 05-2018 => inflation rate: 1.62%
+151.month: 06-2018 => inflation rate: 2.61%
+152.month: 07-2018 => inflation rate: 0.55%
+153.month: 08-2018 => inflation rate: 2.3%
+154.month: 09-2018 => inflation rate: 6.3%
+155.month: 10-2018 => inflation rate: 2.67%
+156.month: 11-2018 => inflation rate: -1.44%
+->accum: 81.64 try (in 12 months)
+
+=> ACCUM: 30.16 TRY (in 156 MONTHS)
+
+_____________________________________
+
+[Group-14]
+
+157.month: 12-2018 => inflation rate: -0.4%
+158.month: 01-2019 => inflation rate: 1.06%
+159.month: 02-2019 => inflation rate: 0.16%
+160.month: 03-2019 => inflation rate: 1.03%
+161.month: 04-2019 => inflation rate: 1.69%
+162.month: 05-2019 => inflation rate: 0.95%
+163.month: 06-2019 => inflation rate: 0.03%
+164.month: 07-2019 => inflation rate: 1.36%
+165.month: 08-2019 => inflation rate: 0.86%
+166.month: 09-2019 => inflation rate: 0.99%
+167.month: 10-2019 => inflation rate: 2%
+168.month: 11-2019 => inflation rate: 0.38%
+->accum: 90.32 try (in 12 months)
+
+=> ACCUM: 27.24 TRY (in 168 MONTHS)
+
+_____________________________________
+
+[Group-15]
+
+169.month: 12-2019 => inflation rate: 0.74%
+170.month: 01-2020 => inflation rate: 1.35%
+171.month: 02-2020 => inflation rate: 0.35%
+172.month: 03-2020 => inflation rate: 0.57%
+173.month: 04-2020 => inflation rate: 0.85%
+174.month: 05-2020 => inflation rate: 1.36%
+175.month: 06-2020 => inflation rate: 1.13%
+176.month: 07-2020 => inflation rate: 0.58%
+177.month: 08-2020 => inflation rate: 0.86%
+178.month: 09-2020 => inflation rate: 0.97%
+179.month: 10-2020 => inflation rate: 2.13%
+180.month: 11-2020 => inflation rate: 2.3%
+->accum: 87.57 try (in 12 months)
+
+=> ACCUM: 23.86 TRY (in 180 MONTHS)
+
+_____________________________________
+
+[Group-16]
+
+181.month: 12-2020 => inflation rate: 1.25%
+182.month: 01-2021 => inflation rate: 1.68%
+183.month: 02-2021 => inflation rate: 0.91%
+184.month: 03-2021 => inflation rate: 1.08%
+185.month: 04-2021 => inflation rate: 1.68%
+186.month: 05-2021 => inflation rate: 0.89%
+187.month: 06-2021 => inflation rate: 1.94%
+188.month: 07-2021 => inflation rate: 1.8%
+189.month: 08-2021 => inflation rate: 1.12%
+190.month: 09-2021 => inflation rate: 1.25%
+191.month: 10-2021 => inflation rate: 2.39%
+192.month: 11-2021 => inflation rate: 3.51%
+->accum: 82.13 try (in 12 months)
+
+=> ACCUM: 19.59 TRY (in 192 MONTHS)
+
+_____________________________________
+
+[Group-17]
+
+193.month: 12-2021 => inflation rate: 13.58%
+194.month: 01-2022 => inflation rate: 11.1%
+195.month: 02-2022 => inflation rate: 4.81%
+196.month: 03-2022 => inflation rate: 5.46%
+197.month: 04-2022 => inflation rate: 7.25%
+198.month: 05-2022 => inflation rate: 2.98%
+->accum: 62.22 try (in 6 months)
+
+=> ACCUM: 12.2 TRY (in 198 MONTHS)
+
+_____________________________________
+
